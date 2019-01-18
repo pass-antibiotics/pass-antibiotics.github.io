@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 passteam:
-  name:              PASS team
+  name:              PASS Team
   email:
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -13,8 +13,8 @@ passteam:
 #    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
   # This photo will be used in the about section
-#  picture:
-#    path:            /assets/icons/logonospellout.svg
+  picture:
+    path:            /assets/icons/logonospellout.svg
 #    # srcset is optional, but can be used to provide higher res versions for retina displays
 #    srcset:
 #      1x:            https://placehold.it/128x128

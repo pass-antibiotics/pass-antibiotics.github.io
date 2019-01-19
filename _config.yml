@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 PASS and BugWatch
+title:                 PASS <br> + <br> BugWatch
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Protecting Antibiotics through Safe Stewardship
+  Protecting Antibiotics <br> through Safe Stewardship
 
 # A list of keywords for your blog
 keywords:              [blah, bluh, bloh]
@@ -182,7 +182,7 @@ hydejack:
   cookies_banner:      false
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
-  advertise:           false
+  advertise:           true
 
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:

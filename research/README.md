@@ -11,11 +11,21 @@ permalink: /research/
 
 ## BugWatch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9K2SI-M682g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* [Design]
-* Findings
-* Privacy Notice
+<div class="row">
+  <div class="col-sm-6">
+    <ul>
+      <li>Design</li>
+      <li>Findings</li>
+      <li>Privacy Notice</li>
+    </ul>
+  </div>
+  <div class="col-sm-6">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9K2SI-M682g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+
+
 
 ## Primary Care
 * Audit of electronic health records
@@ -27,7 +37,7 @@ permalink: /research/
 * Behavioural diagnosis
 * Stakeholder engagement
 
-## Care Homes 
+## Care Homes
 * Audit of electronic health records
 * Behavioural diagnosis
 * Stakeholder engagement

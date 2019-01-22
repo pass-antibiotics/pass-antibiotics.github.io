@@ -22,7 +22,7 @@ Although there are still antibiotics that we can use against superbugs like MRSA
   more bacteria like MRSA. Even more worrying, there are already reports of superbugs 
   that are completely untreatable with antibiotics.
 
-PASS and BugWatch bring together 
+PASS and Bug Watch bring together 
 * researchers from a range of disciplines and 
 * professionals from primary care, secondary care and care home. 
 

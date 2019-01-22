@@ -10,7 +10,7 @@ accent_color:          rgb(143,153,62)
 
 # Research
 
-## BugWatch
+## Bug Watch
 
 <div class="row">
   <div class="col-sm-6">

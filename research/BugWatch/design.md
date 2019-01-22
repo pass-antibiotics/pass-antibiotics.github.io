@@ -4,4 +4,4 @@ description: >
 hide_description: true
 ---
 
-# BugWatch
+# Bug Watch

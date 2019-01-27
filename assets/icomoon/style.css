@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ya2nyc');
-  src:  url('fonts/icomoon.eot?ya2nyc#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ya2nyc') format('truetype'),
-    url('fonts/icomoon.woff?ya2nyc') format('woff'),
-    url('fonts/icomoon.svg?ya2nyc#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?4ew9e5');
+  src:  url('fonts/icomoon.eot?4ew9e5#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?4ew9e5') format('truetype'),
+    url('fonts/icomoon.woff?4ew9e5') format('woff'),
+    url('fonts/icomoon.svg?4ew9e5#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-UCL:before {
+  content: "\e900";
+}
 .icon-book:before {
   content: "\e91f";
 }
@@ -276,6 +279,231 @@
 .icon-brightness-contrast:before {
   content: "\e9d6";
 }
-.icon-UCL:before {
-  content: "\e900";
+.icon-CV:before {
+  content: "\e90a";
+}
+.icon-Piazza:before {
+  content: "\e90c";
+}
+.icon-Overleaf:before {
+  content: "\e914";
+}
+.icon-ResearcherID:before {
+  content: "\e91a";
+}
+.icon-Springer:before {
+  content: "\e928";
+}
+.icon-IEEE:before {
+  content: "\e929";
+}
+.icon-Acclaim:before {
+  content: "\e92e";
+}
+.icon-CEUR:before {
+  content: "\e92f";
+}
+.icon-OSF:before {
+  content: "\e931";
+}
+.icon-Zotero:before {
+  content: "\e932";
+}
+.icon-Publons:before {
+  content: "\e937";
+}
+.icon-OpenAccess:before {
+  content: "\e939";
+}
+.icon-Acclaim1:before {
+  content: "\e93a";
+}
+.icon-ACM:before {
+  content: "\e93c";
+}
+.icon-Academia:before {
+  content: "\e93d";
+}
+.icon-dblp:before {
+  content: "\e93f";
+}
+.icon-ADS:before {
+  content: "\e94a";
+}
+.icon-Depsy:before {
+  content: "\e94b";
+}
+.icon-Publons1:before {
+  content: "\e94e";
+}
+.icon-dblp1:before {
+  content: "\e94f";
+}
+.icon-ResearcherID1:before {
+  content: "\e95c";
+}
+.icon-ACM1:before {
+  content: "\e95d";
+}
+.icon-ResearchGate:before {
+  content: "\e95f";
+}
+.icon-Coursera:before {
+  content: "\e960";
+}
+.icon-Zotero1:before {
+  content: "\e962";
+}
+.icon-ACMDL:before {
+  content: "\e96a";
+}
+.icon-SemanticScholar:before {
+  content: "\e96d";
+}
+.icon-CEUR1:before {
+  content: "\e96e";
+}
+.icon-SemanticScholar1:before {
+  content: "\e96f";
+}
+.icon-PhilPapers:before {
+  content: "\e970";
+}
+.icon-arXiv:before {
+  content: "\e974";
+}
+.icon-Depsy1:before {
+  content: "\e97a";
+}
+.icon-MathOverflow:before {
+  content: "\e97b";
+}
+.icon-Dryad:before {
+  content: "\e97c";
+}
+.icon-PubMed:before {
+  content: "\e97d";
+}
+.icon-DOI:before {
+  content: "\e97e";
+}
+.icon-Coursera1:before {
+  content: "\e97f";
+}
+.icon-Figshare:before {
+  content: "\e981";
+}
+.icon-PhilPapers1:before {
+  content: "\e98a";
+}
+.icon-bioRxiv:before {
+  content: "\e98b";
+}
+.icon-Dryad1:before {
+  content: "\e98c";
+}
+.icon-Overleaf1:before {
+  content: "\e98d";
+}
+.icon-Scirate:before {
+  content: "\e98e";
+}
+.icon-DOI1:before {
+  content: "\e98f";
+}
+.icon-Piazza1:before {
+  content: "\e99a";
+}
+.icon-Springer1:before {
+  content: "\e99b";
+}
+.icon-PlataformaLattes:before {
+  content: "\e99c";
+}
+.icon-Scirate1:before {
+  content: "\e99d";
+}
+.icon-ResearchGate1:before {
+  content: "\e99f";
+}
+.icon-PubMed1:before {
+  content: "\e9a0";
+}
+.icon-bioRxiv1:before {
+  content: "\e9a2";
+}
+.icon-CV1:before {
+  content: "\e9a5";
+}
+.icon-arXiv1:before {
+  content: "\e9a6";
+}
+.icon-Impactstory:before {
+  content: "\e9aa";
+}
+.icon-Academia1:before {
+  content: "\e9af";
+}
+.icon-PlataformaLattes1:before {
+  content: "\e9b3";
+}
+.icon-IEEE1:before {
+  content: "\e9b9";
+}
+.icon-Orcid:before {
+  content: "\e9c3";
+}
+.icon-ADS1:before {
+  content: "\e9cc";
+}
+.icon-Impactstory1:before {
+  content: "\e9cf";
+}
+.icon-ACMDL1:before {
+  content: "\e9d3";
+}
+.icon-GoogleScholar:before {
+  content: "\e9d7";
+}
+.icon-Orcid1:before {
+  content: "\e9d9";
+}
+.icon-Dataverse:before {
+  content: "\e9e4";
+}
+.icon-Figshare1:before {
+  content: "\e9e7";
+}
+.icon-Inspire:before {
+  content: "\e9e9";
+}
+.icon-IDEASRePEc:before {
+  content: "\e9ed";
+}
+.icon-OSF1:before {
+  content: "\e9ef";
+}
+.icon-Mendeley:before {
+  content: "\e9f0";
+}
+.icon-Mendeley1:before {
+  content: "\e9f3";
+}
+.icon-OpenAccess1:before {
+  content: "\e9f4";
+}
+.icon-MathOverflow1:before {
+  content: "\e9f6";
+}
+.icon-Dataverse1:before {
+  content: "\e9f7";
+}
+.icon-IDEASRePEc1:before {
+  content: "\e9f8";
+}
+.icon-GoogleScholar1:before {
+  content: "\e9f9";
+}
+.icon-Inspire1:before {
+  content: "\e9fe";
 }

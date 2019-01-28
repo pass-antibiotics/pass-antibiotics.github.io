@@ -83,7 +83,7 @@ accent_image:
     </aside>
 </details>
 
-## Project leaders
+## Project Leaders
 * Doctor Laura Shallcross, Consultant in Public Health - NIHR Clinical Scientist, UCL Institute of Health Informatics
 * [Doctor Fabiana Lorencatto], Senior Research Fellow, UCL Centre for Behaviour Change
 

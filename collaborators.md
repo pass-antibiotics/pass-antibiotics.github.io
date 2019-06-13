@@ -30,7 +30,7 @@ accent_image:
                 <span class="sr-only">Social:</span>
                 <ul>
                     <li>
-                        <a href="https://www.ucl.ac.uk/tb/people/professor-andrew-hayward>" title="UCL profile" class="no-mark-external" target="_blank">
+                        <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=ACHAY31" title="UCL profile" class="no-mark-external" target="_blank">
                             <span class="icon-UCL"></span>
                             <span class="sr-only">UCL</span>
                         </a>

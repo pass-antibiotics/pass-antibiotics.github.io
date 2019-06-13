@@ -7,3 +7,19 @@
     margin: 1.5rem 0;
   }
 }
+
+
+h1, h2 {
+  margin: 2.5rem 0 1rem;
+}
+
+h3, h4, h5, h6, .h3, .h4, .h5, .h6 {
+  font-weight: var(--font-weight-heading);
+  margin: 1.5rem 0 1rem;
+}
+
+.references {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 14px;
+  margin-left:24.0pt;text-indent:-24.0pt;
+}

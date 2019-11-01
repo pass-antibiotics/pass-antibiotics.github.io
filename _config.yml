@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 PASS <br> + <br> Bug Watch
+title:                 PASS
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -42,13 +42,13 @@ logo:                  /assets/icons/logonospellout_white.svg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                PASS Team
-  email:               <mail@domain.tld>
+#  email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
   twitter:             PASS_antibiotic
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2019. All rights reserved.
+  © 2019 University College London. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -187,7 +187,7 @@ hydejack:
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
     # Set to `true` to always use the dark theme.
-    always:            true
+    always:            false
 
     # Set to `true` to use the dark theme based on visitors' local time.
     dynamic:           true

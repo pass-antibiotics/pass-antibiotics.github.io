@@ -97,8 +97,7 @@ accent_image:
                 <noscript><img data-ignore src="/assets/img/mugshots/PDM.jpg" class="avatar" alt="Peter Dutey"/>
                 </noscript>
                 </hy-img>
-            <p>Peter is a postdoctoral researcher working on the primary and secondary care audits of the PASS
-                study.</p>
+            <p>Peter is a postdoctoral researcher working on secondary care audit of the PASS study.</p>
             <div class="sidebar-social">
                 <span class="sr-only">Social:</span>
                 <ul>

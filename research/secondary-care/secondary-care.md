@@ -7,8 +7,13 @@ hide_description: true
 menu: false
 order: 4
 permalink: /research/secondary-care
-accent_color:          rgb(143,153,62)
 ---
+
+
+<!--
+accent_color:          rgb(143,153,62)
+-->
+
 
 <ul class="breadcrumb">
   <li><a href="/">Home</a></li>

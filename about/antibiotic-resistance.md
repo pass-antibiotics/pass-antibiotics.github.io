@@ -12,7 +12,7 @@ permalink: /about/antibiotic-resistance
 <ul class="breadcrumb">
   <li><a href="/">Home</a></li>
   <li><a href="/about">About</a></li>
-   <li>Antibiotic resistance</li>
+  <li>Antibiotic resistance</li>
 </ul> 
 
 
@@ -56,7 +56,7 @@ You’ll often see headlines about antibiotic resistance in the press. Most peop
     
     <p>It’s an important distinction. You can get an infection with an antibiotic resistant bacteria even if you have never had an antibiotic, for instance by picking it up from another person.</p>
 
-    </detail>
+    </details>
 </div>
 
 

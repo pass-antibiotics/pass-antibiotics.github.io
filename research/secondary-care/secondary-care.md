@@ -42,6 +42,27 @@ Many national or international [surveys](#Resources.Surveys) have monitored prog
 implementing guidelines across hospitals.
 
 ### Effect of antimicrobial stewardship interventions
+Stewardship interventions are generally regarded as safe and effective. The most comprehensive review 
+is published in the Cochrane Database of Systematic Reviews (Davey *et al.* [2017](#Davey2017)) 
+and has analysed the effect of 221 studies on a range of outcomes. 
+Overall, the authors find that interventions reduce the average length of stay in 
+hospital as well as of antimicrobial therapy. They did not detect any effect on mortality.
+
+The content of interventions tends to be poorly specified in scientific papers. This limits our 
+understanding of what works within this intervention. Davey *et al.* ([2017](#Davey2017)) classified 
+the interventions into four groups:
+- Enablement: 'increasing means/reducing barriers to increase capability or opportunity', including: 
+audit and feedback, computerised decision support systems, and educational outreach.
+- Restriction: using rules to restrict the use of certain antibiotics, for example: a formulary, approval 
+by senior prescriber, .
+- Addition of feedback to enablement
+- Addition of enablement to restriction
+
+
+such 
+as: duration of antimicrobial therapy, hospital length of stay, mortality
+isThe most comprehensive review published in the Cochrane Library a
+
 A systematic review of the effect stewardship interventions on mortality (Shuts [2016](#Schuts2016)) 
 concluded that the most important objectives for stewardship programmes were: 
 - empirical therapy regulated by locally-developed guidelines is associated with a 35% lower risk of death  

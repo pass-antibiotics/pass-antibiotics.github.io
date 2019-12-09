@@ -8,12 +8,9 @@ menu: false
 order: 4
 permalink: /research/secondary-care
 ---
-
-
 <!--
 accent_color:          rgb(143,153,62)
 -->
-
 
 <ul class="breadcrumb">
   <li><a href="/">Home</a></li>
@@ -25,16 +22,17 @@ accent_color:          rgb(143,153,62)
 * TOC
 {:toc}
 
-## Stewardship in hospitals 
+# Stewardship in hospitals 
 
-The objectives of antimicrobial stewardship programmes are to work collaboratively to preserve the effectiveness of antibiotics by:
+The objectives of antimicrobial stewardship programmes are to work collaboratively to preserve the effectiveness 
+of antibiotics by:
 
 - preventing infections
 - optimising prescribing decisions using better diagnostics and epidemiological expertise
 - promoting good practice in the management of infections.
 
-A range of clinical guidelines are now available from various agencies which set out good practice and the latest evidence on hospital antimicrobial stewardship (see [Guidelines & toolkits](#guidelines-and-tookits) section).
-
+A range of clinical guidelines are now available from various agencies which set out good practice and the latest 
+evidence on hospital antimicrobial stewardship (see [Guidelines & toolkits](#guidelines--toolkits) section).
 
 
 # What we already know
@@ -42,28 +40,32 @@ A range of clinical guidelines are now available from various agencies which set
 ## Use of antimicrobials in hospitals
 
 In the UK, hospitals are responsible for 20% of the total amount of antibiotics prescribed in humans. Compared with other health care environments, hospitals prescribe more broad-spectrum antibiotics, which are the drugs used for the most severe infections. 
-UK hospitals have the second highest prescribing rate out of 22 European nations in number of doses per 1,000 resident (#ECDC-TESSy2017), and play a critical role in the acquisition and spread of antibiotic resistance in humans.
+
+UK hospitals have the second highest prescribing rate out of 22 European nations in number of doses per 1,000 resident ([ECDC 2017](#ECDC-TESSy2017)), and play a critical role in the acquisition and spread of antibiotic resistance in humans.
+
 There are signs that antibiotics are being overused in hospitals:
 
-<ul>
-    <li>A survey in hospitals across the UK recently estimated that 17% days of therapy are avoidable (#ESPAUR2018)</li>
-    <li>A study in Oxford compared antibiotic use between general medical physicians and infection disease physicians, who are specialists in treating infections. The study found that infectious disease physicians used 30% less days of therapy (#Fawcett2016)</li>
-</ul>
+- A survey of UK hospitals recently estimated that 17% days of therapy are avoidable ([Public Health England 2015](#PHE2015))
+- A study in Oxford compared antibiotic use between general medical physicians and infection disease physicians, who are specialists in treating infections. The study found that infectious disease physicians used 30% less days of therapy ([Fawcett et al. 2016](#Fawcett2016))
 
 
 ## Effectiveness of stewardship interventions
 
-Stewardship interventions in secondary care are effective in changing clinical practice. Interventions is frequently evaluated in randomised controlled trials or observational studies measuring impact as an intervention is introduced known as ‘interrupted time series’ studies.
+Stewardship interventions in inpatient care settings are safe and effective in both: improving clinical practice, 
+and reducing antimicrobial resistance. 
+{:.lead}
 
-The most up-to-date and trusted systematic review of all evaluations published to date was released in 2017 in the Cochrane Library (#Davey2017). Authors reviewed a total of 29 randomised controlled trials and 91 interrupted time series, and concluded that, overall, stewardship interventions are effective in relation to several outcomes:
+The [most up-to-date and trusted systematic review](#Davey2017) of all evaluations published to date was released 
+in 2017 in the Cochrane Library. Authors reviewed a total of 29 randomised controlled trials and 91 interrupted 
+time series, and concluded that, overall, stewardship interventions are effective in relation to several outcomes:
 
-- congruence with clinical guidelines: with intervention, 58% of patients were treated in accordance with antimicrobial guidelines, compared with 43% in a control group with no intervention
-- duration of antimicrobial therapy was on average 2 days shorter with intervention
-- length of hospital stay is an average 1 day shorter with intervention.
+- **compliance with clinical guidelines:** with intervention, 58% of patients were treated in accordance with antimicrobial guidelines, compared with 43% in a control group with no intervention
+- **duration of antimicrobial therapy** was on average 2 days shorter with intervention
+- **length of hospital stay** is an average 1 day shorter with intervention.
 
 Authors also found no evidence that stewardship interventions increased mortality or other risks to patient safety.
 
-Stewardship interventions also seem to reduce the prevalence of drug-resistant infections and transmission of drug-resistant bacteria. Baur et al. (#Baur2017) analysed results from 32 observational and experimental studies and found:
+Stewardship interventions also seem to reduce the prevalence of drug-resistant infections and transmission of drug-resistant bacteria. Baur et al. ([2017](#Baur2017)) analysed results from 32 observational and experimental studies and found:
 
 - the incidence of *Clostridioides difficile* infections is reduced by 32%
 - the incidence of multi-drug resistant Gram negative bacteria is halved
@@ -71,11 +73,20 @@ Stewardship interventions also seem to reduce the prevalence of drug-resistant i
 
 Interventions that included hand hygiene promotion were also more effective that interventions that did not.
 
+> **Glossary** 
+> - Interrupted time series studies are observational clinical studies (unlike randomised controlled trials) which measure
+ the impact of an intervention as it is introduced, by looking a change in the temporal trend in an outcome of interest.
+- Clostridioides difficile*, also known as *C. difficile* or *C. diff*, is bacteria that can infect the bowel 
+and cause diarrhoea. This infection is the most common side effect of antibiotics. It can spread easily to others 
+and can put other vulnerable hospital patients at risk of serious harm.
+{:.message}
+
+
 ## Implementation of stewardship interventions
 
 Globally, antimicrobial stewardship programmes are now established in most hospitals in high-income countries. The degree to which they are operational and active has been investigated in several surveys. 
 
-Howard et al. (#Howard2015) surveyed 660 hospitals across a total of 67 countries. Fifty-eight percent of hospitals had a dedicated antimicrobial stewardship committee in place, with the highest proportion in North America and Europe (66%) and a very low proportion in Africa (14%).
+Howard et al. ([2015](#Howard2015)) surveyed 660 hospitals across a total of 67 countries. Fifty-eight percent of hospitals had a dedicated antimicrobial stewardship committee in place, with the highest proportion in North America and Europe (66%) and a very low proportion in Africa (14%).
 
 This proportion ranged between 5 and 16% on other continents. Despite this, 62% of hospitals reported having established local stewardship guidelines
 
@@ -87,7 +98,7 @@ This proportion ranged between 5 and 16% on other continents. Despite this, 62% 
 These surveys revealed that ASPs can be very demanding on health professionals’ time, skills and confidence.
 
 
-In the UK, Scobie et al. (#Scobie2019) conducted a survey of 148 NHS acute trusts in England in 2017. They found that 
+In the UK, Scobie et al. ([2019](#Scobie2019)) conducted a survey of 148 NHS acute trusts in England in 2017. They found that 
 <ul>
 <li>85% restricted the use of some antibiotics by requiring a senior infection doctor or pharmacist to pre-authorise their prescription</li>
 <li>93% had dedicated a dedicated antimicrobial stewardship team including at least an antimicrobial pharmacist and a microbiology/infectious diseases doctor</li>
@@ -102,8 +113,8 @@ Only 30% were able to measure DOT
 
  
  
-82%  Review of courses or therapy for specific agents and feedback to prescribers by a Clinical Microbiologist/ ID specialist or Pharmacist 
-99%  Restrictive reporting of antimicrobial susceptibility test results 
+82% Review of courses or therapy for specific agents and feedback to prescribers by a Clinical Microbiologist/ ID specialist or Pharmacist 
+99% Restrictive reporting of antimicrobial susceptibility test results 
 66% direct, personalized feedback to prescribers on ways to improve antimicrobial prescribing 
  
 In 23% (34/148) of hospitals, stewardship ward rounds were conducted daily (including weekends) in one or more selected areas in the hospital, followed by three times weekly in 19%, twice weekly (6%) and weekly (1%). Regular stewardship ward rounds on ICU were conducted in most hospitals (99%, 146/148) most often daily on weekdays (47%). After ICU, the most common specialty ward rounds were in medicine (64%), followed by surgery (60%) and haematology (58%).
@@ -136,8 +147,9 @@ https://academic.oup.com/jac/article/74/4/1143/5288576 shows it's mostly teachin
 
 ## Antibiotic prescription reviews
 
-Antibiotic prescription reviews or ‘prospective audits’ involve the review of antibiotic prescriptions on wards by infection specialists, usually either an infectious diseases physician, a clinical microbiologist, or a clinical pharmacist. They are frequently described as the most effective strategy to optimise prescribing (#Chung2013).
-The advantage of Antibiotic prescription reviews are:
+Antibiotic prescription reviews or ‘prospective audits’ involve the review of antibiotic prescriptions on wards by infection specialists, usually either an infectious diseases physician, a clinical microbiologist, or a clinical pharmacist. They are frequently described as the most effective strategy to optimise prescribing ([Chung et al. 2013](#Chung2013)).
+
+Advantages of antibiotic prescription reviews are:
 
 - they are more supportive and therefore better received by doctors than pre-authorisation of antibiotics. 
 - they usually take places at the bedside (rather than over the telephone, when infection specialists cannot fully assess the patient); 
@@ -147,7 +159,7 @@ Disadvantages of antibiotic prescription reviews are:
 -	They are time-consuming
 -	They require up-to-date lists of patients taking antibiotics
 -	Their reach can be limited by person-power: the median number of occupied beds in an English acute trust is 500. Out of those, 175 are occupied by patients taking antibiotics at any time. The median number of infection specialist is just 5 working time equivalents, occupied with many other duties.
--	Some areas of clinical practice are not supported by strong scientific evidence and guidelines. For instance, experts do not know for sure when and how antibiotics should be ‘de-escalated’; that is, how soon antibiotics can safely be stopped or changed for another drug with a narrower spectrum (#Hughes2017, #Tabah2019)
+-	Some areas of clinical practice are not supported by strong scientific evidence and guidelines. For instance, experts do not know for sure when and how antibiotics should be ‘de-escalated’; that is, how soon antibiotics can safely be stopped or changed for another drug with a narrower spectrum ([Hughes et al. 2017](#Hughes2017), [Tabah et al. 2019](#Tabah2019)).
 
 # What questions did we ask?
 
@@ -157,11 +169,19 @@ Although systematic reviews are available (see [above](#effectiveness-of-steward
 
 In other words, we sought to understand what interventions components determine whether an intervention will be effective.
 
-To this end, we obtained the list of 221 interventions reviewed as part of the recent Cochrane study by Davey et al. ([2017](#Davey2017)). Health psychologists read through every study report and coded for the presence of active ingredients of behavioural interventions, known as *behaviour change techniques* (BCTs). A statistician then analysed data on (a) intervention BCTs and (b) intervention effectiveness using a special technique testing for interactions.
+To this end, we obtained the list of 221 interventions reviewed as part of the recent Cochrane study by 
+Davey et al. ([2017](#Davey2017)). Health psychologists read through every study report and coded for the presence of 
+active ingredients of behavioural interventions, known as *behaviour change techniques* (BCTs). A statistician 
+then analysed data on (a) intervention <abbr title="behaviour change techniques">BCTs</abbr> and (b) intervention 
+effectiveness using a special technique testing for interactions.
 
 ## Electronic health records
 
-As  of June 2019, over half of acute NHS Trusts operated an electronic prescribing and administration system, but these systems do not currently play a major role in stewardship programmes. We aimed to test whether and how electronic records of prescriptions, microbial samples, and patient investigations (blood counts, vital signs) could be used to identify where antimicrobial use could be rationalised.
+As  of June 2019, over half of acute NHS Trusts operated an electronic prescribing and administration system, but these 
+systems do not currently play a major role in stewardship programmes. We aimed to test whether and how electronic 
+records of prescriptions, microbial samples, and patient investigations (blood counts, vital signs) could be used to 
+identify where antimicrobial use could be rationalised.
+
 Our study partner, Queen Elizabeth Hospital Birmingham, anonymised and provided such records for adult inpatients admitted between 2008 and 2018. Researchers at University College London developed a range of software tools to visualise and analyse the data. The picture below shows a view from a prototype app used to audit the compliance of prescribing with the hospital’s antimicrobial prescribing guidelines.
 
 
@@ -169,26 +189,79 @@ PICTURE
 
 ## Interviews of prescribers in six specialties
 
-We conducted 7 interviews with prescribers sampled randomly from secondary care medical specialties (which do not include tertiary specialist care such as transplant medicine or haematology).
+We conducted 7 interviews with prescribers sampled randomly from secondary care medical specialties (which do not 
+include tertiary specialist care such as transplant medicine or haematology).
 Questionnaire
 
 ## Observations
 TBC - Leicester
 ## Design workshops
 TBC - Rosie
+
+
 # What did we find?
+
 ## Review of published evidence
 
-Health psychologists found that interventions delivered in hospital inpatient settings employed 29 out of a total of 93 behaviour change techniques (BCTs). The average number of BCTs reported in intervention evaluations was 4.5, showing that interventions are designed as a complex combination of techniques. 
+Health psychologists found that interventions delivered in hospital inpatient settings employed 29 out of a total 
+of 93 behaviour change techniques (BCTs). The average number of <abbr title="behaviour change techniques">BCTs</abbr> reported in intervention evaluations was 4.5, 
+showing that interventions are designed as a complex combination of techniques. 
 
-The five most common BCTs were:
+The five most common <abbr title="behaviour change techniques">BCTs</abbr> were:
+
+<div class="card-group">
+    <div class="card text-white bg-dark mb-3">
+        <h4 class="card-header"><strong><abbr title="behaviour change technique">BCT</abbr> 4.1</strong> Instructions on behaviour</h4>
+        <div class="card-body">
+        <p class="card-text"><strong>73%</strong> of interventions</p>
+        <h5 class="card-title">Examples</h5>
+        <ul class="card-text small">
+            <li>Thing 1</li>
+            <li>Thing 2</li>
+            <li>Thing 3</li>
+        </ul>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        </div>
+    </div>
+    <div class="card text-white bg-dark mb-3">
+        <h4 class="card-header"><strong><abbr title="behaviour change technique">BCT</abbr> 9.1</strong> Credible source</h4>
+        <div class="card-body">
+        <p class="card-text"><strong>66%</strong> of interventions</p>
+        <<h5 class="card-title">Examples</h5>
+                 <ul class="card-text small">
+                     <li>Thing 1</li>
+                     <li>Thing 2</li>
+                     <li>Thing 3</li>
+                 </ul>
+                 <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                 </div>
+    </div>
+    <div class="card text-white bg-dark mb-3">
+    <h4 class="card-header"><strong><abbr title="behaviour change technique">BCT</abbr> 12.1</strong> Restructuring physical environment</h4>
+        <div class="card-body">
+          <p class="card-text"><strong>61%</strong> of interventions</p>
+          <h5 class="card-title">Examples</h5>
+                  <ul class="card-text small">
+                      <li>Thing 1</li>
+                      <li>Thing 2</li>
+                      <li>Thing 3</li>
+                  </ul>
+                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                  </div>
+    </div>
+</div>
+
+
+
+
+(9.1) Credible source (66% of interventions)
+<div> Present verbal or visual communication from a credible source in favor of or against the behaviour.</div>
+<div>"The Antimicrobial Stewardship Programme (ASP) was set up via a multidisciplinary effort,
+ with a full-time clinical pharmacist at its core, supported by a clinical microbiologist and an 
+ infectious diseases physician who spent approximately 10% of their working hours on the ASP."</div>
+
 
 **(4.1) Instructions on behaviour** (73% of interventions)
-<div> Advise or agree on how to perform the behavior (includes ‘Skills training’)</div>
-<div>“"In 2011, we revised our internal guidelines and recommended penicillins as first-line drugs for many therapeutic indications while empirical cephalosporin and fluoroquinolone use were explicitly discouraged…"</div>
- (9.1) Credible source (66% of interventions)
-<div> Present verbal or visual communication from a credible source in favor of or against the behaviour.</div>
-<div>"The Antimicrobial Stewardship Programme (ASP) was set up via a multidisciplinary effort, with a full-time clinical pharmacist at its core, supported by a clinical microbiologist and an infectious diseases physician who spent approximately 10% of their working hours on the ASP."</div>
 
 **(12.1) Restructuring physical environment** (61% of interventions)
 <div> Change, or advise to change the physical environment in order to facilitate performance of the wanted behavior or create barriers to the unwanted behavior (other than prompts/cues, rewards and punishments)</div>
@@ -199,11 +272,16 @@ The five most common BCTs were:
 <div>"We examined the effect of the addition of ertapenem to our hospital formulary on the susceptibilities of nosocomial isolated of Enterobacteriaciae…"</div>
 
 (12.2) Restructuring social environment (37% of interventions)
-<div> Change, or advise to change the social environment in order to facilitate performance of the wanted behavior or create barriers to the unwanted behavior (other than prompts/cues, rewards and punishments)</div>
-<div>"An ICU consultant /ID specialist consultation system was implemented. A nominated ID specialist /microbiologist performed a daily, bedside consultation 5 days a week and further provided 24 h telephone support 7 days a week."</div>
+<div> Change, or advise to change the social environment in order to facilitate performance of the wanted behavior or 
+create barriers to the unwanted behavior (other than prompts/cues, rewards and punishments)</div>
+<div>"An ICU consultant /ID specialist consultation system was implemented. A nominated ID specialist /microbiologist 
+performed a daily, bedside consultation 5 days a week and further provided 24 h telephone support 7 days a week."</div>
 
-However, when analysing the effect of individual BCTs on intervention effectiveness, the statistical analysis only detected one interaction: interventions with BCT *(1.2) Problem solving* were more effective than other interventions. Problem solving consists in analysing, or prompting the person to analyse, factors influencing their prescribing and bringing forward strategies to overcome barriers to improve prescribing. 
-
+However, when analysing the effect of individual <abbr title="behaviour change techniques">BCTs</abbr> on intervention 
+effectiveness, the statistical analysis only detected one interaction: interventions with <abbr title="behaviour change 
+technique">BCT</abbr> *(1.2) Problem solving* were more effective than other interventions. Problem solving consists 
+in analysing, or prompting the person to analyse, factors influencing their prescribing and bringing forward strategies 
+to overcome barriers to improve prescribing. 
 
 
 ## Electronic health records
@@ -212,21 +290,21 @@ There is a delay in adopting new guidelines - for instance the pneumonia switch 
 Can we see an effect in the change of coamox?
 
 
-### Interviews
+## Interviews
 TBC – Gill 
 Facilitators and barriers to stewardship functions and prescribing.
 
 
-## Bringing it all together
+# Bringing it all together
 We are currently working to synthesize what we have learnt and develop behaviour change interventions. This involves
 
 - Reviewing barriers and facilitators of stewardship
 - Identifying mechanisms of change and behaviour change techniques
 - Collaborating with practitioners to decide how best to deliver behaviour change techniques in terms of feasibility and acceptability.
 
-## Resources
+# Resources
 
-### Guidelines & toolkits
+## Guidelines & toolkits
 
 <div class='references'>
     <p id='PHE2015'>Public Health England (2015). <i>Start Smart--Then Focus. Antimicrobial Stewardship Toolkit for
@@ -252,7 +330,7 @@ We are currently working to synthesize what we have learnt and develop behaviour
 <!--https://www.rpharms.com/Portals/0/RPS%20document%20library/Open%20access/Policy/AMS%20policy.pdf-->
 <!--https://www.rpharms.com/resources/ultimate-guides-and-hubs/amsportal-->
 
-### Surveys
+## Surveys
 
 <div class='references'>
 
@@ -280,12 +358,17 @@ We are currently working to synthesize what we have learnt and develop behaviour
         in NHS hospitals in England. <i>Journal of Antimicrobial Chemotherapy</i>, <i>74</i>(4), 1143–1152. DOI: <a
                 href="https://doi.org/10.1093/jac/dky538">10.1093/jac/dky538</a></p>
 
+
 </div>
 
-
-### Reviews
+## Reviews
 
 <div class='references'>
+
+<p id="Baur2017">Baur, D., Gladstone, B. P., Burkert, F., Carrara, E., Foschi, F., Döbele, S., &amp; Tacconelli, E. (2017). 
+Effect of antibiotic stewardship on the incidence of infection and colonisation with antibiotic-resistant 
+bacteria and Clostridium difficile infection: a systematic review and meta-analysis. <i>The Lancet Infectious Diseases</i>, 
+<i>17</i>(9), 990–1001. DOI: <a href="https://doi.org/10.1016/S1473-3099(17)30325-0">10.1016/S1473-3099(17)30325-0</a></p>
 
 <p id='Davey2010'>Davey, P., Sneddon, J., &amp; Nathwani, D. (2010). Overview of strategies for
 overcoming the challenge of antimicrobial resistance. <i>Expert Review of
@@ -301,7 +384,7 @@ review. <i>International Journal of Antimicrobial Agents</i>, <i>45</i>(3),
 <p id='Davey2017'>Davey, P., Marwick, C. A., Scott, C. L., Charani, E., McNeil, K., Brown, E., … Michie,
 S. (2017). Interventions to improve antibiotic prescribing practices for
 hospital inpatients. <i>Cochrane Database of Systematic Reviews</i>, (2). DOI: <a
-href="https://doi.org/10.1002/14651858.CD003543.pub4">10.1002/14651858.CD003543.pub4</a></span></p>
+href="https://doi.org/10.1002/14651858.CD003543.pub4">10.1002/14651858.CD003543.pub4</a></p>
 
 <p id='Morris2014'>Morris, A. M. (2014). Antimicrobial Stewardship Programs: Appropriate Measures and Metrics 
 to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, <i>6</i>(2), 101–112. DOI:
@@ -316,7 +399,7 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 </div>
 
 
-### Other research
+## Other research
 
 <div class='references'>
     
@@ -343,7 +426,7 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 
 </div>
 
-### Textbooks
+## Textbooks
 
 <div class='references'>
 

@@ -245,32 +245,24 @@ We are currently working to synthesize what we have learnt and develop behaviour
 ## Surveys
 
 <div class='references'>
+<p id='Howard2015'>Howard, P., Pulcini, C., Levy Hara, G., West, R. M., Gould, I. M., Harbarth, S., &amp; Nathwani,
+    D. (2015). An international cross-sectional survey of antimicrobial stewardship programmes in hospitals. <i>Journal of
+        Antimicrobial Chemotherapy</i>, <i>70</i>(4), 1245–1255. DOI: <a href="https://doi.org/10.1093/jac/dku497">10.1093/jac/dku497</a></p>
 
-    <p id='Howard2015'>Howard, P., Pulcini, C., Levy Hara, G., West, R. M., Gould, I. M., Harbarth, S., &amp; Nathwani,
-        D. (2015).
-        An international cross-sectional survey of antimicrobial stewardship programmes in hospitals. <i>Journal of
-            Antimicrobial Chemotherapy</i>, <i>70</i>(4), 1245–1255.
-        DOI: <a href="https://doi.org/10.1093/jac/dku497">10.1093/jac/dku497</a></p>
+<p id='VanGastel2010'> Van Gastel, E., Costers, M., Peetermans, W. E. E., &amp; Struelens, M. J. J. (2010).
+    Nationwide implementation of antibiotic management teams in Belgian hospitals: A self-reporting survey. <i>Journal
+        of Antimicrobial Chemotherapy</i>, <i>65</i>(3), 576–580. DOI: <a href="https://doi.org/10.1093/jac/dkp470">10.1093/jac/dkp470</a></p>
 
-    <p id='VanGastel2010'> Van Gastel, E., Costers, M., Peetermans, W. E. E., &amp; Struelens, M. J. J. (2010).
-        Nationwide implementation of antibiotic management teams in Belgian hospitals: A self-reporting survey. <i>Journal
-            of Antimicrobial Chemotherapy</i>,
-        <i>65</i>(3), 576–580. DOI: <a href="https://doi.org/10.1093/jac/dkp470">10.1093/jac/dkp470</a></p>
+<p id='Chung2010'>Chung, G. W. W., Wu, J. E. E., Yeo, C. L. L., Chan, D., &amp; Hsu, L. Y. Y. (2013). Antimicrobial
+    stewardship. <i>Virulence</i>, <i>4</i>(2), 151–157. DOI: <a href="https://doi.org/10.4161/viru.21626">10.4161/viru.21626</a>
+</p>
 
-    <p id='Chung2010'>Chung, G. W. W., Wu, J. E. E., Yeo, C. L. L., Chan, D., &amp; Hsu, L. Y. Y. (2013). Antimicrobial
-        stewardship. <i>Virulence</i>, <i>4</i>(2), 151–157. DOI: <a href="https://doi.org/10.4161/viru.21626">10.4161/viru.21626</a>
-    </p>
+<p id="ECDC-TESSy2017"> European Centre for Disease Prevention and Control (2017). <i>Antimicrobial consumption -- Annual Epidemiological Report for 2017</i>. Stockholm: ECDC. <a
+            href="https://www.ecdc.europa.eu/en/publications-data/antimicrobial-consumption-annual-epidemiological-report-2017">Available online</a>.</p>
 
-    <p id=’ECDC-TESSy2017’> European Centre for Disease Prevention and Control (2017).
-        <i>Antimicrobial consumption -- Annual Epidemiological Report for 2017</i>. Stockholm: ECDC. <a
-                href="https://www.ecdc.europa.eu/en/publications-data/antimicrobial-consumption-annual-epidemiological-report-2017">Available online</a>.</p>
-
-    <p id="Scobie2019">Scobie, A., Budd, E. L., Harris, R. J., Hopkins, S., &amp; Shetty, N. (2019). Antimicrobial
-        stewardship: an evaluation of structure and process and their association with antimicrobial prescribing
-        in NHS hospitals in England. <i>Journal of Antimicrobial Chemotherapy</i>, <i>74</i>(4), 1143–1152. DOI: <a
-                href="https://doi.org/10.1093/jac/dky538">10.1093/jac/dky538</a></p>
-
-
+<p id="Scobie2019">Scobie, A., Budd, E. L., Harris, R. J., Hopkins, S., &amp; Shetty, N. (2019). Antimicrobial
+    stewardship: an evaluation of structure and process and their association with antimicrobial prescribing
+    in NHS hospitals in England. <i>Journal of Antimicrobial Chemotherapy</i>, <i>74</i>(4), 1143–1152. DOI: <a href="https://doi.org/10.1093/jac/dky538">10.1093/jac/dky538</a></p>
 </div>
 
 ## Reviews

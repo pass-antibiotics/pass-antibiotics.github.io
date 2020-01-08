@@ -16,4 +16,4 @@ accent_color:          rgb(143,153,62)
 
 
 ## Publications
-[Design]: BugWatch/design.md
+[Design]: BugWatch/index.md

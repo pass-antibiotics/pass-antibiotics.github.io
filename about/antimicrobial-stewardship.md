@@ -1,7 +1,7 @@
 ---
 description: >
-  Description
-hide_description: true
+  Description Antimicrobial stewardship is a whole-of-society effort to keep antibiotics working for years to come. It includes efforts to prevent infections and address overuse of antibiotics in humans and animals.
+hide_description: false
 title: Antimicrobial stewardship
 permalink: /about/antimicrobial-stewardship
 ---

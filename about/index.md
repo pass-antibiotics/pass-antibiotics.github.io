@@ -1,7 +1,7 @@
 ---
 description: >
   Here you will find details about findings from PASS and BugWatch
-hide_description: true
+hide_description: false
 title: About
 hide_title: true
 menu: true
@@ -34,7 +34,7 @@ permalink: /about/
             </div>
             <div class="p-2 flex-grow-300">
                 <h4>The PASS project</h4>
-                <p>PASS is a three-year programme of research involving researchers and 
+                <p>PASS is a 3-year programme of research involving researchers and 
                 doctors across England between 2017-2020.</p>
                 <p>Together, they are working to design new interventions that help preserve the 
                 effectiveness of antibiotics for years to come.</p>

@@ -1,7 +1,9 @@
 ---
 description: >
-  Description
-hide_description: true
+  PASS brings together researchers from different academic disciplines: behavioural science, epidemiology, 
+    social science, user-centred design.
+ 
+hide_description: false
 title: Interdisciplinary work
 permalink: /about/interdisciplinary-work
 ---

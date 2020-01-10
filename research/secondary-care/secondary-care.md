@@ -3,7 +3,7 @@ title: Secondary care
 description: >
   Antimicrobial stewardship programmes in hospitals aim to optimise the use of antibiotics. Giving the right
    dose at the right time ensures infections are cured effectively, and that antibiotics are preserved for year to come.
-hide_description: true
+hide_description: false
 menu: false
 order: 4
 permalink: /research/secondary-care

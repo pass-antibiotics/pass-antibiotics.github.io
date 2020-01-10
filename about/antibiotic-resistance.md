@@ -15,6 +15,9 @@ permalink: /about/antibiotic-resistance
   <li>Antibiotic resistance</li>
 </ul> 
 
+* TOC
+{:toc}
+
 
 ## Antibiotics do not work as well as they used to
 

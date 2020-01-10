@@ -1,6 +1,7 @@
 ---
 description: >
-  Here you will find details about findings from PASS and BugWatch
+   Drug-resistant infections are a global threat. PASS and Bug Watch are research studies led by 
+    University College London to find solutions to this problem in health care environments.
 hide_description: false
 title: About
 hide_title: true

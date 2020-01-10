@@ -18,7 +18,6 @@ accent_color:          rgb(143,153,62)
    <li>Secondary care</li>
 </ul> 
 
-
 * TOC
 {:toc}
 
@@ -76,7 +75,7 @@ Stewardship interventions also seem to reduce the prevalence of drug-resistant i
 
 Interventions that included hand hygiene promotion were also more effective that interventions that did not.
 
-> **Glossary** 
+> <h3>Glossary</h3> 
 > - Interrupted time series studies are observational clinical studies (unlike randomised controlled trials) which measure
  the impact of an intervention as it is introduced, by looking a change in the temporal trend in an outcome of interest.
 - *Clostridioides difficile*, also known as *C. difficile* or *C. diff*, is bacteria that can infect the bowel 

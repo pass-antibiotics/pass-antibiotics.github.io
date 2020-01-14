@@ -20,8 +20,10 @@ accent_color:          rgb(143,153,62)
 
 <div class='references'>
 
+<p id="Shallcross2020">Shallcross, L., Lorencatto, F., Fuller, C., Tarrant, C., West, J., Traina, R., … PASS Research Group (2020). An interdisciplinary mixed-methods approach to developing antimicrobial stewardship interventions: Protocol for the Preserving Antibiotics through Safe Stewardship (PASS) Research Programme [version 1: awaiting peer review]. <i>Wellcome Open Research</i>, 5(8). DOI: <a href="https://doi.org/10.12688/wellcomeopenres.15554.1">10.12688/wellcomeopenres.15554.1</a></p>
+
 <p id="Rockenshaub2019a">Rockenschaub, P., Jhass, A., Freemantle, N., Aryee, A., Rafiq, M., Hayward, A., &amp; Shallcross, L. (2019). Opportunities to reduce antibiotic prescribing for patients with COPD in primary care: a cohort study using electronic health records from the Clinical Practice Research Datalink
-(CPRD). <i>Journal of Antimicrobial Chemotherapy</i>. DOI <a href="https://doi.org/10.1093/jac/dkz411">10.1093/jac/dkz411</a></p>
+(CPRD). <i>Journal of Antimicrobial Chemotherapy</i>. DOI: <a href="https://doi.org/10.1093/jac/dkz411">10.1093/jac/dkz411</a></p>
 
 <p id="Rockenshaub2019b">Rockenschaub, P., Hayward, A., &amp; Shallcross, L. (2019). Antibiotic prescribing before and after the diagnosis of comorbidity: a cohort study using primary care electronic health
 records. <i>Clinical Infectious Diseases</i>. DOI: <a href="https://doi.org/10.1093/cid/ciz1016">10.1093/cid/ciz1016</a></p>

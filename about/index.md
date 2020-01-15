@@ -26,19 +26,22 @@ permalink: /about/
             </div>
             <div class="p-2 flex-grow-300">
                 <h4>What can we do about it?</h4>
-                <p>Antimicrobial stewardship is a whole-of-society effort to keep antibiotics working 
-                for years to come. It includes efforts to prevent infections and address overuse 
-                of antibiotics in humans and animals.</p>
+                <p>A range of strategies are used to tackle antibiotic resistance, 
+                for instance developing new antibiotics, or reducing the use of 
+                antibiotics in humans and animals.</p>
+                <p>In health care, a strategy called <strong>antibiotic stewardship</strong>
+                 aims to ensure effective treatment of patients with infection 
+                while minimising adverse effects from antibiotic use.</p>
                 <p class="read-more">
                     <a href="/about/antimicrobial-stewardship">Read more</a>
                 </p>
             </div>
             <div class="p-2 flex-grow-300">
                 <h4>The PASS project</h4>
-                <p>PASS is a 3-year programme of research involving researchers and 
-                doctors across England between 2017-2020.</p>
-                <p>Together, they are working to design new interventions that help preserve the 
-                effectiveness of antibiotics for years to come.</p>
+                <p>PASS is a programme of research involving researchers and healthcare professionals
+                 across primary care, secondary care, care homes and the community</p>
+                <p>Together we are working to design new interventions that are tailored to each 
+                of these settings, and help to preserve the effectiveness of antibiotics for years to come.</p>
                 <p class="read-more">
                     <a href="/about/pass-project">Read more</a>
                 </p>

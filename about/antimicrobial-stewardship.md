@@ -1,6 +1,11 @@
 ---
 description: >
-  Description Antimicrobial stewardship is a whole-of-society effort to keep antibiotics working for years to come. It includes efforts to prevent infections and address overuse of antibiotics in humans and animals.
+  A range of strategies are used to tackle antibiotic resistance, 
+                  for instance developing new antibiotics, or reducing the use of 
+                  antibiotics in humans and animals.
+                  In health care, a strategy called antibiotic stewardship 
+                  aims to ensure effective treatment of patients with infection 
+                  while minimising adverse effects from antibiotic use.
 hide_description: false
 title: Antimicrobial stewardship
 permalink: /about/antimicrobial-stewardship
@@ -13,40 +18,34 @@ permalink: /about/antimicrobial-stewardship
 </ul>
 
 
-<figure>
-    <img src="/assets/img/infographics/jigsaw.svg" class="lead"/>
-    <figcaption>Stewardship in healthcare: Co-ordinated actions.</figcaption>
-</figure>
-
-Reading the news headlines, it can be easy to give up and not try to do anything about the problem of antibiotic resistance. But that is not the case, we can approach the problem from several angles:
+Reading the news headlines, it can be easy to give up and not try to do anything about the problem of antibiotic resistance. But that is not the case, we can approach the problem from several angles. Below are some examples of how doctors and researchers are tackling the problem of antibiotic resistance :
 
 ## Preventing infections and their transmission
 
 - Preventing an infection in the first place is an easy way to avoid using antibiotics, therefore avoiding the potential emergence of new antibiotic resistant bacteria
-- Preventing a transmission of infections (particularly antibiotic-resistant ones) is also important. Most people will get an antibiotic resistant infection by picking up the resistant bacteria from the environment or another person. Good hygiene measures such as hand hygiene, clean safe water and proper food handling can block this chain of transmission.
+- Preventing transmission of infection from one person to another. Being in hospital increases your risk of picking up infections.  One of the most effective ways to prevent infection spreading is proper hand-washing, but many other approaches exist which can also be used to stop the spread of infection.
 
 ## Developing new treatments
 
-The obvious answer is to develop new antibiotics. As bacteria become resistant to the older antibiotics, introduce new antibiotics onto the market. This was the approach that was taken in the past. There are a couple of problems with this approach:
+The obvious answer to the problem of antibiotic resistance is to develop new antibiotics. As bacteria become resistant to the older antibiotics, we can simply introduce new ones. This was the approach that was taken in the past, but there are a couple of problems with it now.
 
-Firstly, we can predict that after time, bacteria will develop resistance and we’ll be back to square one. We can’t say how long it would take, but the first records of bacteria resistant to antibiotics were only a few years after the first antibiotics went on the market.
+First, this is only a temporary solution. With time, nearly all bacteria develop resistance, and we are back to square one. We cannot predict how long this takes, but science shows this is an inevitable fact of bacterial life. The first records of bacteria resistant to antibiotics were only a few years after the first antibiotics went on the market.
 
-Secondly, there are significant barriers before an antibiotic can be put on the market. In particular, they are expensive to develop and profits for drug companies are lower than for other drugs.  In order to maximise profits a drug company needs to promote use, higher volume of use translates into profits, but there’s a problem here. Promoting the indiscriminate use of a new antibiotic will increase the chance of bacteria becoming resistant to it. Once this happens, the market for this antibiotic will dry up.
+Second, developing a new antibiotic is difficult and expensive. When drug companies develop new drugs, they need to sell the new drugs widely to recover the money they have invested. However, doctors and policy makers want to keep newly discovered antibiotics in a cupboard and only use them when all our existing antibiotics have stopped working. This is to stop bacteria developing resistance to the new antibiotic. Unfortunately, this also means investing in developing new antibiotics is unattractive for companies. You can read more about this problem in a [report on the antibiotic pipeline](https://wellcomecollection.org/works/zqv86kgr) published in 2015 as part of the [Review on Antimicrobial Resistance](https://amr-review.org/).
 
-The last new antibiotic to come onto the market was in ???? and there are very few new antibiotics in the pipeline. In any case it takes such a long time for new antibiotics to come onto the market, we can’t rely on this as a solution in the short and medium term. 
+## Antibiotic stewardship: Improving the use of antibiotic
 
+We know that antibiotic resistant bacteria thrive when use of antibiotics is high, so it makes sense to reduce our antibiotic use. There are risks and benefits associated with this. 
 
+Take the scenario of a child who sees their GP with a fever. The child probably has a virus and does not need antibiotics but their parents are really worried and the child is not their usual self. Not giving antibiotics could lead to a severe infection. Although this is pretty unlikely, the doctor might not be willing to take this risk. In practice, balancing the population benefits of not prescribing against the risk to the individual of infection-related complications can be very difficult in the absence of fast and accurate diagnostics.
 
-## Reducing and improving antibiotic prescribing/antibiotic stewardship
-
-We know that antibiotic resistant bacteria thrive when use of antibiotics is high, so reducing the number of antibiotics prescribed, reducing dose and duration is likely to be an effective approach. There are risks and benefits associated with this and the one of the difficult things for prescribers is to decide on the balance. Sometimes prescribers may be overcautious and one of the approaches to reducing prescribing may be to make the benefits of not prescribing outweigh the risks.
-
-Work to achieve this is generally badged under the name of antibiotic stewardship which include a whole range of approaches. These include banning sales of over-the-counter antibiotics, introducing better diagnostic tools, developing prescribing guidelines, education campaigns for the general public, providing doctors with financial incentives to reduce prescribing, giving doctors feedback on their levels of prescribing. 
-
-There are several examples of stewardship interventions that have been widely rolled out in the UK:
+Making sure that antibiotics are only prescribed for patients who really need them comes under the umbrella concept of 'antibiotic stewardship'. Antibiotic stewardship consists in promoting and monitoring judicious use of antimicrobials to preserve their future effectiveness. Antibiotic stewardship pursues two objectives:
+ - treating infections effectively
+ - minimising adverse effects of antibiotics, which include antibiotic resistance.
+  
+Several antibiotic stewardship interventions are already in use in the UK. Below are some examples that are widely implemented:
  
- - [TARGET](https://www.rcgp.org.uk/clinical-and-research/resources/toolkits/target-antibiotic-toolkit.aspx) is a toolkit which is aimed at GPs
- - [Start Smart Then Focus](https://www.gov.uk/government/publications/antimicrobial-stewardship-start-smart-then-focus) is aimed at hospital
- - Antibiotic Guardian is a wider campaign aimed at promoting stewardship to health care workers and the general public. 
+ - [TARGET](https://www.rcgp.org.uk/clinical-and-research/resources/toolkits/target-antibiotic-toolkit.aspx) is a toolkit aimed at GPs
+ - [Start Smart Then Focus](https://www.gov.uk/government/publications/antimicrobial-stewardship-start-smart-then-focus) is aimed at hospitals
  
-Antibiotic use has reduced by 9% overall in the UK between 2014 to 2018. The contribution of the above toolkits is not known with precisions. But we know that prescribing reduced in general and dental practice and increased in other community and hospital settings. This suggests more effort is still needed in parts of the health system.
+You can read more about the initiatives that are being used to tackle the problem of antibiotic resistance in the UK Government’s [National Action Plan on Tackling Antimicrobial Resistance](https://www.gov.uk/government/publications/uk-5-year-action-plan-for-antimicrobial-resistance-2019-to-2024).

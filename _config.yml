@@ -24,15 +24,17 @@ title:                 PASS
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  Preserving Antibiotics through Safe Stewardship is a three-year research programme
+    aiming to tackle antibiotic resistance in health care. Led by University College London,
+    this programme brings together researchers, clinicians, and public advisers to design new
+    interventions and help preserve the effectiveness of antibiotics for years to come.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Protecting Antibiotics <br> through Safe Stewardship
+  Preserving Antibiotics <br> through Safe Stewardship
 
 # A list of keywords for your blog
-keywords:              [blah, bluh, bloh]
+keywords:              [antibiotic stewardship, antibiotic resistance, public involvement/engagement, research]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -48,7 +50,7 @@ author:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2019 University College London. All rights reserved.
+  © 2020 University College London. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.

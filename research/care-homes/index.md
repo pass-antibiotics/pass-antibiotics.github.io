@@ -18,6 +18,7 @@ permalink: /research/care-homes
 * TOC
 {:toc}
 
+In comparison with the other health care settings considered in PASS, antimicrobial stewardship programmes are less developed in care homes, which tend to have a stronger focus on preventing and controlling infections. Care homes thus represent an important setting for research to optimise antibiotic use.
 
 ## What is already known on the subject?
 

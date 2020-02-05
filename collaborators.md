@@ -21,13 +21,12 @@ accent_image:
 ## Team members
 {% include_relative collaborators/team-members.html %}
 
+
+
 * Mr Chris Fuller, Project Manager, UCL Institute of Health Informatics
 * Doctor Ellen Fragaszy
-* Doctor Catherine Smith
 * Mr Patrick Rockenschaub --- Research Assistant, UCL Institute of Health Informatics
-*
 * [Doctor Gillian Forbes] --- Senior Research Associate, UCL Centre for Behaviour Change
-* [Doctor Elise Crayton] --- Research Associate, UCL Centre for Behaviour Change and KCL Department of Primary Care & Public Health Sciences
 
 
 ## Co-investigators

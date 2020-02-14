@@ -18,8 +18,9 @@ permalink: /about/tackling-antibiotic-resistance
 </ul>
 
 
-Reading the news headlines, it can be easy to give up and not try to do anything about the problem of antibiotic resistance. But that is not the case, we can approach the problem from several angles. Below are some examples of how clinicians and researchers are tackling the problem of antibiotic resistance:
-
+Newspaper headlines often depict an apocalyptic future, in which antibiotic resistance jeopardises medicine as we know it. 
+ 
+Yet, this prospect can be avoided. Clinicians and researchers are approaching the problem of antibiotic resistance from three angles simultaneously:
 
 * TOC
 {:toc}

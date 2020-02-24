@@ -7,7 +7,6 @@ hide_description: true
 menu: true
 order: 3
 permalink: /research/
-accent_color:          rgb(143,153,62)
 ---
 
 # Research

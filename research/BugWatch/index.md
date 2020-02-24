@@ -1,14 +1,11 @@
 ---
 title: Bug Watch
 description: >
-  Bug Watch is a cohort of community households recording symptoms, severity, 
-    and use of antimicrobials in the population of England. With Bug Watch, we can learn 
-    more about differences are between people who get infection symptoms and go to the doctor,
-    compared with those who do not go to the doctor.
-
+  Bug Watch was a cohort study of people in the community in England who recorded information about common infection symptoms and use of healthcare services. Using data from Bug Watch, we can learn how often people go to the doctor and take antibiotics for their symptoms.
 hide_description: false
 menu: false
 order: 4
+accent_color:          rgb(143,153,62)
 permalink: /research/Bug-Watch
 ---
 
@@ -29,36 +26,54 @@ permalink: /research/Bug-Watch
 --->
 
 
-## A cohort study of infection symptoms
+## A cohort study about common infections
+<div class="row">
+        <div class="col-sm">
+            <p>Bug Watch was a cohort study of people in the community in England who recorded information about common infection symptoms and use of healthcare services.</p>
+        </div>
+        <div class="col-sm"><figure id="bwlogo" float="right">
+            <img src="/assets/icons/logo_Bug_Watch.svg" alt="Logo of the Bug Watch study"/>
+            <figcaption>Logo of the Bug Watch study</figcaption>
+        </figure>
+        </div>
+    </div>
 
-Bug Watch is a cohort of community households recording symptoms, severity, and use of antimicrobials in the population of England. 
+<p>Bug Watch tells us about symptoms of infection in the community before people go to see their doctor or use other healthcare services. It means that we can describe the severity and duration of symptoms from the start of an episode of infection. It also allows us to find out what people usually do when they get an infection, and the differences between infections that lead to GP appointments and those that do not.</p>
 
-Bug Watch tells us about symptoms of infection in the community before people go to see their doctor or pharmacist. It means we can find out about the severity and duration of symptoms from the start of an episode of infection. It also enables researchers to investigate differences between people who proceed to go to the doctor and those who do not.
-
-In total, 1,242 adults and children registered between March and November 2018, with a total follow up time of 23,111 person-weeks. Participants in Bug Watch were asked to keep a weekly diary of common symptoms of infection like cough, sour throat, burning in peeing etc. They completed the survey for a total duration of six months.
+<p>In total, 1,242 adults and children registered for Bug Watch between March and November 2018. Participants filled out weekly surveys reporting symptoms of infection in seven different categories (general/nonspecific, respiratory, gastrointestinal, urinary tract, mouth/dental, skin/soft tissue, and eye). They completed the surveys for six months.</p>
 
 ## What is already known on the subject?
 
-- Most antibiotics are prescribed in primary care, and at least 23% of prescriptions are thought to be inappropriate.
-- One way to reduce inappropriate antibiotic prescribing in primary care is to encourage fewer the people to visit their GP when they have symptoms of infection.
-- Previous studies have shown that most people safely self-manage symptoms of respiratory tract and gastrointestinal infections. This is known as a clinical “iceberg” of infection. 
-- There is little information on how people manage other symptoms of infection, or what other sources of information people use to get advice about their symptoms.
+-	Most antibiotics are prescribed in primary care, and at least 23% of prescriptions are thought to be inappropriate.
+-	One way to reduce inappropriate antibiotic prescribing in primary care is to encourage fewer the people to visit their GP when they have symptoms of infection.
+-	Previous studies have shown that most people safely self-manage symptoms of respiratory tract and gastrointestinal infections. This is known as a clinical “iceberg” of infection. 
+-	There is little information on how people manage other symptoms of infection, or what other sources of information people use to get advice about their symptoms.
 
 ## What questions did we ask?
 
-- What is the incidence of common acute infections in the general population in England? We looked at symptoms of respiratory tract, gastrointestinal, urinary tract, skin/soft tissue, mouth/dental, and eye infections. 
-- What are the most commonly used sources of healthcare advice for different symptoms of infection?
-- What proportion of people with symptoms of infection use an antibiotic?
+-	What is the incidence of common acute infections in the general population in England? We looked at symptoms of respiratory tract, gastrointestinal, urinary tract, skin/soft tissue, mouth/dental, and eye infections. 
+-	What are the most commonly used sources of healthcare advice for different symptoms of infection?
+-	What proportion of people with symptoms of infection use an antibiotic?
+-	How long to symptoms usually last and how do they impact quality of life?
 
 ## What did we find?
-- There is a large clinical iceberg of infection across all symptom categories. Most people manage symptoms of infection without seeking medical advice.
-- Overall, 1 in 10 infections led to a GP consultation and 1 in 8 to antibiotic use.
-- People most frequently consulted a GP (or dentist) about their symptoms but a variety of other sources including pharmacies and the internet were also used frequently.
-- A considerable proportion of people went to hospital for their symptoms (particularly for urinary tract infection syndromes)
-- The NHS 111 service was not used often. 
-- Most antibiotics were prescribed by GPs but hospital doctors were also an important source.
-- Half of the antibiotics used were prescribed within three days of the onset of symptoms. 
-- Delayed (or “standby”) prescriptions were used infrequently.
+
+-	There is a large clinical iceberg of infection across all symptom categories. Most people manage symptoms of infection without seeking medical advice. 
+-	Overall, 14% of infections led to a GP or dentist consultation and 1 in 10 to antibiotic use.
+
+<figure id="bwicebergs">
+    <img src="/assets/img/infographics/bug_watch_icebergs.svg" class="lead" title="There was a large clinical “iceberg” for all infection types, with most people not consulting a GP or dentist about their symptoms. Although the proportion of people seeking medical attention was highest for urinary tract infections, the largest number was for respiratory tract infections." alt="There was a large clinical “iceberg” for all infection types, with most people not consulting a GP or dentist about their symptoms. Although the proportion of people seeking medical attention was highest for urinary tract infections, the largest number was for respiratory tract infections."/>
+    <figcaption>Clinical "icebergs" of infection: Number and percentage of people who consulted a GP or dentist about their symptoms</figcaption>
+</figure>
+
+-	People most frequently consulted a GP (or dentist) about their symptoms but a variety of other sources including pharmacies and the internet were also used frequently. The NHS 111 service was not used often. 
+-	Most antibiotics were prescribed by GPs but hospital doctors were also an important source, particularly for urinary tract infections.
+-	Half of the antibiotics used were prescribed within three days of the onset of symptoms. 
+-	Symptoms usually resolved within a week but more than a quarter of syndromes lasted longer for all except urinary tract and gastrointestinal symptoms. 
+-	The worst day of symptoms occurred on average after three days and overall impacts on health-related quality of life lost were less than one day.
+-	Anonymised data from Bug Watch will be made available through the <a href="https://ukdataservice.ac.uk/">UK Data Service</a>. 
+
+
 
 ## References
 

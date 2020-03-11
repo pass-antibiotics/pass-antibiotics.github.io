@@ -8,20 +8,20 @@ accent_image:
   overlay:    false
 ---
 
-
 * TOC
 {:toc}
 
 ## Chief investigators
-{% include_relative collaborators/chief-investigators.html %}
+{% include_relative chief-investigators.html %}
 
 ## Project leads
-{% include_relative collaborators/project-leads.html %}
+{% include_relative project-leads.html %}
 
 ## Team members
-{% include_relative collaborators/team-members.html %}
+{% include_relative team-members.html %}
 
 ## Co-investigators
+{% include_relative co-investigators.html %}
 
 ## Project partners
 

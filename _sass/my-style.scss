@@ -141,7 +141,6 @@ ul.breadcrumb li a:hover {
   border-radius: 7px;
   background: #4fb1ba;
   margin: 7px;
-  padding: 20px 20px !important;
   min-height: 50px;
   text-align: justify;
   flex-flow: column nowrap;
@@ -150,8 +149,21 @@ ul.breadcrumb li a:hover {
 #about.tiles .flex .p-2 {
   background: #193747;
   color: white;
+  font-size: .95em;
+  padding: 20px 20px !important;
 }
 
+#research.tiles .flex .p-2 {
+  background: rgb(10, 48, 18);
+  color: white;
+  padding: 30px 30px !important;
+  font-size: .95em;
+}
+
+.tiles .flex .p-2 .read-more a:not(.btn) {
+  color: #CCCCCC;
+  border-color: #CCCCCC;
+}
 
 //.tiles .flex .p-2:hover {
 //  background: #222 !important;
@@ -162,28 +174,36 @@ ul.breadcrumb li a:hover {
   margin: 0;
   color: white;
   line-height: normal;
-  padding-top: 10px;
-  font-size: .83em;
+  padding-top: 20px;
 }
 
 .tiles .flex .p-2  ul {
   //margin: 0;
   color: white;
   line-height: normal;
-  font-size: .83em;
 }
 
-
-.tiles .flex .p-2 h4 {
+.tiles .flex .p-2 h1 {
   margin: 0;
   //margin-bottom: 1rem;
 }
+
+.tiles .flex .p-2 h2 {
+  margin: 0;
+  //margin-bottom: 1rem;
+}
+
+.tiles .flex .p-2 h3 {
+  margin: 0;
+  //margin-bottom: 1rem;
+}
+
+
 .tiles .flex .p-2 .read-more {
   margin-top: auto;
   margin-bottom:0;
   text-align: right;
   color:white;
-  font-size: .83em;
 }
 
 @media (max-width: 575px) {
@@ -197,8 +217,6 @@ ul.breadcrumb li a:hover {
 
 
 /*===== CARD =====*/
-
-
 
 .card {
   position: relative;
@@ -222,6 +240,18 @@ ul.breadcrumb li a:hover {
    margin: 0;
  }
 
+.huge-text {
+  font-size: 2em;
+}
+
+.large-text {
+  font-size: 1.5em;
+}
+
+.text-muted {
+  color: darkgrey;
+}
+
 //.tiles .flex .p-2 h4 {
 //  margin: 0;
 //  //margin-bottom: 1rem;
@@ -241,11 +271,19 @@ ul.breadcrumb li a:hover {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   min-height: 1px;
-  padding: 1.25rem;
+  padding-top: 1rem;
+  padding-right: 1.25rem;
+  padding-bottom: 1.25rem;
+  padding-left: 1.25rem;
+}
+
+.card-text {
+  font-size: 0.8rem;
 }
 
 .card-title {
   margin-bottom: 0.75rem;
+  font-size: 0.9rem;
 }
 
 .card-subtitle {
@@ -270,6 +308,7 @@ ul.breadcrumb li a:hover {
   margin-bottom: 0;
   background-color: rgba(0, 0, 0, 0.03);
   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  font-size: 0.95rem;
 }
 
 .card-header:first-child {
@@ -347,9 +386,9 @@ ul.breadcrumb li a:hover {
   }
   .card-deck .card {
     -ms-flex: 1 0 0%;
-    flex: 1 0 0%;
-    margin-right: 15px;
-    margin-left: 15px;
+    flex: 1 250px;
+    margin-right: 10px;
+    margin-left: 10px;
   }
 }
 

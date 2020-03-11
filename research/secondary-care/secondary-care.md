@@ -5,11 +5,14 @@ description: >
 hide_description: false
 menu: false
 order: 4
+accent_color: rgb(50, 121, 129)
+accent_image:
+  background: rgb(38, 156, 166)
+  overlay:    false
 permalink: /research/secondary-care
 ---
-<!--
-accent_color:          rgb(143,153,62)
--->
+
+
 
 <ul class="breadcrumb">
   <li><a href="/">Home</a></li>
@@ -39,7 +42,7 @@ evidence on hospital antimicrobial stewardship (see [Guidelines & toolkits](#gui
 
 ## Use of antimicrobials in UK hospitals
 
-In the UK, hospitals are responsible for 20% of the total amount of antibiotics prescribed in humans. Compared with other health care environments, hospitals prescribe more broad-spectrum antibiotics, which are the drugs used for the most severe infections. Hospitals can also play an important role in transmitting infections to other settings such as the community, for example when an individual with an active infection is discharged to a care home.
+In the UK, hospitals are responsible for 20% of the total amount of antibiotics prescribed in humans. Compared with other healthcare environments, hospitals prescribe more broad-spectrum antibiotics, which are the drugs used for the most severe infections. Hospitals can also play an important role in transmitting infections to other settings such as the community, for example when an individual with an active infection is discharged to a care home.
 
 There are signs that antibiotics are being overused in hospitals:
 
@@ -161,7 +164,7 @@ TBC - Rosie
 
 ## Review of published evidence
 
-Interventions delivered in hospital inpatient settings employed 29 out of a total of 93 behaviour change techniques (BCTs), highlighting that many <abbr title="behaviour change techniques">BCT</abbr>s are not used at all. 
+Interventions delivered in hospital inpatient settings employed 29 out of a total of 93 behaviour change techniques (<abbr title="behaviour change techniques">BCT</abbr>s), highlighting that many <abbr title="behaviour change techniques">BCT</abbr>s are not used at all. 
 
 The average number of <abbr title="behaviour change techniques">BCT</abbr>s in each intervention was 4.5, 
 showing that interventions are designed as a complex combination of techniques. 
@@ -177,7 +180,7 @@ technique">BCT</abbr> *(1.2) Problem solving* were more effective than other int
 in analysing, or prompting the person to analyse, factors influencing their prescribing and bringing forward strategies 
 to overcome barriers to improve prescribing. 
 
-
+<!--
 ## Electronic health records
 We found that 
 There is a delay in adopting new guidelines - for instance the pneumonia switch to amox rather than co-amox is not implemented by X% of teams two years after.
@@ -187,14 +190,14 @@ Can we see an effect in the change of coamox?
 ## Interviews
 TBC – Gill 
 Facilitators and barriers to stewardship functions and prescribing.
-
+-->
 
 # Bringing it all together
 We are currently working to synthesize what we have learnt and develop behaviour change interventions. This involves
 
-- Reviewing barriers and facilitators of stewardship
-- Identifying mechanisms of change and behaviour change techniques
-- Collaborating with practitioners to decide how best to deliver behaviour change techniques in terms of feasibility and acceptability.
+- reviewing barriers and facilitators of stewardship
+- identifying mechanisms of change and behaviour change techniques
+- collaborating with practitioners to decide how best to deliver behaviour change techniques in terms of feasibility and acceptability.
 
 # Resources
 
@@ -301,7 +304,7 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 <p id="Chung2013">Chung, G. W. W., Wu, J. E. E., Yeo, C. L. L., Chan, D., &amp; Hsu, L. Y. Y. (2013).
     Antimicrobial stewardship: A review of prospective audit and feedback systems
     and an objective evaluation of outcomes. <i>Virulence</i>, <i>4</i>(2),
-    151–157. DOI: <a href="https://doi.org/10.4161/viru.21626">https://doi.org/10.4161/viru.21626</a>
+    151–157. DOI: <a href="https://doi.org/10.4161/viru.21626">10.4161/viru.21626</a>
 </p>
 
 <p id="Fawcett2016">Fawcett, N. J., Jones, N., Quan, T. P., Mistry, V., Crook, D., Peto, T., &amp; Walker, A. S. (2016). 
@@ -321,7 +324,7 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 
 <p id="Laplante2017"> LaPlante, K. L., Cunha, C. B.,
 Morrill, H. J., Rice, L. B., &amp; Mylonakis, E. (Eds.). (2017). <i>Antimicrobial stewardship: principles and practice</i>.
-Wallingford: CABI. DOI: <a href="https://doi.org/ https://doi.org/10.1079/9781780644394.0000"> https://doi.org/10.1079/9781780644394.0000</a>  </p>
+Wallingford: CABI. DOI: <a href="https://doi.org/ https://doi.org/10.1079/9781780644394.0000">10.1079/9781780644394.0000</a>  </p>
 
 <p id="Laudy2016">Laundy, M., Gilchrist, M., &amp; Whitney, L. (Eds.). (2016). <i>Antimicrobial Stewardship</i> (Vol. 1).
 Oxford University Press. DOI: <a href="https://doi.org/10.1093/med/9780198758792.001.0001">10.1093/med/9780198758792.001.0001</a> </p>

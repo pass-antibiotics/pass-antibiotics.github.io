@@ -3,7 +3,7 @@ description: >
   A range of strategies are used to tackle antibiotic resistance, 
                   for instance developing new antibiotics, or reducing the use of 
                   antibiotics in humans and animals.
-                  In health care, a strategy called antibiotic stewardship 
+                  In healthcare, a strategy called antibiotic stewardship 
                   aims to ensure effective treatment of patients with infection 
                   while minimising adverse effects from antibiotic use.
 hide_description: false
@@ -18,7 +18,7 @@ permalink: /about/tackling-antibiotic-resistance
 </ul>
 
 
-Newspaper headlines often depict an apocalyptic future, in which antibiotic resistance jeopardises medicine as we know it. 
+Newspaper headlines often depict an apocalyptic future, in which [antibiotic resistance](antibiotic-resistance) jeopardises medicine as we know it. 
  
 Yet, this prospect can be avoided. Clinicians and researchers are approaching the problem of antibiotic resistance from three angles simultaneously:
 

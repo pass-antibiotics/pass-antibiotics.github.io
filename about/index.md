@@ -1,15 +1,19 @@
 ---
 description: >
    Drug-resistant infections are a global threat. PASS and Bug Watch are research studies led by 
-    University College London to find solutions to this problem in health care environments. One 
+    University College London to find solutions to this problem in healthcare environments. One 
     of those solutions lies in the 'stewardship' of antibiotics, that is: the safe and effective 
     use of antibiotics.
-hide_description: true
+hide_description: false
 title: About
 hide_title: true
 menu: true
 order: 1
 permalink: /about/
+accent_color: #193747
+accent_image:
+  background: #193747
+  overlay:    false
 ---
 
 
@@ -17,7 +21,7 @@ permalink: /about/
     <div class="container">
         <div class="flex text-center">
             <div class="p-2 flex-grow-300">
-                <h4>What is antibiotic resistance?</h4>
+                <h3>What is antibiotic resistance?</h3>
                 <p>Bacteria that cause infections adapt and develop the ability to defeat the medicines
                     designed to kill them. </p>
                 <p>Drugs like antibiotics are becoming less effective at treating infections.
@@ -27,11 +31,11 @@ permalink: /about/
                 </p>
             </div>
             <div class="p-2 flex-grow-300">
-                <h4>What can we do about it?</h4>
+                <h3>What can we do about it?</h3>
                 <p>A range of strategies are used to tackle antibiotic resistance, 
                 for instance developing new antibiotics, or reducing the use of 
                 antibiotics in humans and animals.</p>
-                <p>In health care, a strategy called <strong>antibiotic stewardship</strong>
+                <p>In healthcare, a strategy called <strong>antibiotic stewardship</strong>
                  aims to ensure effective treatment of patients with infection 
                 while minimising adverse effects from antibiotic use.</p>
                 <p class="read-more">
@@ -39,9 +43,9 @@ permalink: /about/
                 </p>
             </div>
             <div class="p-2 flex-grow-300">
-                <h4>The PASS project</h4>
+                <h3>The PASS project</h3>
                 <p>PASS is a programme of research involving researchers and healthcare professionals
-                 across primary care, secondary care, care homes and the community</p>
+                 across primary care, secondary care, care homes and the community.</p>
                 <p>Together we are working to design new interventions that are tailored to each 
                 of these settings, and help to preserve the effectiveness of antibiotics for years to come.</p>
                 <p class="read-more">
@@ -49,7 +53,7 @@ permalink: /about/
                 </p>
             </div>
             <div id="interdisciplinary-work" class="p-2 flex-grow-300">
-                <h4>Interdisciplinary work</h4>
+                <h3>Interdisciplinary work</h3>
                 <p>PASS brings together researchers from different academic disciplines:</p>
                 <ul>
                     <li>behavioural science</li>

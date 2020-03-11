@@ -18,7 +18,7 @@ permalink: /research/care-homes
 * TOC
 {:toc}
 
-In comparison with the other health care settings considered in PASS, antimicrobial stewardship programmes are less developed in care homes, which tend to have a stronger focus on preventing and controlling infections. Care homes thus represent an important setting for research to optimise antibiotic use.
+In comparison with the other healthcare settings considered in PASS, antimicrobial stewardship programmes are less developed in care homes, which tend to have a stronger focus on preventing and controlling infections. Care homes thus represent an important setting for research to optimise antibiotic use.
 
 ## What is already known on the subject?
 
@@ -34,6 +34,14 @@ In comparison with the other health care settings considered in PASS, antimicrob
 - What is the rate of antibiotic prescribing for care home residents in the UK?
 - How does prescribing vary by resident and care home characteristics?
 - What infections are antibiotics most used for, and how does the type of antibiotic used compare with guidelines?
+
+
+### Interviews
+
+
+### Observations 
+
+
 
 ## What did we find?
 

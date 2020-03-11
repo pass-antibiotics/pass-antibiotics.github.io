@@ -77,7 +77,7 @@ Your body is teeming with bacteria. Your gut, for instance, contains around 100 
 
 Antibiotics are not only used in humans. They are also used in pets and farm animals, in fish, in agriculture and in food production. This means that the way antibiotic resistance occurs is complicated involving humans, animals and the environment. But, as you might expect, one of the main reasons for the development of antibiotic resistance is the amount of antibiotics used. The greater the quantity of antibiotic used the, greater the likelihood of antibiotic resistance. 
 
-This is why the PASS project focuses on improving antibiotic prescribing, and reducing the number of people who get treated with antibiotics when they do not need them.
+This is why the PASS project focuses on [improving antibiotic prescribing](tackling-antibiotic-resistance), and reducing the number of people who get treated with antibiotics when they do not need them.
 
 
 <!--- 

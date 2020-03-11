@@ -7,6 +7,10 @@ hide_description: true
 menu: true
 order: 3
 permalink: /research/
+accent_color: rgb(10, 48, 18)
+accent_image:
+  background: rgb(10, 48, 18)
+  overlay:    false
 ---
 
 # Research

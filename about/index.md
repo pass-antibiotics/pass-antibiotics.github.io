@@ -6,13 +6,12 @@ description: >
     use of antibiotics.
 hide_description: false
 title: About
-hide_title: true
 menu: true
 order: 1
 permalink: /about/
-accent_color: #193747
+accent_color: rgb(25,55,71)
 accent_image:
-  background: #193747
+  background: rgb(25,55,71)
   overlay:    false
 ---
 
@@ -21,7 +20,7 @@ accent_image:
     <div class="container">
         <div class="flex text-center">
             <div class="p-2 flex-grow-300">
-                <h3>What is antibiotic resistance?</h3>
+                <a href="/about/antibiotic-resistance"><h3>What is antibiotic resistance?</h3></a>
                 <p>Bacteria that cause infections adapt and develop the ability to defeat the medicines
                     designed to kill them. </p>
                 <p>Drugs like antibiotics are becoming less effective at treating infections.
@@ -31,7 +30,7 @@ accent_image:
                 </p>
             </div>
             <div class="p-2 flex-grow-300">
-                <h3>What can we do about it?</h3>
+                <a href="/about/tackling-antibiotic-resistance"><h3>What can we do about it?</h3></a>
                 <p>A range of strategies are used to tackle antibiotic resistance, 
                 for instance developing new antibiotics, or reducing the use of 
                 antibiotics in humans and animals.</p>
@@ -43,7 +42,7 @@ accent_image:
                 </p>
             </div>
             <div class="p-2 flex-grow-300">
-                <h3>The PASS project</h3>
+                <a href="/about/pass-project"><h3>The PASS project</h3></a>
                 <p>PASS is a programme of research involving researchers and healthcare professionals
                  across primary care, secondary care, care homes and the community.</p>
                 <p>Together we are working to design new interventions that are tailored to each 
@@ -53,7 +52,7 @@ accent_image:
                 </p>
             </div>
             <div id="interdisciplinary-work" class="p-2 flex-grow-300">
-                <h3>Interdisciplinary work</h3>
+                 <a href="/about/interdisciplinary-work"><h3>Interdisciplinary work</h3></a>
                 <p>PASS brings together researchers from different academic disciplines:</p>
                 <ul>
                     <li>behavioural science</li>

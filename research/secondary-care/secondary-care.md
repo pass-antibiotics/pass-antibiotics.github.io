@@ -155,11 +155,27 @@ include tertiary specialist care such as transplant medicine or haematology).
 Questionnaire
 
 ## Observations
-TBC - Leicester
-## Design workshops
-TBC - Rosie
+
+An ethnographer conducted non-participant observation at a large teaching hospital in Birmingham, UK. Four consultant teams were drawn at random from hospital databases based on their record of prescribing. The researcher observed a total of four wards during a total of 123 hours.
+
+The researcher recorded detailed hand written field notes while at the research site. The researcher reflected on these notes and audio recorded the field notes, reflections and interpretations. These audio recordings were then transcribed and analysed alongside pictures and policies/guidelines collected from the research site.
+
+Data were analysed using a qualitative data analysis software by coding contextual determinants of healthcare improvement. This was based on a framework of six universal challenges to improving quality commonly faced by healthcare organisation and identified by Bate, Mendel and Robert [(2008)](#Bate2018).
+
+<div class="message">
+    <h3>The six universal challenges to improving quality in healthcare (Bate et al. <a href="#Bate2018">2008</a>)</h3>
+    <ol>
+        <li><span class="h5"><strong>structural challenges:</strong></span> organising, planning and coordinating quality efforts</li>
+        <li><span class="h5"><strong>political challenges:</strong></span> addressing and dealing with the politics of change surrounding any quality improvement effort</li>
+        <li><span class="h5"><strong>cultural challenges:</strong></span> giving ‘quality’ a shared, collective meaning, value and significance within the organisation</li>
+        <li><span class="h5"><strong>educational challenges:</strong></span> creating a learning process that supports improvement</li>
+        <li><span class="h5"><strong>emotional challenges:</strong></span>  engaging and motivating people by linking quality improvement efforts to inner sentiments and deeper commitments and beliefs</li>
+        <li><span class="h5"><strong>physical and technological challenges:</strong></span>  the designing of physical systems and technological infrastructure that supports and sustains quality efforts.</li>
+    </ol>
+</div>
 
 
+ 
 # What did we find?
 
 ## Review of published evidence
@@ -199,6 +215,9 @@ We are currently working to synthesize what we have learnt and develop behaviour
 - identifying mechanisms of change and behaviour change techniques
 - collaborating with practitioners to decide how best to deliver behaviour change techniques in terms of feasibility and acceptability.
 
+
+
+
 # Resources
 
 ## Guidelines & toolkits
@@ -212,7 +231,7 @@ We are currently working to synthesize what we have learnt and develop behaviour
     <p id='Gyssens1992'>Gyssens, I. C., Van Den Broek, P. J., Kullberg, B.-J., Hekster, Y. A., &amp; Van Der Meer, J. W. M. (1992).
         Optimizing antimicrobial therapy. A method for antimicrobial drug use evaluation. 
         <i>Journal of Antimicrobial Chemotherapy</i>, <i>30</i>(5), 724–727. 
-        DOI: <a href="https://doi.org/10.1093/jac/30.5.724">10.1093/jac/30.5.724</a>
+        DOI: <a target="_blank" href="https://doi.org/10.1093/jac/30.5.724">10.1093/jac/30.5.724</a>
     </p>
 
     <p id='NICE-NG15'>National Institute of Health and Care Excellence (2015). Antimicrobial stewardship: systems and processes
@@ -232,14 +251,14 @@ We are currently working to synthesize what we have learnt and develop behaviour
 <div class='references'>
 <p id='Howard2015'>Howard, P., Pulcini, C., Levy Hara, G., West, R. M., Gould, I. M., Harbarth, S., &amp; Nathwani,
     D. (2015). An international cross-sectional survey of antimicrobial stewardship programmes in hospitals. <i>Journal of
-        Antimicrobial Chemotherapy</i>, <i>70</i>(4), 1245–1255. DOI: <a href="https://doi.org/10.1093/jac/dku497">10.1093/jac/dku497</a></p>
+        Antimicrobial Chemotherapy</i>, <i>70</i>(4), 1245–1255. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dku497">10.1093/jac/dku497</a></p>
 
 <p id='VanGastel2010'> Van Gastel, E., Costers, M., Peetermans, W. E. E., &amp; Struelens, M. J. J. (2010).
     Nationwide implementation of antibiotic management teams in Belgian hospitals: A self-reporting survey. <i>Journal
-        of Antimicrobial Chemotherapy</i>, <i>65</i>(3), 576–580. DOI: <a href="https://doi.org/10.1093/jac/dkp470">10.1093/jac/dkp470</a></p>
+        of Antimicrobial Chemotherapy</i>, <i>65</i>(3), 576–580. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkp470">10.1093/jac/dkp470</a></p>
 
 <p id='Chung2010'>Chung, G. W. W., Wu, J. E. E., Yeo, C. L. L., Chan, D., &amp; Hsu, L. Y. Y. (2013). Antimicrobial
-    stewardship. <i>Virulence</i>, <i>4</i>(2), 151–157. DOI: <a href="https://doi.org/10.4161/viru.21626">10.4161/viru.21626</a>
+    stewardship. <i>Virulence</i>, <i>4</i>(2), 151–157. DOI: <a target="_blank" href="https://doi.org/10.4161/viru.21626">10.4161/viru.21626</a>
 </p>
 
 <p id="ECDC-TESSy2017"> European Centre for Disease Prevention and Control (2017). <i>Antimicrobial consumption -- Annual Epidemiological Report for 2017</i>. Stockholm: ECDC. <a
@@ -247,7 +266,7 @@ We are currently working to synthesize what we have learnt and develop behaviour
 
 <p id="Scobie2019">Scobie, A., Budd, E. L., Harris, R. J., Hopkins, S., &amp; Shetty, N. (2019). Antimicrobial
     stewardship: an evaluation of structure and process and their association with antimicrobial prescribing
-    in NHS hospitals in England. <i>Journal of Antimicrobial Chemotherapy</i>, <i>74</i>(4), 1143–1152. DOI: <a href="https://doi.org/10.1093/jac/dky538">10.1093/jac/dky538</a></p>
+    in NHS hospitals in England. <i>Journal of Antimicrobial Chemotherapy</i>, <i>74</i>(4), 1143–1152. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dky538">10.1093/jac/dky538</a></p>
 </div>
 
 ## Reviews
@@ -257,7 +276,7 @@ We are currently working to synthesize what we have learnt and develop behaviour
 <p id="Baur2017">Baur, D., Gladstone, B. P., Burkert, F., Carrara, E., Foschi, F., Döbele, S., &amp; Tacconelli, E. (2017). 
 Effect of antibiotic stewardship on the incidence of infection and colonisation with antibiotic-resistant 
 bacteria and Clostridium difficile infection: a systematic review and meta-analysis. <i>The Lancet Infectious Diseases</i>, 
-<i>17</i>(9), 990–1001. DOI: <a href="https://doi.org/10.1016/S1473-3099(17)30325-0">10.1016/S1473-3099(17)30325-0</a></p>
+<i>17</i>(9), 990–1001. DOI: <a target="_blank" href="https://doi.org/10.1016/S1473-3099(17)30325-0">10.1016/S1473-3099(17)30325-0</a></p>
 
 <p id='Davey2010'>Davey, P., Sneddon, J., &amp; Nathwani, D. (2010). Overview of strategies for
 overcoming the challenge of antimicrobial resistance. <i>Expert Review of
@@ -268,7 +287,7 @@ href="https://doi.org/10.1586/ecp.10.46">10.1586/ecp.10.46</a></p>
 action - Improving the design and reporting of behaviour change interventions
 for antimicrobial stewardship in hospitals: Early findings from a systematic
 review. <i>International Journal of Antimicrobial Agents</i>, <i>45</i>(3),
-203–212. DOI: <a href="https://doi.org/10.1016/j.ijantimicag.2014.11.014">10.1016/j.ijantimicag.2014.11.014</a></p>
+203–212. DOI: <a target="_blank" href="https://doi.org/10.1016/j.ijantimicag.2014.11.014">10.1016/j.ijantimicag.2014.11.014</a></p>
 
 <p id='Davey2017'>Davey, P., Marwick, C. A., Scott, C. L., Charani, E., McNeil, K., Brown, E., … Michie,
 S. (2017). Interventions to improve antibiotic prescribing practices for
@@ -291,7 +310,8 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 ## Other research
 
 <div class='references'>
-    
+<p id="Bate2018">Bate, P., Mendel, P., &amp Robert, G. (2008). <i>Organizing for Quality: The Improvement Journeys of Leading Hospitals in Europe and the United States</i>. Research report. London: Nuffield Trust. <i>Available <a href="https://www.nuffieldtrust.org.uk/research/organizing-for-quality-the-improvement-journeys-of-leading-hospitals-in-europe-and-the-united-states">online</a></i></p>   
+
 <p id="Broom2016">Broom, J., Broom, A., Plage, S., Adams, K., &amp; Post, J. J. (2016). Barriers to
     uptake of antimicrobial advice in a UK hospital: A qualitative study. <i>Journal
         of Hospital Infection</i>, <i>93</i>(4), 418–422. DOI: <a
@@ -304,7 +324,7 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 <p id="Chung2013">Chung, G. W. W., Wu, J. E. E., Yeo, C. L. L., Chan, D., &amp; Hsu, L. Y. Y. (2013).
     Antimicrobial stewardship: A review of prospective audit and feedback systems
     and an objective evaluation of outcomes. <i>Virulence</i>, <i>4</i>(2),
-    151–157. DOI: <a href="https://doi.org/10.4161/viru.21626">10.4161/viru.21626</a>
+    151–157. DOI: <a target="_blank" href="https://doi.org/10.4161/viru.21626">10.4161/viru.21626</a>
 </p>
 
 <p id="Fawcett2016">Fawcett, N. J., Jones, N., Quan, T. P., Mistry, V., Crook, D., Peto, T., &amp; Walker, A. S. (2016). 
@@ -314,7 +334,7 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 
 <p id="Hughes2017">Hughes, J., Huo, X., Falk, L., Hurford, A., Lan, K., Coburn, B., ..., Wu, J. (2017). Benefits 
     and unintended consequences of antimicrobial de-escalation: Implications for stewardship programs. <i>PLOS ONE</i>,
-    <i>12</i>(2), e0171218. DOI: <a href="https://doi.org/10.1371/journal.pone.0171218">10.1371/journal.pone.0171218</a></p>
+    <i>12</i>(2), e0171218. DOI: <a target="_blank" href="https://doi.org/10.1371/journal.pone.0171218">10.1371/journal.pone.0171218</a></p>
 
 </div>
 
@@ -324,11 +344,18 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 
 <p id="Laplante2017"> LaPlante, K. L., Cunha, C. B.,
 Morrill, H. J., Rice, L. B., &amp; Mylonakis, E. (Eds.). (2017). <i>Antimicrobial stewardship: principles and practice</i>.
-Wallingford: CABI. DOI: <a href="https://doi.org/ https://doi.org/10.1079/9781780644394.0000">10.1079/9781780644394.0000</a>  </p>
+Wallingford: CABI. DOI: <a target="_blank" href="https://doi.org/ https://doi.org/10.1079/9781780644394.0000">10.1079/9781780644394.0000</a>  </p>
 
 <p id="Laudy2016">Laundy, M., Gilchrist, M., &amp; Whitney, L. (Eds.). (2016). <i>Antimicrobial Stewardship</i> (Vol. 1).
-Oxford University Press. DOI: <a href="https://doi.org/10.1093/med/9780198758792.001.0001">10.1093/med/9780198758792.001.0001</a> </p>
+Oxford University Press. DOI: <a target="_blank" href="https://doi.org/10.1093/med/9780198758792.001.0001">10.1093/med/9780198758792.001.0001</a> </p>
 
 </div>
 
  
+
+
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/research">Research</a></li>
+   <li>Secondary care</li>
+</ul> 

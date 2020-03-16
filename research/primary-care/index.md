@@ -58,19 +58,26 @@ Since they continuously manage their patients’ health conditions, GPs are also
   
 <div class='references'>
 
-<p id="Dolk2018">Dolk, F. C. K., Pouwels, K. B., Smith, D. R. M., Robotham, J. V, & Smieszek, T. (2018). Antibiotics in primary care in England: which antibiotics are prescribed and for which conditions?  <i>Journal of Antimicrobial Chemotherapy</i>, <i>73</i>(suppl. 2), ii2–ii10. DOI: <a href="https://doi.org/10.1093/jac/dkx504">10.1093/jac/dkx504</a></p>
+<p id="Dolk2018">Dolk, F. C. K., Pouwels, K. B., Smith, D. R. M., Robotham, J. V, & Smieszek, T. (2018). Antibiotics in primary care in England: which antibiotics are prescribed and for which conditions?  <i>Journal of Antimicrobial Chemotherapy</i>, <i>73</i>(suppl. 2), ii2–ii10. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkx504">10.1093/jac/dkx504</a></p>
 
-<p id="Pouwels2019">Pouwels K. B., Hopkins, S., Llewelyn M. J., Walker A. S., McNulty C. A. M., Robotham J. V. (2019) Duration of antibiotic treatment for common infections in English primary care: cross sectional analysis and comparison with guidelines. <i>British Medical Journal</i>, 364:l440. DOI: <a href="https://doi.org/10.1136/bmj.l440">10.1136/bmj.l440</a></p>
+<p id="Pouwels2019">Pouwels K. B., Hopkins, S., Llewelyn M. J., Walker A. S., McNulty C. A. M., Robotham J. V. (2019) Duration of antibiotic treatment for common infections in English primary care: cross sectional analysis and comparison with guidelines. <i>British Medical Journal</i>, 364:l440. DOI: <a target="_blank" href="https://doi.org/10.1136/bmj.l440">10.1136/bmj.l440</a></p>
 
 <p id="ESPAUR2019">Public Health England (2019). English surveillance programme for antimicrobial utilisation and resistance (ESPAUR) Report 2018-2019. Available <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/843129/English_Surveillance_Programme_for_Antimicrobial_Utilisation_and_Resistance_2019.pdf">online</a> [Accessed 10 Feb 2020]</p>
 
 <p id="Rockenshaub2019a">Rockenschaub, P., Jhass, A., Freemantle, N., Aryee, A., Rafiq, M., Hayward, A., &amp; Shallcross, L. (2019). Opportunities to reduce antibiotic prescribing for patients with COPD in primary care: a cohort study using electronic health records from the Clinical Practice Research Datalink
-(CPRD). <i>Journal of Antimicrobial Chemotherapy</i>. DOI: <a href="https://doi.org/10.1093/jac/dkz411">10.1093/jac/dkz411</a></p>
+(CPRD). <i>Journal of Antimicrobial Chemotherapy</i>. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkz411">10.1093/jac/dkz411</a></p>
 
-<p id="Shallcross2017">Shallcross, L., Beckley, N., Rait, G., Hayward, A., & Petersen, I. (2017). Antibiotic prescribing frequency amongst patients in primary care: a cohort study using electronic health records. <i>Journal of Antimicrobial Chemotherapy</i>, <i>72</i>(6), 1818–1824. DOI: <a href="https://doi.org/10.1093/jac/dkx048">10.1093/jac/dkx048</a></p>
+<p id="Shallcross2017">Shallcross, L., Beckley, N., Rait, G., Hayward, A., & Petersen, I. (2017). Antibiotic prescribing frequency amongst patients in primary care: a cohort study using electronic health records. <i>Journal of Antimicrobial Chemotherapy</i>, <i>72</i>(6), 1818–1824. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkx048">10.1093/jac/dkx048</a></p>
 
-<p id="Smith2018">Smith, D. R. M., Dolk, F. C. K., Pouwels, K. B., Christie, M., Robotham, J. V, & Smieszek, T. (2018). Defining the appropriateness and inappropriateness of antibiotic prescribing in primary care. <i>Journal of Antimicrobial Chemotherapy</i>, <i>73</i>(suppl. 2), ii11–ii18. DOI: <a href="https://doi.org/10.1093/jac/dkx503">10.1093/jac/dkx503</a></p>
+<p id="Smith2018">Smith, D. R. M., Dolk, F. C. K., Pouwels, K. B., Christie, M., Robotham, J. V, & Smieszek, T. (2018). Defining the appropriateness and inappropriateness of antibiotic prescribing in primary care. <i>Journal of Antimicrobial Chemotherapy</i>, <i>73</i>(suppl. 2), ii11–ii18. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkx503">10.1093/jac/dkx503</a></p>
 
-<p id="Stuart2020">Dolk, F. C. K., Pouwels, K. B., Smith, D. R. M., Robotham, J. V, & Smieszek, T. (2018). Exploring the appropriateness of antibiotic prescribing for common respiratory tract infections in UK primary care. <i>Journal of Antimicrobial Chemotherapy</i>, <i>75</i>(1), 236–242. DOI: <a href="https://doi.org/10.1093/jac/dkz410">10.1093/jac/dkz410</a></p>
+<p id="Stuart2020">Dolk, F. C. K., Pouwels, K. B., Smith, D. R. M., Robotham, J. V, & Smieszek, T. (2018). Exploring the appropriateness of antibiotic prescribing for common respiratory tract infections in UK primary care. <i>Journal of Antimicrobial Chemotherapy</i>, <i>75</i>(1), 236–242. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkz410">10.1093/jac/dkz410</a></p>
   
 </div>
+
+
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/research">Research</a></li>
+   <li>Primary care</li>
+</ul> 

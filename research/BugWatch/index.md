@@ -19,12 +19,6 @@ permalink: /research/Bug-Watch
 * TOC
 {:toc}
 
-<!---
-<div class="col-sm-6">
-        <iframe class="h2" width="560" height="315" src="https://www.youtube.com/embed/9K2SI-M682g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
---->
-
 
 ## A cohort study about common infections
 <div class="row">
@@ -80,5 +74,11 @@ permalink: /research/Bug-Watch
 <div class='references'>
 <p id="Smith2018">Smith, C. M., Conolly, A., Fuller, C., Hill, S., Lorencatto, F., Marcheselli, F., … Fragaszy, E. B. (2019). Symptom reporting, healthcare-seeking behaviour and antibiotic use for
 common infections: protocol for Bug Watch, a prospective community cohort
-study. <i>BMJ Open</i>, <i>9</i>(5), e028676. DOI: <a href="https://doi.org/10.1136/bmjopen-2018-028676">10.1136/bmjopen-2018-028676</a></p>
+study. <i>BMJ Open</i>, <i>9</i>(5), e028676. DOI: <a target="_blank" href="https://doi.org/10.1136/bmjopen-2018-028676">10.1136/bmjopen-2018-028676</a></p>
 </div>
+
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/research">Research</a></li>
+   <li>Bug Watch</li>
+</ul> 

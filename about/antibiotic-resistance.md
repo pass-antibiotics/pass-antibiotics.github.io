@@ -25,9 +25,9 @@ Antibiotics have transformed our ability to treat bacterial infections allowing 
 
 By 2050, 10 million people per year could die as a result of bacterial infections that cannot be treated with antibiotics. If we do nothing now we could face a future where the antibiotics that we take for granted today no longer work. It will become harder to treat common infections, and procedures that rely on antibiotics, like chemotherapy or even hip-replacements will become risky.
 
-The year 2050 seems a long way off, but drug-resistant infections are affecting people now. It’s been estimated, for instance, that antibiotic resistance affected around [53 000 people in the UK in 2015, of which more than 2000 died](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30605-4/fulltext).
+The year 2050 seems a long way off, but drug-resistant infections are affecting people now. It’s been estimated, for instance, that antibiotic resistance affected around [53 000 people in the UK in 2015, of which more than 2000 died](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30605-4/fulltext){:target="_blank"}.
 
-These numbers can hide the fact that antibiotic resistance affects all sorts of people at a personal level. The vast majority of these people don’t die, but they may be sick for longer, need longer treatments or have more side-effects. You can read about how antibiotic resistance is affecting some of those people [here](https://antibiotic.ecdc.europa.eu/en/patient-stories).
+These numbers can hide the fact that antibiotic resistance affects all sorts of people at a personal level. The vast majority of these people don’t die, but they may be sick for longer, need longer treatments or have more side-effects. You can read about how antibiotic resistance is affecting some of those people [here](https://antibiotic.ecdc.europa.eu/en/patient-stories){:target="_blank"}.
 
 ## So what is antibiotic resistance?
 
@@ -77,7 +77,7 @@ Your body is teeming with bacteria. Your gut, for instance, contains around 100 
 
 Antibiotics are not only used in humans. They are also used in pets and farm animals, in fish, in agriculture and in food production. This means that the way antibiotic resistance occurs is complicated involving humans, animals and the environment. But, as you might expect, one of the main reasons for the development of antibiotic resistance is the amount of antibiotics used. The greater the quantity of antibiotic used the, greater the likelihood of antibiotic resistance. 
 
-This is why the PASS project focuses on [improving antibiotic prescribing](tackling-antibiotic-resistance), and reducing the number of people who get treated with antibiotics when they do not need them.
+This is why the PASS project focuses on improving antibiotic prescribing, and reducing the number of people who get treated with antibiotics when they do not need them.
 
 
 <!--- 
@@ -87,3 +87,11 @@ This translates to the individual level. People who have previously had antibiot
 --->
 
 
+
+<p class="read-more">Learn more about <a href="/about/tackling-antibiotic-resistance">tackling antibiotic resistance</a></p>
+ 
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/about">About</a></li>
+  <li>Antibiotic resistance</li>
+</ul> 

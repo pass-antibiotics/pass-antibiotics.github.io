@@ -22,5 +22,5 @@ tailored to: general practice, hospitals care homes, and the community.
   
 <figure style="max-width: 500px; margin-left: auto; margin-right: auto;">
     <img src="/assets/img/PASS_ARCH_team.jpg"/>
-    <figcaption>The PASS team with colleagues from the <a href="http://arch-antibiotics.org.uk">ARCH study</a>, October 2018</figcaption>
+    <figcaption>The PASS team with colleagues from the <a target="_blank" href="http://arch-antibiotics.org.uk">ARCH study</a>, October 2018</figcaption>
 </figure>

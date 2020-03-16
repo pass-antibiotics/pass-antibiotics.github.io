@@ -8,13 +8,8 @@ image: ruby:2.4.6
 pipelines:
   default:
     - step:
-        caches:
-          - bundler
         script: # Modify the commands below to build your repository.
-          - bundler --version
+          - bundle --version
           - bundle install
           - bundle exec jekyll build
 
-definitions:
-  caches:
-    bundler: ./vendor

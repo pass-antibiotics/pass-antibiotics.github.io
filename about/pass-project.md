@@ -1,8 +1,6 @@
 ---
 description: >
-  PASS (Preserving Antibiotics through Safe Stewardship) is a 3-year programme grant funded by 
-    the Economic & Social Research Council. Researchers and healthcare professionals are collaborating to 
-    design antibiotic stewardship interventions tailored to specific healthcare environments. 
+  PASS (Preserving Antibiotics through Safe Stewardship) is a 3-year programme of research involving researchers and healthcare professionals across primary care (general practices), secondary care (hospitals), care homes and the community. Its aim is to use <a href="/about/interdisciplinary-work">interdisciplinary methods</a> to design antibiotic stewardship interventions that are tailored to specific healthcare environments.
 hide_description: false
 title: PASS project
 permalink: /about/pass-project
@@ -14,8 +12,6 @@ permalink: /about/pass-project
   <li>PASS project</li>
 </ul>
 
-
-PASS (Preserving Antibiotics through Safe Stewardship) is a 3-year programme of research involving researchers and healthcare professionals across primary care (general practices), secondary care (hospitals), care homes and the community. Its aim is to use [interdisciplinary methods](/about/interdisciplinary-work.md) to design antibiotic stewardship interventions that are tailored to specific healthcare environments.
 
 Hundreds of initiatives to improve antibiotic prescribing have been developed, mainly in hospitals. Yet, they are not always successful or have only a small effect. We still have a limited understanding of why some interventions work and others fail. In particular, we do not always understand how human factors and the healthcare context contribute to the success or failure of interventions.
 

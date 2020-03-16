@@ -11,5 +11,16 @@ pipelines:
         script: # Modify the commands below to build your repository.
           - bundle --version
           - bundle install
-          - bundle exec jekyll build
+          - bundle exec jekyll build --destination public
+          - mkdir dist
+          - tar -czvf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C public .
+        artifacts:
+          - dist/**
 
+    - step:
+        name: Deploy to Web
+        image: alpine
+        deployment: production
+        trigger: manual
+        script:
+          - tar -xf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C upload

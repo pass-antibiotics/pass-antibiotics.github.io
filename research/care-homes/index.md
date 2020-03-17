@@ -38,6 +38,8 @@ In comparison with the other healthcare settings considered in PASS, antimicrobi
 
 ### Interviews
 
+The aim of the interviews was to understand who performs antibiotic stewardship and when and how it is managed in care homes. The interview questions were developed using a theoretical informed behaviour change framework (Atkins et al [2017](#Atkins2017)) to identify the likely enablers and barriers of antibiotic stewardship (e.g. escalation of suspected infections within and beyond the care home). Recruitment was through a national care home provider using their prescribing data to include both ‘high prescribers’ and ‘low prescribers’ of antibiotics in the interviews. Interviews were conducted with managers, nurses and care assistants in 4 care homes in the Midlands and the South-East of England.
+
 
 ### Observations 
 
@@ -75,7 +77,10 @@ Data were analysed using a qualitative data analysis software by coding contextu
 ## References
 
 <div class='references'>
-<p id="Bate2018">Bate, P., Mendel, P., &amp Robert, G. (2008). <i>Organizing for Quality: The Improvement Journeys of Leading Hospitals in Europe and the United States</i>. Research report. London: Nuffield Trust. <i>Available <a href="https://www.nuffieldtrust.org.uk/research/organizing-for-quality-the-improvement-journeys-of-leading-hospitals-in-europe-and-the-united-states">online</a></i></p>   
+
+<p id="Atkins2017">Atkins, L., Francis, J., Islam, R., ..., Michie, S. (2017). 'A guide to using the Theoretical Domains Framework of behaviour change to investigate implementation problems', <i>Implementation Science</i>, <strong>12</strong>, 77. DOI: <a target="_blank" href="https://doi.org/10.1186/s13012-017-0605-9">10.1186/s13012-017-0605-9</a></p>
+
+<p id="Bate2018">Bate, P., Mendel, P., &amp; Robert, G. (2008). <i>Organizing for Quality: The Improvement Journeys of Leading Hospitals in Europe and the United States</i>. Research report. London: Nuffield Trust. <i>Available <a href="https://www.nuffieldtrust.org.uk/research/organizing-for-quality-the-improvement-journeys-of-leading-hospitals-in-europe-and-the-united-states">online</a></i></p>   
 </div>
 
 

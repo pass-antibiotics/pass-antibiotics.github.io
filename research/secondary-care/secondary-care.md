@@ -148,15 +148,13 @@ Our study partner, Queen Elizabeth Hospital Birmingham, provided the study team 
     <figcaption>Screen capture of a web application to review antimicrobial prescriptions</figcaption>
 </figure>
 
-## Interviews of prescribers in six specialties
+## Interviews of prescribers
 
-We conducted 7 interviews with prescribers sampled randomly from secondary care medical specialties (which do not 
-include tertiary specialist care such as transplant medicine or haematology).
-Questionnaire
+The aim of the interviews was to understand who performs antibiotic reviews, as well as when and how decisions to switch from intravenous to oral therapy and to stop antibiotics are made as part of antibiotic stewardship. The interview questions were developed using a theoretical informed behaviour change framework to identify the likely enablers and barriers of conducting reviews of antibiotics and switching or stopping antibiotic prescriptions (Atkins et al [2017](#Atkins2017)). Interviews took place in an NHS Foundation Trust hospital in England within low and high prescribing wards. Interviews were conducted with consultants, registrars, junior doctors and pharmacists across 4 specialist wards.
 
 ## Observations
 
-An ethnographer conducted non-participant observation at a large teaching hospital in Birmingham, UK. Four consultant teams were drawn at random from hospital databases based on their record of prescribing. The researcher observed a total of four wards during a total of 123 hours.
+An ethnographer conducted non-participant observation at an NHS Foundation Trust hospital in England. Four consultant teams were drawn at random from hospital databases based on their record of prescribing. The researcher observed a total of four wards during a total of 123 hours.
 
 The researcher recorded detailed hand written field notes while at the research site. The researcher reflected on these notes and audio recorded the field notes, reflections and interpretations. These audio recordings were then transcribed and analysed alongside pictures and policies/guidelines collected from the research site.
 
@@ -310,7 +308,10 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 ## Other research
 
 <div class='references'>
-<p id="Bate2018">Bate, P., Mendel, P., &amp Robert, G. (2008). <i>Organizing for Quality: The Improvement Journeys of Leading Hospitals in Europe and the United States</i>. Research report. London: Nuffield Trust. <i>Available <a href="https://www.nuffieldtrust.org.uk/research/organizing-for-quality-the-improvement-journeys-of-leading-hospitals-in-europe-and-the-united-states">online</a></i></p>   
+
+<p id="Atkins2017">Atkins, L., Francis, J., Islam, R., ..., Michie, S. (2017). 'A guide to using the Theoretical Domains Framework of behaviour change to investigate implementation problems', <i>Implementation Science</i>, <strong>12</strong>, 77. DOI: <a target="_blank" href="https://doi.org/10.1186/s13012-017-0605-9">10.1186/s13012-017-0605-9</a></p>
+
+<p id="Bate2018">Bate, P., Mendel, P., &amp; Robert, G. (2008). <i>Organizing for Quality: The Improvement Journeys of Leading Hospitals in Europe and the United States</i>. Research report. London: Nuffield Trust. <i>Available <a href="https://www.nuffieldtrust.org.uk/research/organizing-for-quality-the-improvement-journeys-of-leading-hospitals-in-europe-and-the-united-states">online</a></i></p>   
 
 <p id="Broom2016">Broom, J., Broom, A., Plage, S., Adams, K., &amp; Post, J. J. (2016). Barriers to
     uptake of antimicrobial advice in a UK hospital: A qualitative study. <i>Journal
@@ -341,6 +342,7 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 ## Textbooks
 
 <div class='references'>
+
 
 <p id="Laplante2017"> LaPlante, K. L., Cunha, C. B.,
 Morrill, H. J., Rice, L. B., &amp; Mylonakis, E. (Eds.). (2017). <i>Antimicrobial stewardship: principles and practice</i>.

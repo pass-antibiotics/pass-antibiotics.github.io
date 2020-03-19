@@ -41,8 +41,8 @@ In comparison with the other healthcare settings considered in PASS, antimicrobi
 
 ### Observations 
 
-An ethnographer conducted non-participant observation at a large teaching hospital in Birmingham, UK. Four consultant teams were drawn at random from hospital databases based on their record of prescribing. The researcher observed a total of four wards during a total of 123 hours.
-
+An ethnographer conducted direct non-participant observations in communal areas of the practice and consultations within 4 care homes, totalling 51 hours of observation. The care homes were selected from a list of provided by our partner Four Seasons Healthcare in two regions (East Midlands and London).
+ 
 The researcher recorded detailed hand written field notes while at the research site. The researcher reflected on these notes and audio recorded the field notes, reflections and interpretations. These audio recordings were then transcribed and analysed alongside pictures and policies/guidelines collected from the research site.
 
 Data were analysed using a qualitative data analysis software by coding contextual determinants of healthcare improvement. This was based on a framework of six universal challenges to improving quality commonly faced by healthcare organisation and identified by Bate, Mendel and Robert [(2008)](#Bate2018).

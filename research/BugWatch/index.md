@@ -68,6 +68,12 @@ permalink: /research/Bug-Watch
 -	Anonymised data from Bug Watch will be made available through the <a href="https://ukdataservice.ac.uk/">UK Data Service</a>. 
 
 
+<br>
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/research">Research</a></li>
+   <li>Bug Watch</li>
+</ul> 
 
 ## References
 
@@ -76,9 +82,3 @@ permalink: /research/Bug-Watch
 common infections: protocol for Bug Watch, a prospective community cohort
 study. <i>BMJ Open</i>, <i>9</i>(5), e028676. DOI: <a target="_blank" href="https://doi.org/10.1136/bmjopen-2018-028676">10.1136/bmjopen-2018-028676</a></p>
 </div>
-
-<ul class="breadcrumb">
-  <li><a href="/">Home</a></li>
-  <li><a href="/research">Research</a></li>
-   <li>Bug Watch</li>
-</ul> 

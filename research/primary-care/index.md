@@ -1,7 +1,7 @@
 ---
 title: Primary care
 description: >
-  Primary care is often the first point of consultation for patients who show signs of infection. Consequently, three out of four of antibiotics in the UK are prescribed by general practitioners (GPs). Reducing antibiotic prescribing in this setting can have a major impact on the total amount of antibiotics prescribed and may significantly reduce the population-wide exposure to antibiotics. Since they continuously manage their patients’ health conditions, GPs are also best placed to judge their patients’ need for antibiotic treatment. However, in order to do so effectively, GPs rely on the latest research and tools to deal with diagnostic uncertainty and operate in an environment in which both physicians and patients feel safe to withhold or delay antibiotic treatment when it isn’t needed.
+  Primary care is often the first point of consultation for patients who show signs of infection. Consequently, three out of four of antibiotics in the UK are prescribed by general practitioners (GPs). Reducing antibiotic prescribing in this setting can have a major impact on the total amount of antibiotics prescribed and may significantly reduce the population-wide exposure to antibiotics. <br> Since they continuously manage their patients’ health conditions, GPs are also best placed to judge their patients’ need for antibiotic treatment. However, in order to do so effectively, GPs rely on the latest research and tools to deal with diagnostic uncertainty and operate in an environment in which both physicians and patients feel safe to withhold or delay antibiotic treatment when it isn’t needed.
 hide_description: false
 menu: false
 order: 4
@@ -16,21 +16,15 @@ permalink: /research/primary-care
 
 * TOC
 {:toc}
- 
-## The role of general practitioners
 
-Primary care is often the first point of consultation for patients who show signs of infection. Consequently, three out of four of antibiotics in the UK are prescribed by general practitioners (GPs). Reducing antibiotic prescribing in this setting can have a major impact on the total amount of antibiotics prescribed and may significantly reduce the population-wide exposure to antibiotics. 
 
-Since they continuously manage their patients’ health conditions, GPs are also best placed to judge their patients’ need for antibiotic treatment. However, in order to do so effectively, GPs rely on the latest research and tools to deal with diagnostic uncertainty and operate in an environment in which both physicians and patients feel safe to withhold or delay antibiotic treatment when it is not needed.
-
- 
 ## What is already known on the subject?
 
 - In England, more than three-quarters of antibiotics are prescribed in primary care with one-third of patients receiving at least one antibiotic prescription annually ([Dolk et al. 2018](#Dolk2018))
 - Almost half this prescribing (46%) is targeted at respiratory tract infections, many of which tend to be self-limiting and are likely to improve in the absence of antibiotic treatment ([Dolk et al. 2018](#Dolk2018))
 - Other common reasons for antibiotic prescribing in primary care are urinary tract infections (23%) and skin and soft tissue infections (14%) ([Dolk et al. 2018](#Dolk2018))
 - There is substantial variation in the use of antibiotics between GP practices, with some prescribing at twice the rate than others even after accounting for the severity of the patient’s illnesses ([Stuart et al. 2020](#Stuart2020))
-- Ascertaining the appropriateness of prescribing decisions in primary care is difficult but researchers agree that a substantial proportion of prescribing is inappropriate, with estimates ranging from 8%-23% (Smith et al. , JAC)
+- Ascertaining the appropriateness of prescribing decisions in primary care is difficult but researchers agree that a substantial proportion of prescribing is inappropriate, with estimates ranging from 8%-23% ([Smith et al. 2018](#Smith2018))
 - The prescribed duration of therapy also often exceeds the recommended length of treatment stated in national guidance ([Pouwels et al. 2019](#Pouwels2019))
 - The use of antibiotics is particularly high in young children and the elderly, which are commonly perceived at an increased risk of complications and thus treated conservatively ([Dolk et al. 2018](#Dolk2018))
 - Comorbid patients are another patient group that receives a disproportionate amount of antibiotics in primary care, leading to a situation in which more than 50% of all primary-care antibiotics are concentrated in only 10% of patients ([Shallcross et al. 2017](#Shallcross2017))
@@ -54,6 +48,14 @@ Since they continuously manage their patients’ health conditions, GPs are also
 - Careful reanalysis of the risk of sepsis in elderly patients not immediately treated with antibiotics in primary care for suspected urinary tract infection did not find a previously reported higher risk of sepsis linked to delayed/non-prescribing
 - The conflicting results highlight the difficulty of estimating reliable treatment effects from routine health data, as patients with and without treatment often tend to differ in many aspects not well recorded in the data (e.g. severity of disease)
 
+<br>
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/research">Research</a></li>
+   <li>Primary care</li>
+</ul> 
+
+
 ## References
   
 <div class='references'>
@@ -75,9 +77,3 @@ Since they continuously manage their patients’ health conditions, GPs are also
   
 </div>
 
-
-<ul class="breadcrumb">
-  <li><a href="/">Home</a></li>
-  <li><a href="/research">Research</a></li>
-   <li>Primary care</li>
-</ul> 

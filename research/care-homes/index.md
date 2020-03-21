@@ -1,9 +1,11 @@
 ---
 title: Care homes
 description: >
-  Antimicrobial stewardship programmes in hospitals aim to optimise the use of antibiotics. Giving the right
-   dose at the right time ensures infections are cured effectively, and that antibiotics are preserved for year to come.
-hide_description: true
+  In comparison with the other healthcare settings considered in PASS, 
+  antimicrobial stewardship programmes are less developed in care homes, 
+  which tend to have a stronger focus on preventing and controlling infections. 
+  Care homes thus represent an important setting for research to optimise antibiotic use.
+hide_description: false
 menu: false
 order: 4
 permalink: /research/care-homes
@@ -17,8 +19,6 @@ permalink: /research/care-homes
 
 * TOC
 {:toc}
-
-In comparison with the other healthcare settings considered in PASS, antimicrobial stewardship programmes are less developed in care homes, which tend to have a stronger focus on preventing and controlling infections. Care homes thus represent an important setting for research to optimise antibiotic use.
 
 ## What is already known on the subject?
 
@@ -73,6 +73,13 @@ Data were analysed using a qualitative data analysis software by coding contextu
 - Urinary tract infections and chest infections led to the most antibiotic prescriptions. Most of the time, the type of prescription was in line with guidelines for treatment of infections in primary care. However, there are no care home-specific guidelines for antibiotic prescription.
 - There was wide variation in the rate of antibiotic prescriptions in different care homes. More research is needed to understand what causes this variation. 
 
+<br>
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/research">Research</a></li>
+   <li>Care Homes</li>
+</ul> 
+
 
 ## References
 
@@ -83,9 +90,3 @@ Data were analysed using a qualitative data analysis software by coding contextu
 <p id="Bate2018">Bate, P., Mendel, P., &amp; Robert, G. (2008). <i>Organizing for Quality: The Improvement Journeys of Leading Hospitals in Europe and the United States</i>. Research report. London: Nuffield Trust. <i>Available <a href="https://www.nuffieldtrust.org.uk/research/organizing-for-quality-the-improvement-journeys-of-leading-hospitals-in-europe-and-the-united-states">online</a></i></p>   
 </div>
 
-
-<ul class="breadcrumb">
-  <li><a href="/">Home</a></li>
-  <li><a href="/research">Research</a></li>
-   <li>Care Homes</li>
-</ul> 

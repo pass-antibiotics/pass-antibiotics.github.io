@@ -132,7 +132,7 @@ Although systematic reviews of stewardship interventions are available (see [abo
 
 In other words, we need to understand what are the 'active ingredients' of effective stewardship interventions. 
 
-Behavioural science can be used to specify the 'active ingredients' of behavioural interventions, by coding them as behaviour change techniques (BCTs). To this end, health psychologists from PASS read through all 221 behavioural interventions reported in the systematic review by Davey et al. ([2017](#Davey2017)). They coded for the presence of <abbr title="behaviour change techniques">BCT</abbr>s and then assessed how often effective interventions included specific types of <abbr title="behaviour change techniques">BCT</abbr>s.  This provides evidence about the types of <abbr title="behaviour change techniques">BCT</abbr>s that should be included in future stewardship interventions.
+Behavioural science can be used to specify the 'active ingredients' of behavioural interventions, by coding them as [behaviour change techniques (BCTs)](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf){:target="_blank"}. To this end, health psychologists from PASS read through all 221 behavioural interventions reported in the systematic review by Davey et al. ([2017](#Davey2017)). They coded for the presence of <abbr title="behaviour change techniques">BCT</abbr>s and then assessed how often effective interventions included specific types of <abbr title="behaviour change techniques">BCT</abbr>s.  This provides evidence about the types of <abbr title="behaviour change techniques">BCT</abbr>s that should be included in future stewardship interventions.
 
 ## Electronic health records
 
@@ -178,7 +178,7 @@ Data were analysed using a qualitative data analysis software by coding contextu
 
 ## Review of published evidence
 
-Interventions delivered in hospital inpatient settings employed 29 out of a total of 93 behaviour change techniques (<abbr title="behaviour change techniques">BCT</abbr>s), highlighting that many <abbr title="behaviour change techniques">BCT</abbr>s are not used at all. 
+Interventions delivered in hospital inpatient settings employed 29 out of a total of [93 behaviour change techniques](https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf){:target="_blank"} (<abbr title="behaviour change techniques">BCT</abbr>s), highlighting that many <abbr title="behaviour change techniques">BCT</abbr>s are not used at all. 
 
 The average number of <abbr title="behaviour change techniques">BCT</abbr>s in each intervention was 4.5, 
 showing that interventions are designed as a complex combination of techniques. 
@@ -186,7 +186,6 @@ showing that interventions are designed as a complex combination of techniques.
 The five most common <abbr title="behaviour change techniques">BCT</abbr>s were:
 
 {% include_relative bct_cards_html.html %}
-
  
 However, when analysing the effect of individual <abbr title="behaviour change techniques">BCT</abbr>s on intervention 
 effectiveness, the statistical analysis only detected one interaction: interventions with <abbr title="behaviour change 
@@ -213,10 +212,14 @@ We are currently working to synthesize what we have learnt and develop behaviour
 - identifying mechanisms of change and behaviour change techniques
 - collaborating with practitioners to decide how best to deliver behaviour change techniques in terms of feasibility and acceptability.
 
+<br>
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/research">Research</a></li>
+   <li>Secondary care</li>
+</ul> 
 
-
-
-# Resources
+# Resources and references
 
 ## Guidelines & toolkits
 
@@ -354,10 +357,3 @@ Oxford University Press. DOI: <a target="_blank" href="https://doi.org/10.1093/m
 </div>
 
  
-
-
-<ul class="breadcrumb">
-  <li><a href="/">Home</a></li>
-  <li><a href="/research">Research</a></li>
-   <li>Secondary care</li>
-</ul> 

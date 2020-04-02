@@ -1,7 +1,18 @@
 ---
 title: Primary care
 description: >
-  Primary care is often the first point of consultation for patients who show signs of infection. Consequently, three out of four of antibiotics in the UK are prescribed by general practitioners (GPs). Reducing antibiotic prescribing in this setting can have a major impact on the total amount of antibiotics prescribed and may significantly reduce the population-wide exposure to antibiotics. <br> Since they continuously manage their patients’ health conditions, GPs are also best placed to judge their patients’ need for antibiotic treatment. However, in order to do so effectively, GPs rely on the latest research and tools to deal with diagnostic uncertainty and operate in an environment in which both physicians and patients feel safe to withhold or delay antibiotic treatment when it isn’t needed.
+  As the first point of consultation for patients 
+  who show signs of infection, General Practitioners prescribe 
+  three quarters of antibiotics in the UK. <br>
+  Because they oversee the management of patients’ various health 
+  problems, GPs are best placed to judge their need for 
+  antibiotic treatment. However, in order to do so effectively, 
+  GPs need resources to deal with diagnostic uncertainty and ensure 
+  both physicians and patients have the confident to withhold or 
+  delay antibiotic treatment when it is not needed. <br> 
+  Reducing antibiotic prescribing in primary case can have a major 
+  impact on the total amount of antibiotics prescribed and  
+  reduce the population-wide exposure to antibiotics.  
 hide_description: false
 menu: false
 order: 4
@@ -20,7 +31,7 @@ permalink: /research/primary-care
 
 ## What is already known on the subject?
 
-- In England, more than three-quarters of antibiotics are prescribed in primary care with one-third of patients receiving at least one antibiotic prescription annually ([Dolk et al. 2018](#Dolk2018))
+- In England, more than three quarters of antibiotics are prescribed in primary care with one-third of patients receiving at least one antibiotic prescription annually ([Dolk et al. 2018](#Dolk2018))
 - Almost half this prescribing (46%) is targeted at respiratory tract infections, many of which tend to be self-limiting and are likely to improve in the absence of antibiotic treatment ([Dolk et al. 2018](#Dolk2018))
 - Other common reasons for antibiotic prescribing in primary care are urinary tract infections (23%) and skin and soft tissue infections (14%) ([Dolk et al. 2018](#Dolk2018))
 - There is substantial variation in the use of antibiotics between GP practices, with some prescribing at twice the rate than others even after accounting for the severity of the patient’s illnesses ([Stuart et al. 2020](#Stuart2020))

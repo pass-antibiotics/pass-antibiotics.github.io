@@ -1,8 +1,8 @@
 ---
 description: >
-  PASS brings together researchers from different academic disciplines: behavioural science, epidemiology, 
-    social science, user-centred design.
- 
+  PASS brings together the following disciplines: medicine, 
+  clinical epidemiologym, behavioural science, social science, 
+  and user-centred design.
 hide_description: false
 title: Interdisciplinary work
 permalink: /about/interdisciplinary-work
@@ -14,10 +14,10 @@ permalink: /about/interdisciplinary-work
   <li>Interdisciplinary work</li>
 </ul>
 
-PASS brings together researchers from different academic disciplines: behavioural science, epidemiology, social science, user-centred design. By combining interdisciplinary skills we are able to address the problem of antibiotic stewardship from multiple angles.
 
 ### Epidemiology & data science
-We use epidemiology/data science to measure variation in and patterns of antibiotic use. This helps us to specify the behaviours we should target.
+
+We use clinical epidemiology and data science to measure variation in and patterns of antibiotic use. This helps us to specify the behaviours we should target.
 
 ### Behavioural science
 

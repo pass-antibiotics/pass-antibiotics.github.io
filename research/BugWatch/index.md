@@ -1,7 +1,9 @@
 ---
 title: Bug Watch
 description: >
-  Bug Watch was a cohort study of people in the community in England who recorded information about common infection symptoms and use of healthcare services. Using data from Bug Watch, we can learn how often people go to the doctor and take antibiotics for their symptoms.
+  Bug Watch is an cohort study of common infection symptoms in England. 
+  Bug Watch measures often people go to the doctor or take 
+  antibiotics for common infections.
 hide_description: false
 menu: false
 order: 4

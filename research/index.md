@@ -1,9 +1,8 @@
 ---
 description: >
-  The PASS project is working to preserve the effectiveness of antibiotics for years to come
-   by developing <a href="/about/tackling-antibiotic-resistance/">antibiotic stewardship</a> interventions 
-   tailored to  four sectors:
-  general practice, hospitals, care homes, and the community.
+  PASS research supports the development of antibiotic stewardship
+  interventions tailored to: general practice, hospitals, care homes,
+  and the community.
 hide_description: false
 menu: true
 order: 3

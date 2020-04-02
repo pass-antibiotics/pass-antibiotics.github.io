@@ -1,9 +1,8 @@
 ---
 description: >
-   Drug-resistant infections are a global threat. PASS and Bug Watch are research studies led by 
-    University College London to find solutions to this problem in healthcare environments. One 
-    of those solutions lies in the 'stewardship' of antibiotics, that is: the safe and effective 
-    use of antibiotics.
+   Antibiotic-resistant infections are a global threat. In healthcare,
+   one solution to this problem lies in the 'stewardship' of antibiotics: 
+   promoting the safe and effective use of antibiotics.
 hide_description: false
 title: About
 menu: true

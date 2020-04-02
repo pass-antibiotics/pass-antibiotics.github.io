@@ -1,6 +1,12 @@
 ---
 menu: true
 title: Collaborators
+description: > 
+   Protecting Antibiotics through Safe Stewardship is a three-year
+   research project led by University College London in 
+   partnership with the University of Leicester and the 
+   Royal College of Arts.
+hide_description: true
 order: 3
 accent_color: rgb(32,32,32)
 accent_image:

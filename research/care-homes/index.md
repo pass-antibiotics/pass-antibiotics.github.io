@@ -1,10 +1,10 @@
 ---
 title: Care homes
 description: >
-  In comparison with the other healthcare settings considered in PASS, 
-  antimicrobial stewardship programmes are less developed in care homes, 
-  which tend to have a stronger focus on preventing and controlling infections. 
-  Care homes thus represent an important setting for research to optimise antibiotic use.
+  Care homes have a strong focus on preventing and controlling infections, 
+  but their antimicrobial stewardship efforts are less developed, compared to 
+  to other healthcare settings. Care homes are thus a strategic care setting 
+  for researchers to work on optimising antibiotic use.
 hide_description: false
 menu: false
 order: 4

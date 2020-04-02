@@ -5,7 +5,7 @@ description: >
   many drugs – like antibiotics – are becoming less effective at treating illnesses.
   Our overuse of antibiotics in both humans and animals is speeding up this process.
 hide_description: false
-title: Antibiotic resistance
+title: About antibiotic resistance
 permalink: /about/antibiotic-resistance
 ---
 

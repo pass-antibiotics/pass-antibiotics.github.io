@@ -1,7 +1,11 @@
 ---
 title: Secondary care
 description: >
-  Antimicrobial stewardship programmes in hospitals aim to optimise the use of antibiotics. This includes: making sure that antibiotics are only given to patients who really need them, choosing the most effective antibiotic, and prescribing the correct dose. This helps preserve the effectiveness of antibiotics are preserved for years to come.
+  Antimicrobial stewardship in hospitals aim to optimise the use of antibiotics.
+   This includes: making sure that antibiotics are only given to patients who 
+   really need them, choosing the most effective antibiotic, and 
+   prescribing the correct dose. This helps preserve the 
+   effectiveness of antibiotics are preserved for years to come.
 hide_description: false
 menu: false
 order: 4

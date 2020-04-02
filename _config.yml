@@ -24,10 +24,9 @@ title:                 PASS
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Preserving Antibiotics through Safe Stewardship is a three-year research programme
-    aiming to tackle antibiotic resistance in healthcare. Led by University College London,
-    this programme brings together researchers, clinicians, and public advisers to design new
-    interventions and help preserve the effectiveness of antibiotics for years to come.
+  Preserving Antibiotics through Safe Stewardship is an academic
+    research programme to tackle antibiotic-resistant infections
+    in general practices, hospitals, care homes and the community.
 
 # A shorter description for the sidebar.
 tagline:               >

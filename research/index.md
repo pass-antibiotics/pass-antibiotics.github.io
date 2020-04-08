@@ -19,7 +19,6 @@ accent_image:
 
 
 ## Publications
-[Design]: BugWatch/index.md
 
 <div class='references'>
 

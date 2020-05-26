@@ -166,8 +166,23 @@ ul.breadcrumb li a:hover {
   font-size: .95em;
 }
 
+#catch19.tiles {
+  padding: 0;
+}
+#catch19.tiles .flex .p-2 {
+  background: rgb(228, 120, 48);
+  color: white;
+  margin:0px;
+  padding: 30px 30px !important;
+}
+
+#catch19.tiles .flex .p-2 .read-more a:not(.btn) {
+  color: white;
+  border-color: white;
+}
+
 .tiles .flex .p-2 .read-more a:not(.btn) {
-  color: #CCCCCC;
+  color: #cccccc;
   border-color: #CCCCCC;
 }
 

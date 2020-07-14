@@ -310,8 +310,8 @@ these 6 priority areas.
         de-escalation of antimicrobial therapy
     </div>
     <div class="card-body">
-    <p>Existing guidelines usually suggest a class and dose of antibiotic, but they may not always advise when 
-    and how to change or stop antibiotics. Due to this, future research should gather health experts to build new 
+    <p>Existing antibiotic prescribing guidelines usually suggest a class and dose of antibiotic, but they do not
+     always advise when and how to change or stop antibiotics. Due to this, future research should gather health experts to build new 
     guidelines that will better guide clinicians in adapting antibiotic treatments in a more responsive and 
     timely way. This will help reduce unnecessarily long or ineffective antibiotic therapy.</p>
     <div class="row">
@@ -474,7 +474,8 @@ systematically and in a timely manner.
 
 **What is it?** An antibiotic surveillance system is a computer algorithm designed to monitor electronic health
 records of hospital inpatients taking antibiotics. The algorithm has access to the patient's latest test results in
-real-time, and is trained against expert clinicians to predict when antibiotic prescriptions should be changed. 
+real-time, and is trained against expert clinicians to predict when 
+[antibiotic prescriptions should be changed](#antibiotic-prescription-reviews). 
 The system shows infection experts (microbiologists and pharmacists) a prioritised list of the patients who are 
 most likely to benefit from being reviewed immediately, alongside their location in the hospital.
 That way, infection specialists working outside the patient's usual care team can come in and provide advice to
@@ -510,14 +511,20 @@ that by reviewing just 20 patients at the top of the prioritisation list, infect
   funding to fully develop and trial this system across several hospitals in the UK.
 
 
-
-### Audit & Feedback
-
-
-
-
 ## Intervention bundle 3
 
+**De-escalating antibiotic therapy** 'De-escalation', also known as 'streamlining', consists in adjusting the
+ antibiotic therapy on the basis of new test results (including microbial isolate identification and/or susceptibility),
+ usually every 2 to 3 days. This sometimes requires [specialist input](#antibiotic-prescription-reviews). 
+ Currently, *directed* de-escalation tends to take place provided that microbial cultures provide results. Yet, in
+  most cases, no such results are available because cultures were not taken, or did not successfully isolate any
+   bacteria. In those cases, *empirical* de-escalation can be done on the basis of test results and a hollistic
+    assessment of the patient's state and response to antibiotic therapy. Clinicians may not feel confident to do
+     this, and as a result antibiotic treatement is often prolonged for a full 5 or 7 days without any changes. This
+exposes patients to unnecessary doses of antibiotics.   
+     
+   
+ 
 Supporting de-escalation of antibiotic therapy
 
 Existing guidelines usually suggest a class and
@@ -525,6 +532,14 @@ Existing guidelines usually suggest a class and
   future research should gather health experts to build new guidelines that will better guide clinicians in 
   adapting antibiotic treatments in a more responsive and timely way, and do not extend the treatment beyond 
    beyond 
+
+Existing antibiotic prescribing guidelines usually suggest a class and dose of antibiotic, but they do not
+     always advise when and how to change or stop antibiotics. Due to this, future research should gather health experts to build new 
+    guidelines that will better guide clinicians in adapting antibiotic treatments in a more responsive and 
+    timely way. This will help reduce unnecessarily long or ineffective antibiotic therapy.
+
+
+
 
 
 <br>

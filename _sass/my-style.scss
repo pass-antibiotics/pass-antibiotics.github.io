@@ -264,6 +264,10 @@ ul.breadcrumb li a:hover {
   margin: 0;
 }
 
+.card-header.h3 {
+  margin: 0;
+}
+
 .card h5 {
    margin: 0;
  }
@@ -336,7 +340,7 @@ ul.breadcrumb li a:hover {
   margin-bottom: 0;
   background-color: rgba(0, 0, 0, 0.03);
   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
-  font-size: 0.95rem;
+  font-size: 1.2rem;
 }
 
 .card-header:first-child {

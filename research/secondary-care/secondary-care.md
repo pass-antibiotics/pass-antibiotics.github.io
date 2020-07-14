@@ -197,24 +197,335 @@ technique">BCT</abbr> *(1.2) Problem solving* were more effective than other int
 in analysing, or prompting the person to analyse, factors influencing their prescribing and bringing forward strategies 
 to overcome barriers to improve prescribing. 
 
-<!--
-## Electronic health records
-We found that 
-There is a delay in adopting new guidelines - for instance the pneumonia switch to amox rather than co-amox is not implemented by X% of teams two years after.
-Can we see an effect in the change of coamox?
 
+
+## Electronic health records
+
+-- PLACEHOLDER --
+
+We found that there is a delay in adopting new guidelines - for instance the pneumonia switch to amox rather than co-amox is not implemented by X% of teams two years after.
 
 ## Interviews
-TBC – Gill 
+
+-- PLACEHOLDER --
+
 Facilitators and barriers to stewardship functions and prescribing.
--->
 
-# Bringing it all together
-We are currently working to synthesize what we have learnt and develop behaviour change interventions. This involves
+## Ward observations
 
-- reviewing barriers and facilitators of stewardship
-- identifying mechanisms of change and behaviour change techniques
-- collaborating with practitioners to decide how best to deliver behaviour change techniques in terms of feasibility and acceptability.
+-- PLACEHOLDER --
+
+## Design workshops
+
+-- PLACEHOLDER --
+
+## Bringing it all together
+
+As a team, we then reviewed the research as a whole. Across findings from the electronic health records research,
+clinician interviews, ward observations and design workshops, we looked for links or disagreements between individual
+findings, and patterns emerging between groups of findings.
+
+This helped us to better understand the key barriers to good antibiotic stewardship in secondary care, 
+what changes needed to take place in this setting, and where we should focus our intervention design work. 
+
+As a team, we identified 6 priority areas for strengthening antibiotic stewardship in secondary care:
+   
+1. Keeping clinicians up to date with patient tests are being done and what the results are;
+2. Providing all the right information about a patient and their illness in real time, so that a clinician can decide whether their prescriptions are right;
+3. Supporting wards and clinicians to make sure antibiotics are reviewed in a timely manner;
+4. Providing better feedback to wards on how they usually prescribe, and letting clinicians know if they are prescribing appropriately or not;
+5. Finding ways to make sure the right kinds of information about patients and prescribing decisions are collected throughout their stay, to support clinicians to complete reviews when they need to;
+6. Building more specific prescribing guidelines that help clinicians to know when it is safe to stop or switch a patient’s antibiotic, and what their options are for doing this.
+
+We plan to develop three intervention bundles, that together would start to address 
+these 6 priority areas.
+
+# Proposed interventions
+
+## Overview
+
+<div class="card mb-3" >
+    <div class="card-header h3">Intervention Bundle 1 <br>Supporting recording & visualisation of data and
+        prescribing rationales</div>
+    <div class="card-body">
+    <p>This intervention aims to provide clinicians with all the information they need to review a
+                   patient's antibiotics, even if they are not part of the patient's usual care team.</p>
+    <div class="row">
+    <div class="col-sm-8">
+    <p>Intervention components:</p>
+    <ul>
+    <li class="list-group-item"><a href="#patient-infection-timeline">Infection timeline</a></li>
+                        <li><a href="#recording-symptoms-of-urinary-tract-infections">Structured recording of symptoms</a></li>
+                        <li>Recording rationale of antibiotic therapy</li>
+                        <li>Training & championing</li>
+    </ul>
+    </div>
+    <div class="col-sm-4">
+                <img style="height: 250px;" src="/assets/img/visuals/observation_chart_original.svg" alt="Card
+   image cap">
+            </div>
+        </div>
+        </div>
+    </div>
+
+<div class="card  mb-3">
+    <div class="card-header h3">Intervention Bundle 2 <br>Monitor and prioritise
+        antibiotics for review by specialists in real-time
+    </div>
+    <div class="card-body">
+        <p>Infections specialists are best placed to stop or change
+            antibiotics after they are
+            initiated. But the average hospital employs just 8 specialists while treating
+            150 patients with antibiotics.
+            Our intervention bundle consists in relying on artificial intelligence in
+            hospital electronic prescribing
+            systems to monitor patients' vital signs and test results. This system would
+            be able to flag which
+            patients are most likely to need their treatment changed or discontinued, so
+            that infection specialists can
+            focus on reviewing them in a timely manner.</p>
+        <div class="row">
+            <div class="col-sm-8">
+                <p>Intervention components:</p>
+                <ul>
+                    <li>Real-time <a href="#antibiotic-surveillance-system">antibiotic
+                     surveillance system</a> in electronic medical records</li>
+                    <li>Targeted antibiotic review by infection specialists</li>
+                    <li>Supporting ward pharmacists in their stewardship role</li>
+                </ul>
+            </div>
+
+            <div class="col-sm-4">
+                <img style="height: 250px;"
+                     src="/assets/img/visuals/prescription_review.svg"
+                     alt="Card image cap">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="card">
+    <div class="card-header h3">Intervention Bundle 3 <br>Facilitate the
+        de-escalation of antimicrobial therapy
+    </div>
+    <div class="card-body">
+    <p>Existing guidelines usually suggest a class and dose of antibiotic, but they may not always advise when 
+    and how to change or stop antibiotics. Due to this, future research should gather health experts to build new 
+    guidelines that will better guide clinicians in adapting antibiotic treatments in a more responsive and 
+    timely way. This will help reduce unnecessarily long or ineffective antibiotic therapy.</p>
+    <div class="row">
+        <div class="col-sm-8">
+        <p>Intervention components:</p>
+            <ul>
+                <li>Consensus- and evidence-based guidelines on antimicrobial
+                    de-escalation</li>
+                <li>Training and championing</li>
+            </ul>
+</div>
+            <div class="col-sm-4">
+                <img style="height: 250px;"
+                     src="/assets/img/visuals/clinical_decision_tool.svg"
+                     alt="Card image cap">
+            </div>
+        </div>
+    </div>
+</div>
+
+## Intervention bundle 1
+
+### Patient Infection Timeline
+
+**What is it?** When clinicians review antibiotics, they need easy access to lots of information about the patient to check if 
+the prescription they have been given is right, or need adjusting. They need to see if they have understood the
+ patient's potential infection correctly by looking at:
+ 
+- the patient's medical history: chronic conditions, past infections,
+- records of allergies to certain antibiotics
+- past and current antibiotics prescribed
+- results of tests investigating what the infection might be and whether it is caused by bacteria
+- markers of how the patient is responding to antibiotics already prescribed, such as temperature, C-reactive protein
+ and while cell blood counts.
+
+This is information is particularly important for microbiologists who are not part of the day-to-day care 
+team and are reviewing the patient for the very first time. The way that electronic health systems are 
+currently built mean that it is not easy to access all this information at once. 
+
+**How does it work?** We are designing a web-based Patient Infection Timeline displaying all information
+ clinicians need to initiate or review antibiotic prescriptions. The Timeline draws information from hospital
+  electronic health records and displays a chronological view of what has happened to the patient in relation to
+   infections and how their state has changed since they arrived in hospital.
+
+The screenshot below shows how the timeline might be structured and what we think it needs to contain.
+
+<figure>
+    <img src="/assets/img/research/secondary-care/infection_timeline.png" class="lead"/>
+    <figcaption>Prototype of the proposed Patient Infection Timeline, designed to be built into hospital electronic
+     medical record systems</figcaption>
+</figure>
+
+The timeline is continously updated with new information inputted into the electronic medical records during the
+ hospital stay. The Timeline displays the same information to all staff, independently of their role: this is to
+  support good communication and shared learning because everyone is on the same page about what's happening 
+  with the patient.
+
+**Who does it support, and when?** The Timeline is aimed at all clinicians who review antibiotic prescriptions:
+
+- junior and senior doctors on hospital wards
+- pharmacists and infectious diseases clinicians on or away from wards
+- microbiologists based in labs or doing outreach in wards.
+
+The Timeline helps these clinicians review all information relevant to diagnosing and treating a potential
+ infection. This may be:
+  
+- at the start of a hospital stay, to learn about a patient's history of infection and resistance to antibiotics
+- later during the hospital stay, for instance when doctors external to the main clinical team come and review the
+ patient to give an opinion on the best course of action.
+ 
+Seeing all this information together helps clinicians decide whether they should stop an antibiotic early 
+or switch to a less risky one, where it is safe to do so. By doing this they will reduce patients’ exposure 
+to antibiotics and any risks of developing antibiotic resistance. 
+
+**What else is needed?** Clinicians would also need to record all antibiotic decisions made during the hospitalisation
+(reasons for prescribing, rationale for any subsequent adjustments to the prescription) in a structured way, so it
+can be displayed on the timeline. The ARK hospital approach (Cross *et al.* [2019](#Cross2019)) sets out a range
+of principles for capturing the justification for prescribing and the prescriber's level of certainty.
+
+Clinicians at every level also need to be up to date on local patterns of antibiotic resistance in the hospital, 
+and key ways to safely keep patients on minimum antibiotics. For this, they need training, shared learning, and easy 
+access to [relevant prescribing guidelines](#intervention-bundle-3).
+                                                                                                                               to help clinicians optimise therapy. 
+PASS research also shows we need ways to support hospital ward teams to 
+
+1. decide who is responsible for doing reviews
+2. problem-solve what might prevent reviews being completed
+3. work out the earliest point reviews should be happening on their ward. 
+
+
+**Where have we got to?** Our research told us what information the Timeline should
+ visualise or provide access to, including what parts should be grouped together and in what form. We presented a draft visual of this to hospital 
+clinicians, who told us what else would need to be included, or what would need to change to support them best 
+to complete a review. 
+
+Using this feedback we then built a clickable prototype of the Timeline. Doing this helped us to check what each 
+of its parts should achieve and how these parts should work, both alone and all together. With help from researchers 
+and clinicians on the team we invented a patient story and uploaded their simulated data into the prototype. 
+This allowed us to test the Timeline with clinicians outside the PASS team, to see how well it supported them 
+to complete an antibiotic review. 
+
+**What do clinicians think about it?** include bullet point / summary of…
+
+- clinicians feedback
+- their perceived benefits of the Timeline 
+- clinician quotes to back this up 
+
+
+### Recording symptoms of urinary tract infections
+
+**What is it?** Our research told us that ongoing information about a patient’s symptoms (and how these change 
+throughout their hospital stay) is very useful for clinicians when they antibiotic prescriptions. 
+
+However, symptoms are not recorded regularly or systematically enough. This is in spite of many different staff who
+ regularly come into contact with the patient being able to capture a range of symptoms relevant to their expertise. 
+
+Using urinary tract infections (UTI) as a starting point, we asked clinicians:
+
+- what kinds of symptom information should be collected? 
+- how should this information be organised and presented to help diagnose urinary tract infections or review any
+ antibiotics being prescribed to treat it?
+
+Besides having access to basic information about the patient such as age, gender, how well their organs work, 
+and any long term conditions related to urinary tract infections, our research suggests the following
+ information would be helpful:
+
+- patient vitals (temperature, respiratory rate, heart rate, blood pressure, oxygen saturation)
+- regular assessments of the patient's cognition, frailty, and mobility through the thospital stay
+- primary symptoms of urinary tract infections: pain, frequency and urgency to urinate, new incontinence, vomiting
+- secondary symptoms such as urine colour and cloudiness.
+
+Our engagement with clinicians also suggests hospital staff should categorise records of symptoms as:
+
+- objective observations: information that is clearly defined and often captured as a number
+- subjective observations: information that is usually gathered through asking a patient questions
+- impression of the patient as a whole (is their illness improving or getting worse?)
+
+**What else is needed?** To support the efficient recording of patient symptoms, we also need:
+
+- to recording symptoms well at admission as this creates a baseline against which clinicians can note any symptom
+ changes more easily
+- to support all staff in contact with the patient in recording symptoms according to their expertise (e.g
+. physiotherapists are able to assess and score patient frailty)
+- to support wards in deciding who should be capturing symptoms and how often.
+
+**Where have we got to?** We identified two possible routes for intervention design that would work towards supporting better symptoms capture:
+
+1. to build and expand on existing symptom capture templates (such as nurse paper charts), supported by clear
+ instructions on when and how to record symptoms
+2. to develop a symptoms capture app, using the challenge of supporting diagnosis of UTI as a starting
+ point.
+ 
+To be successful, both routes would need to incorporate plans for individual staff training, and be 
+supported by additional team-wide interventions that help wards to capture symptoms regularly, 
+systematically and in a timely manner.
+
+## Intervention bundle 2
+
+### Antibiotic surveillance system
+
+**What is it?** An antibiotic surveillance system is a computer algorithm designed to monitor electronic health
+records of hospital inpatients taking antibiotics. The algorithm has access to the patient's latest test results in
+real-time, and is trained against expert clinicians to predict when antibiotic prescriptions should be changed. 
+The system shows infection experts (microbiologists and pharmacists) a prioritised list of the patients who are 
+most likely to benefit from being reviewed immediately, alongside their location in the hospital.
+That way, infection specialists working outside the patient's usual care team can come in and provide advice to
+doctors when they need it, without having to review every single patient in the hospital.
+
+**What difference will it make?** The average hospital in England has 150 inpatients on antibiotics at any point, and
+ employs just 8 infection specialists, many of whom work in laboratories and analyse patient samples. This means they
+have limited time and person-power available to help on the wards, despite being the most knowledgeable experts in
+ antibiotics and infections. Giving them access to a real-time list of patients needing a prescription review will
+ reduce the amount of time they need to dedicate in order to change prescriptions. Our research suggests that at
+  least 20% of inpatients (a total of 30 patients out of 150 in the average hospital) need a change of prescription,
+and infection specialist need 12 minutes to review one patient. Even with moderate predictive capability, we estimate
+that by reviewing just 20 patients at the top of the prioritisation list, infection specialists are likely to find 14
+ out of the 30 patients needing a change of prescription. In just one clinic session, they can thus potentially
+  address 47% of antibiotics needing a change, compared to just 13% using the current approach.
+ 
+**What else is needed?** In addition to building and deploying the software in hospitals, we need a greater
+ proportion of hospitals to adopt electronic prescribing and prescribing system. In 2020, we estimate that just over
+  50% of English hospitals have such systems. The Departments of Health across the UK are aiming to bring such
+   systems to all hospitals by 2025. The predictive power of the algorithm will also be dependent on clinicians
+    inputting clinical observations and test results as and when they become available into their electronic medical
+     records system, so that the algorithm has access to the latest information.
+
+**What do clinicians think about it?** We have worked with infectious disease consultants and pharmacists on the
+ design of this intervention bundle. They are enthusiastic about the potential to save time and focus on patient care
+ more than they are currently able to. They noted this will modify the relationship they have with frontline
+ clinicians: at the moment, ward clinicians need to phone infection specialists for advice, or there needs to be an
+ agreement that specialists review all patients in a ward on a regular basis. With the prioritisation list, there will 
+ now be an additional way in which specialists will engage with the wards.
+
+**How far have we got?** We are soon going to pilot this approach in a large hospital in London to demonstrate that
+ the algorithm is as precise as we need it to be to help clinicians. If this pilot is successful, we will apply for
+  funding to fully develop and trial this system across several hospitals in the UK.
+
+
+
+### Audit & Feedback
+
+
+
+
+## Intervention bundle 3
+
+Supporting de-escalation of antibiotic therapy
+
+Existing guidelines usually suggest a class and
+  dose of antibiotic, but they may not always advise when and how to change or stop antibiotics. Due to this, 
+  future research should gather health experts to build new guidelines that will better guide clinicians in 
+  adapting antibiotic treatments in a more responsive and timely way, and do not extend the treatment beyond 
+   beyond 
+
 
 <br>
 <ul class="breadcrumb">
@@ -337,13 +648,18 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 
 <p id="Fawcett2016">Fawcett, N. J., Jones, N., Quan, T. P., Mistry, V., Crook, D., Peto, T., &amp; Walker, A. S. (2016). 
     Antibiotic use and clinical outcomes in the acute setting under management by an infectious diseases acute physician versus
-    other clinical teams: a cohort study. <i>BMJ Open</i>, <i>6</i>(8), e010969.
-    https://doi.org/10.1136/bmjopen-2015-010969</p>
+    other clinical teams: a cohort study. <i>BMJ Open</i>, <i>6</i>(8), e010969. DOI:
+    <a target="_blank" href="https://doi.org/10.1136/bmjopen-2015-010969">10.1136/bmjopen-2015-010969</a></p>
 
 <p id="Hughes2017">Hughes, J., Huo, X., Falk, L., Hurford, A., Lan, K., Coburn, B., ..., Wu, J. (2017). Benefits 
     and unintended consequences of antimicrobial de-escalation: Implications for stewardship programs. <i>PLOS ONE</i>,
     <i>12</i>(2), e0171218. DOI: <a target="_blank" href="https://doi.org/10.1371/journal.pone.0171218">10.1371/journal.pone.0171218</a></p>
-
+<p id="Cross2019">Cross, E. L. A., Sivyer, K., Islam, J., Santillo, M., Mowbray, F., Peto, T. E. A., Walker, A. S
+., Yardley, L., & Llewelyn, M. J. (2019). Adaptation and implementation of the ARK (Antibiotic Review Kit
+) intervention to safely and substantially reduce antibiotic use in hospitals: a feasibility study. <i>Journal of
+ Hospital Infection</i>, <i>103</i>(3), 268–275. DOI: 
+ <a target="_blank" href="https://doi.org/10.1016/j.jhin.2019.07.017">10.1016/j.jhin.2019.07.017</a>
+ </p>
 </div>
 
 ## Textbooks

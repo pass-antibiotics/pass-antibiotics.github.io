@@ -4,6 +4,11 @@
   }
 }
 
+html {
+  --font-weight-bold: 500;
+  --font-weight-heading: 500;
+}
+
 //.content a:not(.btn):not(.no-hover) {
 //  text-decoration-color:var(--accent-color-faded);
 //  color:var(--accent-color);
@@ -28,7 +33,7 @@ summary {
 }
 
 .sidebar-about .avatar {
-  border-radius: 0%;
+  border-radius: 0;
   height: 7rem;
   width: 7rem;
 }
@@ -185,7 +190,7 @@ ul.breadcrumb li a:hover {
 #catch19.tiles .flex .p-2 {
   background: rgb(228, 120, 48);
   color: white;
-  margin:0px;
+  margin:0;
   padding: 30px 30px !important;
 }
 

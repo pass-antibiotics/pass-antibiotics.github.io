@@ -7,6 +7,9 @@ description: >
 hide_description: false
 menu: false
 order: 4
+accent_image:
+  background: rgb(143, 153, 62)
+  overlay:    false
 accent_color:          rgb(143,153,62)
 permalink: /research/Bug-Watch
 ---

@@ -17,6 +17,7 @@ accent_image:
 * TOC
 {:toc}
 
+
 ## Chief investigators
 {% include_relative chief-investigators.html %}
 
@@ -39,3 +40,5 @@ accent_image:
 * [UCL Centre for Behaviour Change](https://www.ucl.ac.uk/behaviour-change/)
 * [University of Leicester SAPPHIRE Research Group](https://www2.le.ac.uk/departments/health-sciences/research/soc-sci)
 * [Royal College of Arts' Helen Hamlyn Centre for Design](https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/)
+
+<script defer="defer" src="/assets/js/hide_details.js"></script>

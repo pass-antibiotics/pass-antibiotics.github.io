@@ -39,3 +39,20 @@ common infections: protocol for Bug Watch, a prospective community cohort
 study. <i>BMJ Open</i>, <i>9</i>(5), e028676. DOI: <a target="_blank" href="https://doi.org/10.1136/bmjopen-2018-028676">10.1136/bmjopen-2018-028676</a></p>
 
 </div>
+
+
+
+<script>
+const details = document.querySelectorAll("details");
+
+// Add the onclick listeners.
+details.forEach((targetDetail) => {
+  targetDetail.addEventListener("click", () => {
+    // Close all the details that are not targetDetail.
+    details.forEach((detail) => {
+      if (detail !== targetDetail) {
+        detail.removeAttribute("open");
+      }
+    });
+  });
+});</script>

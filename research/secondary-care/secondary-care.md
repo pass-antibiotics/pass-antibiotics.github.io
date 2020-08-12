@@ -223,7 +223,7 @@ Facilitators and barriers to stewardship functions and prescribing.
 
 -- PLACEHOLDER --
 
-## Bringing it all together
+## Bringing all the research together
 
 As a team, we then reviewed the research as a whole. Across findings from the electronic health records research,
 clinician interviews, ward observations and design workshops, we looked for links or disagreements between individual
@@ -363,7 +363,8 @@ currently built mean that it is not easy to access all this information at once.
 The screenshot below shows how the timeline might be structured and what we think it needs to contain.
 
 <figure>
-    <img src="/assets/img/research/secondary-care/infection_timeline.png" class="lead"/>
+    <img alt="Prototype of the proposed Patient Infection Timeline, designed to be built into hospital electronic
+                   medical record systems"src="/assets/img/research/secondary-care/infection_timeline.png" class="lead"/>
     <figcaption>Prototype of the proposed Patient Infection Timeline, designed to be built into hospital electronic
      medical record systems</figcaption>
 </figure>

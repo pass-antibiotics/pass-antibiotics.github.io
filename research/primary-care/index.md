@@ -59,6 +59,56 @@ permalink: /research/primary-care
 - Careful reanalysis of the risk of sepsis in elderly patients not immediately treated with antibiotics in primary care for suspected urinary tract infection did not find a previously reported higher risk of sepsis linked to delayed/non-prescribing
 - The conflicting results highlight the difficulty of estimating reliable treatment effects from routine health data, as patients with and without treatment often tend to differ in many aspects not well recorded in the data (e.g. severity of disease)
 
+
+## Bringing all the research together
+
+Once all our research was complete, we reviewed it as a whole, to look for any
+ links or disagreements between individual findings or any underlying patterns emerging 
+ between groups of findings.
+ 
+This helped us to better understand the key barriers to 
+ good antibiotic stewardship in primary care, what changes needed to take place in 
+ this setting, and where we should focus our intervention design work.
+
+As a team, we identified 5 priority areas for strengthening antibiotic stewardship in primary  care:
+ 
+1.	Collective ethos for stewardship
+2.	Familiarity with the patient's needs (relating to health, but including broader needs and lifestyle choices)
+3.	Managing risk and uncertainty when making prescribing decisions, and enabling patient safety-netting in place of 'just in case' prescribing
+4.	Managing patient expectations for antibiotics
+5.	Audit & feedback of prescribing performance, both for individuals and practice teams.
+
+We plan to develop an intervention bundle to address some of these 5 priority areas.
+
+
+## Proposed interventions
+
+### Overview
+
+<div class="card mb-3" >
+    <div class="card-header h3">Intervention Bundle 1 <br>Supporting patient-prescriber interactions and prescribing decision-making</div>
+    <div class="card-body">
+    <p>This intervention aims to provide general practitioners with everything they need during an encounter with a
+     patient, both in terms of (a) making evidence-based decisions, and (b) having an effective conversation with the
+      patient around the best way to manage a suspected infection.</p>
+    <div class="row">
+    <div class="col-sm-8">
+    <p>Intervention components:</p>
+    <ul>
+            <li>Patient Infection Profile</li>
+            <li>Instant access to local prescribing guidelines and guideline updates</li>
+            <li>Patient-prescriber in-consultation discussion tools</li>
+    </ul>
+    </div>
+    <div class="col-sm-4">
+                <img style="height: 250px;" src="/assets/img/visuals/observation_chart_original.svg" alt="Card
+   image cap">
+            </div>
+        </div>
+        </div>
+    </div>
+
+
 <br>
 <ul class="breadcrumb">
   <li><a href="/">Home</a></li>

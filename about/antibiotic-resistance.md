@@ -87,8 +87,14 @@ This translates to the individual level. People who have previously had antibiot
 --->
 
 
-
-<p class="read-more">Learn more about <a href="/about/tackling-antibiotic-resistance">tackling antibiotic resistance</a></p>
+<nav class="pagination heading clearfix" role="navigation">
+<ul>
+<li class="pagination-item older"> 
+<a href="/about/tackling-antibiotic-resistance">Tackling antibiotic resistance</a>
+</li>
+</ul>
+</nav>
+ 
  
 <ul class="breadcrumb">
   <li><a href="/">Home</a></li>

@@ -126,7 +126,10 @@ Disadvantages of antibiotic prescription reviews are:
 -	They are time-consuming
 -	They require up-to-date lists of patients taking antibiotics
 -	Their reach can be limited by person-power: the median number of occupied beds in an English acute trust is 500. Out of those, 175 are occupied by patients taking antibiotics at any time. The median number of infection specialist is just 5 working time equivalents, occupied with many other duties.
--	Some areas of clinical practice are not supported by strong scientific evidence and guidelines. For instance, experts do not know for sure when and how antibiotics should be ‘de-escalated’; that is, how soon antibiotics can safely be stopped or changed for another drug with a narrower spectrum ([Hughes et al. 2017](#Hughes2017), [Tabah et al. 2019](#Tabah2019)).
+-	Some areas of clinical practice are not supported by strong scientific evidence and guidelines. For instance
+, experts do not know for sure when and how antibiotics should be ‘de-escalated’; that is, how soon antibiotics can
+ safely be stopped or changed for another drug with a narrower spectrum ([Hughes et al. 2017](#Hughes2017),
+  [Tabah et al. 2020](#Tabah2020)).
 
 # What questions did we ask?
 
@@ -154,7 +157,8 @@ Our study partner, Queen Elizabeth Hospital Birmingham, provided the study team 
 
 ## Interviews of prescribers
 
-The aim of the interviews was to understand who performs antibiotic reviews, as well as when and how decisions to switch from intravenous to oral therapy and to stop antibiotics are made as part of antibiotic stewardship. The interview questions were developed using a theoretical informed behaviour change framework to identify the likely enablers and barriers of conducting reviews of antibiotics and switching or stopping antibiotic prescriptions (Atkins et al [2017](#Atkins2017)). Interviews took place in an NHS Foundation Trust hospital in England within low and high prescribing wards. Interviews were conducted with consultants, registrars, junior doctors and pharmacists across 4 specialist wards.
+The aim of the interviews was to understand who performs antibiotic reviews, as well as when and how decisions to
+ switch from intravenous to oral therapy and to stop antibiotics are made as part of antibiotic stewardship. The interview questions were developed using a theoretical informed behaviour change framework to identify the likely enablers and barriers of conducting reviews of antibiotics and switching or stopping antibiotic prescriptions (Atkins et al. [2017](#Atkins2017)). Interviews took place in an NHS Foundation Trust hospital in England within low and high prescribing wards. Interviews were conducted with consultants, registrars, junior doctors and pharmacists across 4 specialist wards.
 
 ## Observations
 
@@ -652,7 +656,8 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
             href="https://doi.org/10.1016/j.jhin.2016.03.011">10.1016/j.jhin.2016.03.011</a>
 </p>
 
-<p id="Budd2019">Budd, E., Cramp, E., Sharland, M., Hand, K., Howard, P., Wilson, P., … Hopkins, S. (2019). Adaptation of the WHO Essential Medicines List for national antibiotic stewardship policy in England: being AWaRe. <i>Journal of Antimicrobial Chemotherapy</i>, <i>74</i>(11), 3384–3389. <a href="https://doi.org/10.1093/jac/dkz321">10.1093/jac/dkz321</a>
+<p id="Budd2019">Budd, E., Cramp, E., Sharland, M., Hand, K., Howard, P., Wilson, P., …, Hopkins, S. (2019).
+ Adaptation of the WHO Essential Medicines List for national antibiotic stewardship policy in England: being AWaRe. <i>Journal of Antimicrobial Chemotherapy</i>, <i>74</i>(11), 3384–3389. <a href="https://doi.org/10.1093/jac/dkz321">10.1093/jac/dkz321</a>
 </p>
 
 <p id="Chung2013">Chung, G. W. W., Wu, J. E. E., Yeo, C. L. L., Chan, D., &amp; Hsu, L. Y. Y. (2013).
@@ -660,6 +665,13 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
     and an objective evaluation of outcomes. <i>Virulence</i>, <i>4</i>(2),
     151–157. DOI: <a target="_blank" href="https://doi.org/10.4161/viru.21626">10.4161/viru.21626</a>
 </p>
+
+<p id="Cross2019">Cross, E. L. A., Sivyer, K., Islam, J., Santillo, M., Mowbray, F., Peto, T. E. A., Walker, A. S
+., Yardley, L., & Llewelyn, M. J. (2019). Adaptation and implementation of the ARK (Antibiotic Review Kit
+) intervention to safely and substantially reduce antibiotic use in hospitals: a feasibility study. <i>Journal of
+ Hospital Infection</i>, <i>103</i>(3), 268–275. DOI: 
+ <a target="_blank" href="https://doi.org/10.1016/j.jhin.2019.07.017">10.1016/j.jhin.2019.07.017</a>
+ </p>
 
 <p id="Fawcett2016">Fawcett, N. J., Jones, N., Quan, T. P., Mistry, V., Crook, D., Peto, T., &amp; Walker, A. S. (2016). 
     Antibiotic use and clinical outcomes in the acute setting under management by an infectious diseases acute physician versus
@@ -669,12 +681,14 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
 <p id="Hughes2017">Hughes, J., Huo, X., Falk, L., Hurford, A., Lan, K., Coburn, B., ..., Wu, J. (2017). Benefits 
     and unintended consequences of antimicrobial de-escalation: Implications for stewardship programs. <i>PLOS ONE</i>,
     <i>12</i>(2), e0171218. DOI: <a target="_blank" href="https://doi.org/10.1371/journal.pone.0171218">10.1371/journal.pone.0171218</a></p>
-<p id="Cross2019">Cross, E. L. A., Sivyer, K., Islam, J., Santillo, M., Mowbray, F., Peto, T. E. A., Walker, A. S
-., Yardley, L., & Llewelyn, M. J. (2019). Adaptation and implementation of the ARK (Antibiotic Review Kit
-) intervention to safely and substantially reduce antibiotic use in hospitals: a feasibility study. <i>Journal of
- Hospital Infection</i>, <i>103</i>(3), 268–275. DOI: 
- <a target="_blank" href="https://doi.org/10.1016/j.jhin.2019.07.017">10.1016/j.jhin.2019.07.017</a>
- </p>
+
+<p id="Tabah2020">Tabah, A., Bassetti, M., Kollef, M. H., Zahar, J.-R., Paiva, J.-A., Timsit, J.-F., ...,
+ Garnacho-Montero, J. (2020). Antimicrobial de-escalation in critically ill patients: A
+ position statement from a task force of the European Society of Intensive Care Medicine (ESICM) and European 
+ Society of Clinical Microbiology and Infectious Diseases (ESCMID) Critically Ill Patient. 
+ <i>Intensive Care Medicine</i>, <i>46</i>(2), 245–265. DOI: 
+ <a target="_blank" href="https://doi.org/10.1007/s00134-019-05866-w">10.1007/s00134-019-05866-w</a></p>
+
 </div>
 
 ## Textbooks

@@ -162,11 +162,11 @@ The aim of the interviews was to understand who performs antibiotic reviews, as 
 
 ## Observations
 
-An ethnographer conducted non-participant observation at an NHS Foundation Trust hospital in England. Four consultant teams were drawn at random from hospital databases based on their record of prescribing. The researcher observed a total of four wards during a total of 123 hours.
+A researcher conducted non-participant observation, and informal conversations with staff, in medical wards at an NHS Foundation Trust hospital in England. Four consultant teams with varying levels of antibiotic use were sampled based on information from hospital databases based on their record of prescribing. The researcher observed a total of four wards during a total of 123 hours.
 
-The researcher recorded detailed hand written field notes while at the research site. The researcher reflected on these notes and audio recorded the field notes, reflections and interpretations. These audio recordings were then transcribed and analysed alongside pictures and policies/guidelines collected from the research site.
+The researcher recorded detailed handwritten field notes while at the research site, and audio recorded details from the field notes, reflections and interpretations. These audio recordings were then transcribed and analysed alongside pictures and policies/guidelines collected from the research site.
 
-Data were analysed using a qualitative data analysis software by coding contextual determinants of healthcare improvement. This was based on a framework of six universal challenges to improving quality commonly faced by healthcare organisation and identified by Bate, Mendel and Robert [(2008)](#Bate2018).
+Data were analysed using a thematic analysis approach assisted by NVivo software to identify influences on antibiotic stewardship. Analysis was informed by a framework of six universal challenges to improving quality commonly faced by healthcare organisation ([Bate *et al.* 2008](#Bate2018)).
 
 <div class="message">
     <h3>The six universal challenges to improving quality in healthcare (Bate et al. <a href="#Bate2018">2008</a>)</h3>
@@ -180,7 +180,11 @@ Data were analysed using a qualitative data analysis software by coding contextu
     </ol>
 </div>
 
+## Design workshops
 
+We held one 2-hour workshop at a UK hospital where we had also completed interviews and observations. 14 staff from the acute medical unit (AMU) attended. Staff included pharmacists, consultants, registrars, nurses and advanced level practitioner nurses.
+
+We asked staff about daily pressures and stresses that might be impacting stewardship goals generally, and discussed attitudes and barriers around de-escalating. We also explored the role of intravenous antibiotics. Participants undertook 3 hands-on activities within smaller clinical role groups, followed by whole-group discussions.
  
 # What did we find?
 
@@ -201,24 +205,67 @@ technique">BCT</abbr> *(1.2) Problem solving* were more effective than other int
 in analysing, or prompting the person to analyse, factors influencing their prescribing and bringing forward strategies 
 to overcome barriers to improve prescribing. 
 
-<!--
 ## Electronic health records
-We found that 
-There is a delay in adopting new guidelines - for instance the pneumonia switch to amox rather than co-amox is not implemented by X% of teams two years after.
-Can we see an effect in the change of coamox?
+
+Using hospitals' routine electronic prescribing and laboratory records, we were able to measure many characteristics of antimicrobial stewardship:
+
+* length of antimicrobial therapy by type of infection
+* congruence of prescribing with prescribing guidelines: for instance, we found that only 22% of low-severity community-acquired pneumonia were initiated using the recommended drug choice. 
+* de-escalation from broad-spectrum antibiotics: looking at meropenem, we found that 30% of treatment initiated with meropenem was stopped after a mean of 3 days, and 46% was switched to another class of antibiotics.
+* microbial cultures are taken prior to starting therapy in only 22% of therapy episodes
+
+Such measures can be derived at the level of clinical teams, wards, and specialties in any hospital equipped with electronic prescribing and laboratory system. In 2020, over 50% of hospitals in England had such system. The Department of Health aims to reach 100% by 2025.
+
+Enabling all hospitals to report such metrics on a regular basis would strengthen local Antimicrobial Stewardship teams and improve the use of antibiotics in secondary care.
+
+The [UK's National Action Plan 2019--24](https://www.gov.uk/government/publications/uk-5-year-action-plan-for-antimicrobial-resistance-2019-to-2024){:target="_blank"} aims to *be able to report on the percentage of prescriptions supported by a diagnostic test or decision support tool by 2024*.
+
+## Observations
+
+**Roles and responsibilities** Staff worked in teams on wards and across the hospital as a whole and responsibilities for antibiotics were distributed across teams and systems. 
+
+In theory each member of staff has an individual responsibility toward Infection Prevention and Control (IPC) and Antimicrobial Stewardship (AMS), but in practice some were less aware of it than others: IPC was seen as sitting primarily within the domain of nursing staff; AMS with clinicians.
+
+**Coordination of decisions along the patient pathway** In secondary care, patients arrived in the ED acutely unwell and clinicians needed to act fast to stabilise and prevent deterioration; they erred towards prescribing antibiotics. Staff felt under pressure to ensure that no infection was missed. 
+
+High demand on services also meant delays in access to and results from diagnostic testing. Wards were often understaffed, and multiple handovers could result in diffusion of responsibility for reviewing and stopping antibiotics.
+
+**Systems and tools for stewardship** Tools such as guidelines and computer software could assist with prescriber decision-making. Electronic prescribing software enabled prescribing restrictions to be enforced and individuals who prescribed problematically to be identified and ‘reprimanded’, but monitoring people’s prescribing could produce unintended behaviours including workarounds.
+
+**Experts in prescribing and stewardship** Both pharmacy and microbiology played a central role in antibiotic prescribing and stewardship but their involvement varied across the wards.
+
+## Design workshop
+
+For the AMU team, we found that:
+
+* antibiotics often needed to be started where infection assessments were inconclusive
+* there was a sense of safety in continuing treatment
+* treating potential sepsis was a more immediate concern than de-escalation
+* antibiotics were often commenced intravenously
+* not all prophylaxis antibiotics (such as before an operation) may be necessary.
+
+Staff suggested that the following would help them to better support good stewardship:
+
+* better information about the patient’s history and current problem
+* improved opportunities for intensive or more regular one-to-one monitoring and care
+* choosing the most appropriate test, and getting test results swiftly
+* better access to local resistance information, guideline updates, key stewardship training and ward prescribing performance
+* good team work and clearer delegation of tasks and responsibilities for stewardship
+* opportunity to contribute to treatment decisions, regardless of clinical role.
 
 
-## Interviews
-TBC – Gill 
-Facilitators and barriers to stewardship functions and prescribing.
--->
+# Intervention development
 
-# Bringing it all together
-We are currently working to synthesize what we have learnt and develop behaviour change interventions. This involves
+We are using what we have learnt and to develop interventions that will address antibiotic resistance in healthcare. This involves:
 
 - reviewing barriers and facilitators of stewardship
 - identifying mechanisms of change and behaviour change techniques
 - collaborating with practitioners to decide how best to deliver behaviour change techniques in terms of feasibility and acceptability.
+
+
+{% include  pass_intervention_flex.html %}
+
+
 
 <br>
 <ul class="breadcrumb">

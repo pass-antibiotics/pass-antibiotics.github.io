@@ -29,7 +29,7 @@ permalink: /research/primary-care
 {:toc}
 
 
-## What is already known on the subject?
+# What we already know
 
 - In England, more than three quarters of antibiotics are prescribed in primary care with one-third of patients receiving at least one antibiotic prescription annually ([Dolk et al. 2018](#Dolk2018))
 - Almost half this prescribing (46%) is targeted at respiratory tract infections, many of which tend to be self-limiting and are likely to improve in the absence of antibiotic treatment ([Dolk et al. 2018](#Dolk2018))
@@ -43,12 +43,34 @@ permalink: /research/primary-care
 - Most existing interventions target prescribing for self-limiting infections in otherwise healthy populations and little evidence exists on how to optimise prescribing in vulnerable patients at the highest risk of resistant infections
 
 
-## What questions did we ask?
+# What questions did we ask?
+
+## Electronic health records
+
+We analysed individual-level EHRs from the [Clinical Practice Research Datalink (CPRD)](https://www.cprd.com/){:target="_blank"}, a large, pseudonymized, retrospective database of primary care records from the UK. CPRD includes data for 4.4 million actively registered patients (roughly 7% of the UK population). This database contains information on symptoms, prescriptions, diagnoses, referrals to specialist care, and diagnostic tests. We used it to investigate the following questions:
+
 - What is the rate of antibiotic prescribing in healthy patients compared to patients perceived at a high risk of infection (e.g. elderly patients, or patients with lung disease)?
 - What are the drivers of antibiotic prescribing in those patient groups with particularly high antibiotic prescribing rates?
 - Are patients that do not receive immediate antibiotic prescribing at higher risk of negative outcomes?
 
-## What did we find?
+## Observations
+A researcher conducted non-participant observation in four GP practices in two regions (East Midlands and London). Two high and two low prescribing practices were selected using Public Health England’s 2016 Fingertips data. 
+
+The researcher observed in communal areas of the practice, at team meetings, and in patient consultations, and conducted informal conversations with staff, over a total of 117 hours.
+
+The researcher recorded detailed handwritten field notes while at the research site, and audio recorded details from the field notes, reflections and interpretations. These audio recordings were then transcribed and analysed alongside pictures and policies/guidelines collected from the research site.
+
+Data were analysed using a thematic analysis approach assisted by NVivo software to identify influences on antibiotic stewardship. Analysis was informed by a framework of six universal challenges to improving quality commonly faced by healthcare organisation ([Bate *et al.* 2008](#Bate2018)).
+
+## Design workshops
+
+We held two design workshops in 2 of the 5 NHS primary care practices where we had completed interviews and observations. 11 to 18 staff joined 1 to 2 workshops each lasting up to 2 hours. Staff included practice managers, clinical staff and administrative staff.
+
+Workshop activities aimed to find out more about the pressures and stresses experienced by staff on a daily basis that might impact how able practices are to support antibiotic stewardship. Staff completed worksheets and undertook activities that invited them to describe, reflect, evaluate their experiences or generate new ideas, both as individuals or in small groups. These fed into whole-group discussions.
+
+# What did we find?
+
+## Electronic health records
 
 - Patients with chronic obstructive lung disease (COPD) are among the most highly prescribed patients and account for 11.5% of all antibiotics handed out in primary care although they make up only 2.6% of the population 
 - Antibiotic prescribing is elevated by ~60% even in patients with the mildest form of COPD compared to similar patients without COPD
@@ -59,6 +81,51 @@ permalink: /research/primary-care
 - Careful reanalysis of the risk of sepsis in elderly patients not immediately treated with antibiotics in primary care for suspected urinary tract infection did not find a previously reported higher risk of sepsis linked to delayed/non-prescribing
 - The conflicting results highlight the difficulty of estimating reliable treatment effects from routine health data, as patients with and without treatment often tend to differ in many aspects not well recorded in the data (e.g. severity of disease)
 
+## Observations
+
+**Collective ethos toward antibiotic prescribing** Individual GPs varied in engagement with stewardships; a collective practice ethos was vital for effective stewardship and lower prescribing. Creating a collective ethos required local leadership; communication and coordination between GPs; and space and time for meetings, training and feedback. GP turnover and high reliance on locums presented challenges to developing this ethos. Higher levels of antibiotic prescribing in out of hours services was seen as undermining GP practice Antimicrobial Stewardship efforts.
+
+**Systems, tools, and performance monitoring** Technology, including decision tools, alert systems and templates were used to assist decision-making and optimise prescribing but could be burdensome and intrusive. Quality of data for performance monitoring was problematic, and feedback lacking in some practices. Targets and incentives could drive practice activity but had little impact on individual GP behaviour.
+
+**Managing risk and access**  GPs perceptions of their practice population as a whole as elderly, co-morbid, vulnerable, deprived, homeless influenced their prescribing activity, with antibiotics seen as way of managing risk. Practice access and availability of urgent appointments impacted on GP willingness to use a safety netting approach to avoid antibiotic over-use.
+
+**Education and awareness raising** Patient education about antibiotic overuse (e.g. through practice leaflets, and media campaigns) was seen as improving awareness and understanding of AMR, but negotiation of patient expectation for treatment and patient education within consultations was challenging.
+
+## Design workshops
+
+We found the following daily common stress points made it harder for practices to be able to support good stewardship:
+
+* time pressures to complete consultations and administrative tasks
+* barriers to communication, both internally as a team, and with external services and staff
+* IT problems
+* patient behaviour, including demands for antibiotics
+* lack of space or reliable equipment
+* challenges in managing staffing and clinics
+* insufficient clinical and administrative training
+* insufficient patient education around antibiotics and resistance
+* few ‘watch and wait’ options or strategies in place of ‘just-in-case’ prescribing.
+
+Team comments also suggested the following would enable good stewardship in primary care:
+
+* access to local and national prescribing and resistance data
+* good internal and external communication in supporting stewardship consistency
+* strong practice team collective ethos for stewardship and good team work generally
+* quick and easy access to good patient information
+* good access to training for both clinical and administrative staff
+* improved patient education on their infection and on self-care.
+
+# Intervention development
+
+We are using what we have learnt and to develop interventions that will address antibiotic resistance in healthcare. This involves:
+
+- reviewing barriers and facilitators of stewardship
+- identifying mechanisms of change and behaviour change techniques
+- collaborating with practitioners to decide how best to deliver behaviour change techniques in terms of feasibility and acceptability.
+
+
+{% include  pass_intervention_flex.html %}
+
+
 <br>
 <ul class="breadcrumb">
   <li><a href="/">Home</a></li>
@@ -67,7 +134,7 @@ permalink: /research/primary-care
 </ul> 
 
 
-## References
+# References
   
 <div class='references'>
 
@@ -81,6 +148,8 @@ permalink: /research/primary-care
 (CPRD). <i>Journal of Antimicrobial Chemotherapy</i>. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkz411">10.1093/jac/dkz411</a></p>
 
 <p id="Shallcross2017">Shallcross, L., Beckley, N., Rait, G., Hayward, A., & Petersen, I. (2017). Antibiotic prescribing frequency amongst patients in primary care: a cohort study using electronic health records. <i>Journal of Antimicrobial Chemotherapy</i>, <i>72</i>(6), 1818–1824. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkx048">10.1093/jac/dkx048</a></p>
+
+<p id="Shallcross2020b">Shallcross, L., Rockenschaub, P., Blackburn, R., Nazareth, I., Freemantle, N., & Hayward, A. (2020). Antibiotic prescribing for lower UTI in elderly patients in primary care and risk of bloodstream infection: A cohort study using electronic health records in England. <i>PLOS Medicine</i>, <i>17</i>(9), e1003336. DOI: <a target="_blank" href="https://doi.org/10.1371/journal.pmed.1003336">10.1371/journal.pmed.1003336</a></p>
 
 <p id="Smith2018">Smith, D. R. M., Dolk, F. C. K., Pouwels, K. B., Christie, M., Robotham, J. V, & Smieszek, T. (2018). Defining the appropriateness and inappropriateness of antibiotic prescribing in primary care. <i>Journal of Antimicrobial Chemotherapy</i>, <i>73</i>(suppl. 2), ii11–ii18. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkx503">10.1093/jac/dkx503</a></p>
 

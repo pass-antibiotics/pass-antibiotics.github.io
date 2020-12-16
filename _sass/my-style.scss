@@ -9,6 +9,11 @@ html {
   --font-weight-heading: 500;
 }
 
+
+p strong {
+  --font-weight-bold: 700;
+}
+
 //.content a:not(.btn):not(.no-hover) {
 //  text-decoration-color:var(--accent-color-faded);
 //  color:var(--accent-color);
@@ -183,6 +188,15 @@ ul.breadcrumb li a:hover {
   padding: 30px 30px !important;
   font-size: .95em;
 }
+
+#interventions.tiles .flex .p-2 {
+  background: var(--accent-color-darkened);
+  color: white;
+  padding: 30px 30px !important;
+  font-size: .95em;
+  margin-left: -20px;
+}
+
 
 #catch19.tiles {
   padding: 0;

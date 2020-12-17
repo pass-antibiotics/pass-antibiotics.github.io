@@ -148,7 +148,7 @@ We are using what we have learnt and to develop interventions that will address 
 <p id="Smith2018">Smith, C. M., Conolly, A., Fuller, C., Hill, S., Lorencatto, F., Marcheselli, F., … Fragaszy, E. B. (2019). Symptom reporting, healthcare-seeking behaviour and antibiotic use for common infections: protocol for Bug Watch, a prospective community cohort
 study. <i>BMJ Open</i>, <i>9</i>(5), e028676. DOI: <a target="_blank" href="https://doi.org/10.1136/bmjopen-2018-028676">10.1136/bmjopen-2018-028676</a></p>
 
-<p id="Smith2020">Smith, C. M., Williams, H., Jhass, A., Patel, S., Crayton, E., Lorencatto, F., Michie, S., Hayward, A. C., & Shallcross, L. J. (2020). Antibiotic prescribing in UK care homes 2016–2017: Retrospective cohort study of linked data. <i>BMC Health Services Research</i>, <i>20</i>(1), 555.. DOI: <a target="_blank" href="https://doi.org/10.1186/s12913-020-05422-z">10.1186/s12913-020-05422-z</a></p>
+<p id="Smith2020">Smith, C. M., Williams, H., Jhass, A., Patel, S., Crayton, E., Lorencatto, F., Michie, S., Hayward, A. C., & Shallcross, L. J. (2020). Antibiotic prescribing in UK care homes 2016–2017: Retrospective cohort study of linked data. <i>BMC Health Services Research</i>, <i>20</i>(1), 555. DOI: <a target="_blank" href="https://doi.org/10.1186/s12913-020-05422-z">10.1186/s12913-020-05422-z</a></p>
 
 </div>
 

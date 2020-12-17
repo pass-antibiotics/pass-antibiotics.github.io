@@ -41,6 +41,25 @@ permalink: /research/Bug-Watch
 
 <p>In total, 1,242 adults and children registered for Bug Watch between March and November 2018. Participants filled out weekly surveys reporting symptoms of infection in seven different categories (general/nonspecific, respiratory, gastrointestinal, urinary tract, mouth/dental, skin/soft tissue, and eye). They completed the surveys for six months.</p>
 
+<div id="interventions" class="container tiles">
+    <div class="flex text-center">
+        <div class="p-2 flex-grow-300">
+            <div class="row">
+                <div class="col-sm-2"><p style="font-size: 5rem;" class="icon-database"
+                                         href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8734"
+                                         target ="_blank"></p></div>
+                <div class="col-md-10">
+                    <h2><a  style="font-size: 1.4rem; color:white;"
+                           href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8734"
+                           target ="_blank">Bug Watch microdata</a></h2>
+                    <p>The cohort data is available for reuse by students and researchers from the UK Data Service</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
 ## What is already known on the subject?
 
 -	Most antibiotics are prescribed in primary care, and at least 23% of prescriptions are thought to be inappropriate.
@@ -70,7 +89,7 @@ permalink: /research/Bug-Watch
 -	Half of the antibiotics used were prescribed within three days of the onset of symptoms. 
 -	Symptoms usually resolved within a week but more than a quarter of syndromes lasted longer for all except urinary tract and gastrointestinal symptoms. 
 -	The worst day of symptoms occurred on average after three days and overall impacts on health-related quality of life lost were less than one day.
--	Anonymised data from Bug Watch will be made available through the <a href="https://ukdataservice.ac.uk/">UK Data Service</a>. 
+-	Anonymised data ([Smith *et al.* 2020](#Smith2020b)) from Bug Watch are available through the <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8734">UK Data Service</a>. 
 
 
 <br>
@@ -86,4 +105,8 @@ permalink: /research/Bug-Watch
 <p id="Smith2018">Smith, C. M., Conolly, A., Fuller, C., Hill, S., Lorencatto, F., Marcheselli, F., … Fragaszy, E. B. (2019). Symptom reporting, healthcare-seeking behaviour and antibiotic use for
 common infections: protocol for Bug Watch, a prospective community cohort
 study. <i>BMJ Open</i>, <i>9</i>(5), e028676. DOI: <a target="_blank" href="https://doi.org/10.1136/bmjopen-2018-028676">10.1136/bmjopen-2018-028676</a></p>
+
+<p id="Smith2020b">Smith, C., Hayward, A., Fragaszy, E., Michie, S. (2020). Bug Watch: Baseline Data, Symptom Reporting, Healthcare-seeking Behaviours and Antibiotic Use, 2018-2019. [data collection]. UK Data Service. SN: 8734. DOI: <a target="_blank" href="https://doi.org/10.5255/UKDA-SN-8734-1">10.5255/UKDA-SN-8734-1</a></p>
 </div>
+
+

@@ -53,6 +53,14 @@ We analysed individual-level EHRs from the [Clinical Practice Research Datalink 
 - What are the drivers of antibiotic prescribing in those patient groups with particularly high antibiotic prescribing rates?
 - Are patients that do not receive immediate antibiotic prescribing at higher risk of negative outcomes?
 
+## Interviews
+
+The aim of the interviews was to get a better understanding antibiotic prescribing decisions, views on the appropriate use of antibiotics in primary care and antimicrobial resistance.
+
+The questions asked were underpinned by the theoretical domains framework ([Atkins *et al*, 2017](#Atkins2017)) to identify the individual, social and environmental factors likely to influence the prescribing or not prescribing of antibiotics.
+
+Interviews took place in 2 high and 2 low prescribing GP practices in the Midlands and in London. Participants included GPs and nurse prescribers.
+
 ## Observations
 A researcher conducted non-participant observation in four GP practices in two regions (East Midlands and London). Two high and two low prescribing practices were selected using Public Health England’s 2016 Fingertips data. 
 
@@ -80,6 +88,7 @@ Workshop activities aimed to find out more about the pressures and stresses expe
 - Antibiotic prescribing for asthma, COPD, diabetes and heart failure increased particularly dramatically in the months immediately prior to the initial diagnosis of comorbidity, potentially due to misdiagnosis of symptoms as respiratory infections
 - Careful reanalysis of the risk of sepsis in elderly patients not immediately treated with antibiotics in primary care for suspected urinary tract infection did not find a previously reported higher risk of sepsis linked to delayed/non-prescribing
 - The conflicting results highlight the difficulty of estimating reliable treatment effects from routine health data, as patients with and without treatment often tend to differ in many aspects not well recorded in the data (e.g. severity of disease)
+
 
 ## Observations
 
@@ -137,6 +146,8 @@ We are using what we have learnt and to develop interventions that will address 
 # References
   
 <div class='references'>
+
+<p id="Atkins2017">Atkins, L., Francis, J., Islam, R., O’Connor, D., Patey, A., Ivers, N., Foy, R., Duncan, E. M., Colquhoun, H., Grimshaw, J. M., Lawton, R., & Michie, S. (2017). A guide to using the Theoretical Domains Framework of behaviour change to investigate implementation problems. <i>Implementation Science</i>, <i>12</i>(1), 77. DOI: <a target="_blank" href="https://doi.org/10.1186/s13012-017-0605-9">10.1186/s13012-017-0605-9</a></p>
 
 <p id="Dolk2018">Dolk, F. C. K., Pouwels, K. B., Smith, D. R. M., Robotham, J. V, & Smieszek, T. (2018). Antibiotics in primary care in England: which antibiotics are prescribed and for which conditions?  <i>Journal of Antimicrobial Chemotherapy</i>, <i>73</i>(suppl. 2), ii2–ii10. DOI: <a target="_blank" href="https://doi.org/10.1093/jac/dkx504">10.1093/jac/dkx504</a></p>
 

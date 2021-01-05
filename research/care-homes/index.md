@@ -90,6 +90,16 @@ In 2016--2017, data from 135 care homes showed that:
 
 Detailed results are available from [Smith *et al.* (2020)](#Smith2020).
 
+### Interviews
+
+Multiple behaviours were performed to prevent and manage infections in care homes. Some frequent behaviours were observing changes in residents and sharing observations with other staff, increasing the residents’ fluid intake for suspected infections, using diagnostic tests (e.g. dipsticks), monitoring and recording clinical signs and symptoms and documenting infection cases on IT system.
+
+Care assistants primarily took responsibility for observing changes in the residents’ demeanour during the daily routine, before sharing any concerns to other senior staff. Nurses decided when to increase fluid intake and what signs and symptoms to monitor and when to escalate to GP practice or Out-of-hour services. It was the responsibility of GPs to decide when to prescribe or not prescribe an antibiotic.
+
+The identified key themes fell within 8 theoretical behavioural domains: Environmental context & resources, Social influence, Behaviour regulation, Beliefs about consequences, Memory attention & decision-making, Skills, Social/professional role & identity, and Knowledge.
+
+Key enablers of stewardship were collective responsibilities among staff, staffs’ familiarity with residents, following procedures for investigating suspected infections and continuity of care from same GP. Key barriers were pressure from resident’s family, nature of co-comorbidities of residents and lack of awareness about antibiotic resistance. Few care homes were prepared to ‘watch and wait’ whilst most preferred to escalate immediately to the GP practice.
+
 ### Observations
 
 **Roles and responsibilities** Staff recognised their role in infection prevention but approaches and focus varied across the care homes. Care homes had a range of policies, routines or systems in place for optimising infection prevention and control. This included in relation to promoting good hygiene but also patient management (e.g. avoiding aspiration, maintaining hydration to reduce risks of urinary tract infections).

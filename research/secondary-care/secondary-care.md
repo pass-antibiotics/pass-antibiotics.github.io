@@ -220,6 +220,20 @@ Enabling all hospitals to report such metrics on a regular basis would strengthe
 
 The [UK's National Action Plan 2019--24](https://www.gov.uk/government/publications/uk-5-year-action-plan-for-antimicrobial-resistance-2019-to-2024){:target="_blank"} aims to *be able to report on the percentage of prescriptions supported by a diagnostic test or decision support tool by 2024*.
 
+
+## Interviews
+
+Multiple behaviours performed by different clinical roles contribute to the use of antibiotics. Starting antibiotics and later decisions taken at review were pivotal for antibiotic selection and delivery (IV or oral) and for switching or stopping antibiotic therapy. Initial prescribing was often empirical and precautionary because of diagnostic uncertainty and a lack of information from test results. Switching or stopping antibiotics was considered more straightforward because diagnostic and test results were documented, and there were opportunities to discuss appropriate antibiotic use with other clinicians. Variation in antibiotic therapy was reported across the sampled wards and units (Clinical dependency unit, and Stroke and Diabetes wards).
+
+Several key themes were identified within the behavioural domains that could positively or negatively influence the appropriate use of antibiotics. These tended to largely influence at the review of antibiotic therapy and not at initiation because this was when the 10 participating clinicians became involved in the patients’ care.
+
+Key enablers were system level feedback on prescribing practice, i.e. dashboard; availability of point of care tools e.g. flu machine, guideline Apps; timely dissemination of guidelines; having sufficient time to spend with patients and supporting advice from senior clinicians, microbiologists and pharmacists. Key barriers were concerns about something being missed, waiting time for results, perceived risks of not continuing with antibiotics, and lack of focus on antibiotic stewardship.
+
+Themes acting as both a barrier or an enabler of prescribing decisions of starting antibiotics included varying confidence in diagnosing infections and of when to use or not use antibiotics and varying views about having the skills and competence to switch or to stop antibiotics. Other influences were perceptions about the benefits or disadvantages using antibiotics, level of pressure to prescribe (from other clinicians), regular or infrequent referring to guidelines, agreement or disagreement with the original diagnosis and ability to cope with direct requests from patients and relatives for antibiotics.
+
+All clinicians placed great importance on reducing antibiotic resistance, however engaging in antibiotic stewardship was considered to be complex because of the many interacting individual and system-level components.
+
+
 ## Observations
 
 **Roles and responsibilities** Staff worked in teams on wards and across the hospital as a whole and responsibilities for antibiotics were distributed across teams and systems. 

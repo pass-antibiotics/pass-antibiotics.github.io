@@ -89,6 +89,19 @@ Workshop activities aimed to find out more about the pressures and stresses expe
 - Careful reanalysis of the risk of sepsis in elderly patients not immediately treated with antibiotics in primary care for suspected urinary tract infection did not find a previously reported higher risk of sepsis linked to delayed/non-prescribing
 - The conflicting results highlight the difficulty of estimating reliable treatment effects from routine health data, as patients with and without treatment often tend to differ in many aspects not well recorded in the data (e.g. severity of disease)
 
+## Interviews 
+
+Many different behaviours were performed by GPs and prescribing nurses when managing infections. Prescribing antibiotics was straightforward when signs and symptoms clearly indicated an infection. Difficulties arose when there was uncertainty about how the infection might develop if left untreated; this situation required safety-netting to ensure the patient understood what to do should their symptoms worsen. Some GPs would issue a delayed prescription; however, these were not followed up to check if used or not. When an antibiotic was not prescribed, it was necessary to explain the reasons why and to cope with any expectations from the patient. Prescribing decisions were often made without or before diagnostic test results were obtained.
+
+The identified key themes fell within 7 theoretical behavioural domains: Memory, Attention & Decision-Making; Beliefs about Capabilities, Beliefs about Consequences, Social Influence, Environmental Context & Resources, Behaviour Regulation and Social/Professional Role & Identity.
+
+Prescribing decisions were based on the autonomy of the individual to make their own clinical judgements. Key enablers were increased confidence in the diagnosis from the use of clinical scoring tools, e.g. FeverPAIN, Centors Criteria and diagnostic tests, e.g. urine dips and use of guidelines to select the appropriate antibiotic. Less confidence in diagnosing symptoms for high risk patients with comorbidities including COPD and older patients was reported. Also important was a practice wide prescribing policy which included audits, feedback sessions and regular clinical meetings.
+
+Key barriers were lack of team-working and communication within the practice, ability to cope with patients’ demands and from parents seeking antibiotics for children when withholding antibiotics. Environmental barriers included availability of appointments within the practice, easy accessibility of alternative healthcare providers, such as out-of-hours clinics, and socio-economic factors related to the location of the practice.
+
+Beyond clinical needs, the benefits of prescribing included patients getting better quicker and it is a fast and easy solution when time is limited, however, the risks are it can fulfil patient expectations and increase antibiotic resistance. The risks of not prescribing was the increased likelihood of deterioration of symptoms and hospital admissions or patients going elsewhere to seek antibiotics.
+
+Low prescribing practices placed more importance on team-working as part of stewardship and were aware of the practices’ prescribing status. Others felt antibiotic stewardship was equally important in other healthcare settings and in non-human use too.
 
 ## Observations
 

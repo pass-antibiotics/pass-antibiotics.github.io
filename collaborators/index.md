@@ -5,7 +5,7 @@ description: >
    Protecting Antibiotics through Safe Stewardship is a three-year
    research project led by University College London in 
    partnership with the University of Leicester and the 
-   Royal College of Arts.
+   Royal College of Art.
 hide_description: true
 order: 3
 accent_color: rgb(32,32,32)
@@ -39,6 +39,6 @@ accent_image:
 * [UCL Institute of Health Informatics](https://www.ucl.ac.uk/health-informatics/)
 * [UCL Centre for Behaviour Change](https://www.ucl.ac.uk/behaviour-change/)
 * [University of Leicester SAPPHIRE Research Group](https://www2.le.ac.uk/departments/health-sciences/research/soc-sci)
-* [Royal College of Arts' Helen Hamlyn Centre for Design](https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/)
+* [Royal College of Art Helen Hamlyn Centre for Design](https://www.rca.ac.uk/research-innovation/research-centres/helen-hamlyn-centre/)
 
 <script defer="defer" src="/assets/js/hide_details.js"></script>

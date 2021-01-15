@@ -11,6 +11,7 @@ accent_color: rgb(10, 48, 18)
 accent_image:
   background: rgb(10, 48, 18)
   overlay:    false
+image: /assets/icons/logonospellout.svg
 ---
 
 # Research

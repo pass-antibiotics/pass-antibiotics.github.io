@@ -314,7 +314,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
-
 # SEO Tag
 # ---------------------------------------------------------------------------------------
 
@@ -329,8 +328,9 @@ google_site_verification:  N2SGFNHcpOp_6pDvXfzcNBAtvGokYWlfuj-EvlmiOZY
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-# twitter:
-#   username:            <shortname>
+twitter:
+  username:            PASS_antibiotic
+  card:                summary_large_image
 
 # Used for Facebook open graph
 # facebook:

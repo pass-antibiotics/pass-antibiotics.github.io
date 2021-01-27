@@ -46,6 +46,9 @@ study. <i>BMJ Open</i>, <i>9</i>(5), e028676. DOI: <a target="_blank" href="http
 
 <p id="Smith2020b">Smith, C., Hayward, A., Fragaszy, E., Michie, S. (2020). Bug Watch: Baseline Data, Symptom Reporting, Healthcare-seeking Behaviours and Antibiotic Use, 2018-2019. [data collection]. UK Data Service. SN: 8734. DOI: <a target="_blank" href="https://doi.org/10.5255/UKDA-SN-8734-1">10.5255/UKDA-SN-8734-1</a></p>
 
+<p id="Smith2021"> Smith, C. M., Shallcross, L. J., Dutey-Magni, P., Conolly, A., Fuller, C., Hill, S., Jhass, A., Marcheselli, F., Michie, S., Mindell, J. S., Ridd, M. J., Tsakos, G., Hayward, A. C., & Fragaszy, E. B. (2021). Incidence, healthcare-seeking behaviours, antibiotic use and natural history of common infection syndromes in England: Results from the Bug Watch community cohort study. <i>BMC Infectious Diseases</i>, <i>21</i>(1), 105. 
+DOI: <a target="_blank" href="https://doi.org/10.1186/s12879-021-05811-7">10.1186/s12879-021-05811-7</a></p>
+
 </div>
  
 

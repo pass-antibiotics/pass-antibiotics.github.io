@@ -89,6 +89,7 @@ permalink: /research/Bug-Watch
 -	Half of the antibiotics used were prescribed within three days of the onset of symptoms. 
 -	Symptoms usually resolved within a week but more than a quarter of syndromes lasted longer for all except urinary tract and gastrointestinal symptoms. 
 -	The worst day of symptoms occurred on average after three days and overall impacts on health-related quality of life lost were less than one day.
+-   Detailed results are published in [Smith *et al.* (2021)](#Smith2021).
 -	Anonymised data ([Smith *et al.* 2020](#Smith2020b)) from Bug Watch are available through the <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8734">UK Data Service</a>. 
 
 
@@ -107,6 +108,7 @@ common infections: protocol for Bug Watch, a prospective community cohort
 study. <i>BMJ Open</i>, <i>9</i>(5), e028676. DOI: <a target="_blank" href="https://doi.org/10.1136/bmjopen-2018-028676">10.1136/bmjopen-2018-028676</a></p>
 
 <p id="Smith2020b">Smith, C., Hayward, A., Fragaszy, E., Michie, S. (2020). Bug Watch: Baseline Data, Symptom Reporting, Healthcare-seeking Behaviours and Antibiotic Use, 2018-2019. [data collection]. UK Data Service. SN: 8734. DOI: <a target="_blank" href="https://doi.org/10.5255/UKDA-SN-8734-1">10.5255/UKDA-SN-8734-1</a></p>
+
+<p id="Smith2021"> Smith, C. M., Shallcross, L. J., Dutey-Magni, P., Conolly, A., Fuller, C., Hill, S., Jhass, A., Marcheselli, F., Michie, S., Mindell, J. S., Ridd, M. J., Tsakos, G., Hayward, A. C., & Fragaszy, E. B. (2021). Incidence, healthcare-seeking behaviours, antibiotic use and natural history of common infection syndromes in England: Results from the Bug Watch community cohort study. <i>BMC Infectious Diseases</i>, <i>21</i>(1), 105. 
+DOI: <a target="_blank" href="https://doi.org/10.1186/s12879-021-05811-7">10.1186/s12879-021-05811-7</a></p>
 </div>
-
-

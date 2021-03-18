@@ -23,7 +23,9 @@ image: /assets/icons/pass_logo_darkbg.png
 
 <div class='references'>
 
-<p id="Crayton2020">Crayton, E., Richardson, M., Fuller, C., Smith, C., Liu, S., Forbes, G., Anderson, N., Shallcross, L., Michie, S., Hayward, A., & Lorencatto, F. (2020). Interventions to improve appropriate antibiotic prescribing in long-term care facilities: A systematic review.. <i>BMC Geriatrics</i>, <i>20</i>(1), 237. DOI: <a target="_blank" href="https://doi.org/10.1186/s12877-020-01564-1">10.1186/s12877-020-01564-1</a></p>
+<p id="Crayton2020">Crayton, E., Richardson, M., Fuller, C., Smith, C., Liu, S., Forbes, G., Anderson, N., Shallcross, L., Michie, S., Hayward, A., & Lorencatto, F. (2020). Interventions to improve appropriate antibiotic prescribing in long-term care facilities: A systematic review. <i>BMC Geriatrics</i>, <i>20</i>(1), 237. DOI: <a target="_blank" href="https://doi.org/10.1186/s12877-020-01564-1">10.1186/s12877-020-01564-1</a></p>
+
+<p id="DuteyMagni2021">Dutey-Magni, P. F., Gill, M. J., McNulty, D., Sohal, G., Hayward, A., & Shallcross, L. (2021). Feasibility study of hospital antimicrobial stewardship analytics using electronic health records. <i>JAC-Antimicrobial Resistance</i>, <i>3</i>(1). DOI: <a target="_blank" href="https://doi.org/10.1093/jacamr/dlab018">10.1093/jacamr/dlab018</a></p>
 
 <p id="McCall2019">McCall, B., Shallcross, L., Wilson, M., Fuller, C., &amp; Hayward, A. (2019). Storytelling as a research tool and intervention around public health perceptions and behaviour: a
 protocol for a systematic narrative review. <i>BMJ Open</i>, <i>9</i>(12),

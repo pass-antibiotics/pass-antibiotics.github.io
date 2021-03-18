@@ -207,7 +207,7 @@ to overcome barriers to improve prescribing.
 
 ## Electronic health records
 
-Using hospitals' routine electronic prescribing and laboratory records, we were able to measure many characteristics of antimicrobial stewardship:
+Using hospitals' routine electronic prescribing and laboratory records, we were able to measure many characteristics of antimicrobial stewardship ([Dutey-Magni *et al.* 2021](#DuteyMagni2021)):
 
 * length of antimicrobial therapy by type of infection
 * congruence of prescribing with prescribing guidelines: for instance, we found that only 22% of low-severity community-acquired pneumonia were initiated using the recommended drug choice. 
@@ -400,6 +400,8 @@ to Study their Impact. <i>Current Treatment Options in Infectious Diseases</i>, 
     and an objective evaluation of outcomes. <i>Virulence</i>, <i>4</i>(2),
     151–157. DOI: <a target="_blank" href="https://doi.org/10.4161/viru.21626">10.4161/viru.21626</a>
 </p>
+
+<p id="DuteyMagni2021">Dutey-Magni, P. F., Gill, M. J., McNulty, D., Sohal, G., Hayward, A., & Shallcross, L. (2021). Feasibility study of hospital antimicrobial stewardship analytics using electronic health records. <i>JAC-Antimicrobial Resistance</i>, <i>3</i>(1). DOI: <a target="_blank" href="https://doi.org/10.1093/jacamr/dlab018">10.1093/jacamr/dlab018</a></p>
 
 <p id="Fawcett2016">Fawcett, N. J., Jones, N., Quan, T. P., Mistry, V., Crook, D., Peto, T., &amp; Walker, A. S. (2016). 
     Antibiotic use and clinical outcomes in the acute setting under management by an infectious diseases acute physician versus
